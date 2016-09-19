@@ -1,0 +1,3149 @@
+<?xml version="1.0" ?>
+<dataroot>
+    <aspdir location="http://127.0.0.1/DalhousieUnivMedicine" />
+    <xmlwritedir location="C:\xmldata" />
+    <mdb name="2801.mdb" />
+    <error basemap="defaultmap.jpg">The requested map is not available.</error>
+    <infobox font="Arial" bold="true" italic="false" txtColor="000000" align="center" size="16" leading="2" leftMargin="10" rightMargin="10" topMargin="10" bottomMargin="10" graphicMargin="10" maxWidth="195" suiteLabel="Room" />
+    <colors>0000ff;00ff00;ff0000;0d568d</colors>
+    <paths width="6" color="0d568d">
+        <building name="Tupper Building">
+            <suite name="1B-01" basemap="Tupper-fp1.jpg" ibox="607,313">
+                <points>537,350;504,350;504,387</points>
+            </suite>
+            <suite name="1B-02" basemap="Tupper-fp1.jpg" ibox="607,313">
+                <points>537,350;504,350;504,448</points>
+            </suite>
+            <suite name="1B-03" basemap="Tupper-fp1.jpg" ibox="607,313">
+                <points>537,350;504,350;504,415;520,415</points>
+            </suite>
+            <suite name="1B-05" basemap="Tupper-fp1.jpg" ibox="660,237">
+                <points>586,342;586,298</points>
+            </suite>
+            <suite name="1C-02" basemap="Tupper-fp1.jpg" ibox="862,234">
+                <points>575,350;792,350;792,249</points>
+            </suite>
+            <suite name="1D-01" basemap="Tupper-fp1.jpg" ibox="897,407">
+                <points>580,354;812,354;828,364;896,364</points>
+            </suite>
+            <suite name="1D-02" basemap="Tupper-fp1.jpg" ibox="897,407">
+                <points>580,354;812,354;828,364;896,364</points>
+            </suite>
+            <suite name="1D-06" basemap="Tupper-fp1.jpg" ibox="897,407">
+                <points>580,354;812,354;828,364;896,364</points>
+            </suite>
+            <suite name="1D-05" basemap="Tupper-fp1.jpg" ibox="937,243">
+                <points>580,354;812,354;828,364;896,364</points>
+            </suite>
+            <suite name="1D-07" basemap="Tupper-fp1.jpg" ibox="992,538">
+                <points>580,354;812,354;828,364;963,364;963,589;941,589</points>
+            </suite>
+            <suite name="1D-10" basemap="Tupper-fp1.jpg" ibox="1007,548">
+                <points>580,354;812,354;828,364;963,364;963,589;975,686</points>
+            </suite>
+            <suite name="1D-08" basemap="Tupper-fp1.jpg" ibox="1007,530">
+                <points>580,354;812,354;828,364;963,364;963,589;1023,630</points>
+            </suite>
+            <suite name="2B-07" basemap="Tupper-fp2.jpg" ibox="1062,629">
+                <points>1084,386;926,386;926,542;939,584;1122,584</points>
+            </suite>
+            <suite name="2B-04" basemap="Tupper-fp2.jpg" ibox="1011,623">
+                <points>1084,386;926,386;926,542;958,597</points>
+            </suite>
+            <suite name="2B-01" basemap="Tupper-fp2.jpg" ibox="884,607">
+                <points>1084,386;926,386;926,542;940,578;838,578</points>
+            </suite>
+            <suite name="2B-03" basemap="Tupper-fp2.jpg" ibox="887,672">
+                <points>1084,386;926,386;926,542;940,578;807,622;807,646</points>
+            </suite>
+            <suite name="2B-09" basemap="Tupper-fp2.jpg" ibox="674,624">
+                <points>1084,386;926,386;926,542;938,590;636,590</points>
+            </suite>
+            <suite name="2B-08" basemap="Tupper-fp2.jpg" ibox="674,624">
+                <points>1084,386;926,386;926,542;938,590;674,590;674,616;644,616</points>
+            </suite>
+            <suite name="2C-03" basemap="Tupper-fp2.jpg" ibox="855,203">
+                <points>1081,381;930,381;900,351;809,351;809,229</points>
+            </suite>
+            <suite name="2C-01" basemap="Tupper-fp2.jpg" ibox="673,224">
+                <points>1081,381;930,381;900,351;809,351;616,351;616,233</points>
+            </suite>
+            <suite name="2A-04" basemap="Tupper-fp2.jpg" ibox="613,251">
+                <points>1081,381;930,381;900,351;809,351;616,351;542,289</points>
+            </suite>
+            <suite name="2A-04I" basemap="Tupper-fp2.jpg" ibox="434,274">
+                <points>1081,381;930,381;900,351;809,351;616,351;397,359;335,359;335,345</points>
+            </suite>
+            <suite name="2A-04A" basemap="Tupper-fp2.jpg" ibox="355,401">
+                <points>1081,381;930,381;900,351;809,351;616,351;397,359;306,359;306,394</points>
+            </suite>
+            <suite name="2A-04B" basemap="Tupper-fp2.jpg" ibox="310,408">
+                <points>1081,381;930,381;900,351;809,351;616,351;397,359;306,359;306,380;270,380;270,402</points>
+            </suite>
+            <suite name="2A-04C" basemap="Tupper-fp2.jpg" ibox="230,425">
+                <points>1081,381;930,381;900,351;809,351;616,351;397,359;306,359;306,380;270,380;161,380;161,396</points>
+            </suite>
+            <suite name="2A-04D" basemap="Tupper-fp2.jpg" ibox="166,424">
+                <points>1081,381;930,381;900,351;809,351;616,351;397,359;306,359;306,380;270,380;161,380;128,380;128,402</points>
+            </suite>
+            <suite name="2A-03" basemap="Tupper-fp2.jpg" ibox="204,416">
+                <points>1081,381;930,381;900,351;809,351;616,351;397,359;306,359;306,380;255,380;255,357</points>
+            </suite>
+            <suite name="2A-04J" basemap="Tupper-fp2.jpg" ibox="52,411">
+                <points>1081,381;930,381;900,351;809,351;616,351;397,359;306,359;306,380;194,380;194,360</points>
+            </suite>
+            <suite name="2A-04E" basemap="Tupper-fp2.jpg" ibox="39,309">
+                <points>1081,381;930,381;900,351;809,351;616,351;397,359;306,359;306,286;127,286;127,261</points>
+            </suite>
+            <suite name="2A-04G" basemap="Tupper-fp2.jpg" ibox="100,324">
+                <points>1081,381;930,381;900,351;809,351;616,351;397,359;306,359;306,286;273,286;273,270</points>
+            </suite>
+            <suite name="2A-04H" basemap="Tupper-fp2.jpg" ibox="100,324">
+                <points>1081,381;930,381;900,351;809,351;616,351;397,359;306,359;306,286;299,228</points>
+            </suite>
+            <suite name="3B-05" basemap="Tupper-fp3.jpg" ibox="201,440">
+                <points>614,399;614,372;288,372;288,412;209,412;209,398</points>
+            </suite>
+            <suite name="3B-04" basemap="Tupper-fp3.jpg" ibox="196,461">
+                <points>614,399;614,372;288,372;288,412;209,412;161,455;144,455</points>
+            </suite>
+            <suite name="3B-03" basemap="Tupper-fp3.jpg" ibox="196,461">
+                <points>614,399;614,372;288,372;288,412;209,412;153,480;134,480</points>
+            </suite>
+            <suite name="3B-02" basemap="Tupper-fp3.jpg" ibox="300,459">
+                <points>614,399;614,372;288,372;288,412;209,412;209,481;225,481</points>
+            </suite>
+            <suite name="3B-01" basemap="Tupper-fp3.jpg" ibox="288,439">
+                <points>614,399;614,372;288,372;288,412;226,412</points>
+            </suite>
+            <suite name="3A-01" basemap="Tupper-fp3.jpg" ibox="140,443">
+                <points>614,399;614,372;311,372;311,400</points>
+            </suite>
+            <suite name="3C-08" basemap="Tupper-fp3.jpg" ibox="183,398">
+                <points>614,399;614,372;288,372;288,312;311,312</points>
+            </suite>
+            <suite name="3C-05" basemap="Tupper-fp3.jpg" ibox="333,196">
+                <points>614,399;614,372;288,372;288,231</points>
+            </suite>
+            <suite name="3C-07" basemap="Tupper-fp3.jpg" ibox="405,234">
+                <points>614,399;614,372;288,372;288,247;330,247</points>
+            </suite>
+            <suite name="3C-06" basemap="Tupper-fp3.jpg" ibox="396,210">
+                <points>614,399;614,372;288,372;288,247;315,247;315,230</points>
+            </suite>
+            <suite name="3C-01" basemap="Tupper-fp3.jpg" ibox="304,255">
+                <points>614,399;614,372;288,372;288,323;244,323</points>
+            </suite>
+            <suite name="3C-02A" basemap="Tupper-fp3.jpg" ibox="35,370">
+                <points>614,399;614,372;288,372;288,323;176,323;160,338;142,338</points>
+            </suite>
+            <suite name="3C-02" basemap="Tupper-fp3.jpg" ibox="201,201">
+                <points>614,399;614,372;288,372;288,323;176,323;176,255;145,255</points>
+            </suite>
+            <suite name="3C-03" basemap="Tupper-fp3.jpg" ibox="197,192">
+                <points>614,399;614,372;288,372;288,323;176,323;176,197;139,197</points>
+            </suite>
+            <suite name="3C-04" basemap="Tupper-fp3.jpg" ibox="286,227">
+                <points>614,399;614,372;288,372;288,323;246,323;246,293</points>
+            </suite>
+            <suite name="3D-01" basemap="Tupper-fp3.jpg" ibox="480,268">
+                <points>614,399;614,372;427,372;427,345</points>
+            </suite>
+            <suite name="3D-02" basemap="Tupper-fp3.jpg" ibox="493,197">
+                <points>614,399;614,372;427,372;427,266;441,246;441,228</points>
+            </suite>
+            <suite name="3E-03" basemap="Tupper-fp3.jpg" ibox="616,255">
+                <points>614,399;614,372;518,372;518,257;560,257</points>
+            </suite>
+            <suite name="3E-02" basemap="Tupper-fp3.jpg" ibox="555,198">
+                <points>614,399;614,372;518,372;518,222;505,222</points>
+            </suite>
+            <suite name="3E-01" basemap="Tupper-fp3.jpg" ibox="741,279">
+                <points>614,399;614,372;699,372;699,339</points>
+            </suite>
+            <suite name="3G-01" basemap="Tupper-fp3.jpg" ibox="816,316">
+                <points>614,399;614,372;735,372;735,345</points>
+            </suite>
+            <suite name="3F-01" basemap="Tupper-fp3.jpg" ibox="723,266">
+                <points>614,399;614,372;698,372;698,330</points>
+            </suite>
+            <suite name="3F-03" basemap="Tupper-fp3.jpg" ibox="804,219">
+                <points>614,399;614,372;698,372;698,330;637,304;637,204;717,204</points>
+            </suite>
+            <suite name="3F-02" basemap="Tupper-fp3.jpg" ibox="409,251">
+                <points>614,399;614,372;698,372;698,330;637,304;637,204;605,204</points>
+            </suite>
+            <suite name="3H-01" basemap="Tupper-fp3.jpg" ibox="879,299">
+                <points>614,399;614,372;832,372;832,335</points>
+            </suite>
+            <suite name="3R-02" basemap="Tupper-fp3.jpg" ibox="957,448">
+                <points>614,399;614,372;832,372;934,372;934,480;912,480</points>
+            </suite>
+            <suite name="3R-03" basemap="Tupper-fp3.jpg" ibox="962,392">
+                <points>614,399;614,372;832,372;934,372;934,448;922,448</points>
+            </suite>
+            <suite name="3R-1" basemap="Tupper-fp3.jpg" ibox="962,392">
+                <points>614,399;614,372;832,372;934,372;934,448;944,471</points>
+            </suite>
+            <suite name="3R-04" basemap="Tupper-fp3.jpg" ibox="1069,423">
+                <points>614,399;614,372;832,372;934,372;1037,372;1037,399</points>
+            </suite>
+            <suite name="3J-01" basemap="Tupper-fp3.jpg" ibox="1118,287">
+                <points>614,399;614,372;832,372;934,372;1089,372;1089,339</points>
+            </suite>
+            <suite name="3J-05" basemap="Tupper-fp3.jpg" ibox="834,241">
+                <points>614,399;614,372;832,372;934,372;1089,372;1089,225;1069,225</points>
+            </suite>
+            <suite name="3J-02" basemap="Tupper-fp3.jpg" ibox="1179,206">
+                <points>614,399;614,372;832,372;934,372;1089,372;1089,225;1112,225</points>
+            </suite>
+            <suite name="3J-04" basemap="Tupper-fp3.jpg" ibox="1160,316">
+                <points>614,399;614,372;832,372;1122,372;1122,342</points>
+            </suite>
+            <suite name="3M" basemap="Tupper-fp3.jpg" ibox="1004,444">
+                <points>614,399;614,372;832,372;1174,372;1174,403</points>
+            </suite>
+            <suite name="3L" basemap="Tupper-fp3.jpg" ibox="1235,325">
+                <points>614,399;614,372;832,372;1174,372;1197,366;1197,326</points>
+            </suite>
+            <suite name="4E-07" basemap="Tupper-fp4.jpg" ibox="none">
+                <points>622,372;622,339</points>
+            </suite>
+            <suite name="4D-04" basemap="Tupper-fp4.jpg" ibox="397,262">
+                <points>614,393;614,366;354,366;354,278</points>
+            </suite>
+            <suite name="4D-01" basemap="Tupper-fp4.jpg" ibox="342,280">
+                <points>614,393;614,366;312,366;312,337</points>
+            </suite>
+            <suite name="4D-01A" basemap="Tupper-fp4.jpg" ibox="328,235">
+                <points>614,393;614,366;312,366;312,289;293,289</points>
+            </suite>
+            <suite name="4C-01" basemap="Tupper-fp4.jpg" ibox="244,267">
+                <points>614,393;614,366;213,366;213,340</points>
+            </suite>
+            <suite name="4C-02" basemap="Tupper-fp4.jpg" ibox="244,267">
+                <points>614,393;614,366;213,366;213,340</points>
+            </suite>
+            <suite name="4C-03" basemap="Tupper-fp4.jpg" ibox="244,267">
+                <points>614,393;614,366;213,366;213,340</points>
+            </suite>
+            <suite name="4C-04" basemap="Tupper-fp4.jpg" ibox="244,267">
+                <points>614,393;614,366;213,366;213,340</points>
+            </suite>
+            <suite name="4B-01" basemap="Tupper-fp4.jpg" ibox="245,400">
+                <points>614,393;614,366;238,366;205,372;197,372</points>
+            </suite>
+            <suite name="4B-03" basemap="Tupper-fp4.jpg" ibox="247,397">
+                <points>614,393;614,366;238,366;212,366;212,406</points>
+            </suite>
+            <suite name="4A-09" basemap="Tupper-fp4.jpg" ibox="247,397">
+                <points>614,393;614,366;238,366;212,366;212,414;142,414;113,399</points>
+            </suite>
+            <suite name="4A-08" basemap="Tupper-fp4.jpg" ibox="247,397">
+                <points>614,393;614,366;238,366;212,366;212,414;142,414;118,433</points>
+            </suite>
+            <suite name="4A-07" basemap="Tupper-fp4.jpg" ibox="247,397">
+                <points>614,393;614,366;238,366;212,366;212,414;212,488;115,488</points>
+            </suite>
+            <suite name="4A-03" basemap="Tupper-fp4.jpg" ibox="247,397">
+                <points>614,393;614,366;238,366;212,366;212,414</points>
+            </suite>
+            <suite name="4A-04" basemap="Tupper-fp4.jpg" ibox="328,395">
+                <points>614,393;614,366;238,366;212,366;212,454;286,454;286,467</points>
+            </suite>
+            <suite name="4A-02" basemap="Tupper-fp4.jpg" ibox="331,399">
+                <points>614,393;614,366;281,366;281,390</points>
+            </suite>
+            <suite name="4A-01" basemap="Tupper-fp4.jpg" ibox="408,421">
+                <points>614,393;614,366;345,366;345,398</points>
+            </suite>
+            <suite name="4A-05" basemap="Tupper-fp4.jpg" ibox="408,421">
+                <points>614,393;614,366;345,366;345,428;338,465</points>
+            </suite>
+            <suite name="4A-06" basemap="Tupper-fp4.jpg" ibox="408,421">
+                <points>614,393;614,366;345,366;345,428;338,465;357,487</points>
+            </suite>
+            <suite name="4E-01" basemap="Tupper-fp4.jpg" ibox="510,249">
+                <points>614,393;614,366;454,366;454,343</points>
+            </suite>
+            <suite name="4E-04" basemap="Tupper-fp4.jpg" ibox="643,262">
+                <points>614,393;614,366;575,366;575,341</points>
+            </suite>
+            <suite name="4E-06" basemap="Tupper-fp4.jpg" ibox="655,232">
+                <points>614,393;614,366;575,366;575,261;587,261</points>
+            </suite>
+            <suite name="4E-05" basemap="Tupper-fp4.jpg" ibox="655,193">
+                <points>614,393;614,366;575,366;575,261;575,222;591,222</points>
+            </suite>
+            <suite name="4F-01" basemap="Tupper-fp4.jpg" ibox="709,339">
+                <points>614,393;614,366;651,366;651,344</points>
+            </suite>
+            <suite name="4F-02" basemap="Tupper-fp4.jpg" ibox="685,250">
+                <points>614,393;614,366;651,366;651,344</points>
+            </suite>
+            <suite name="4G-01" basemap="Tupper-fp4.jpg" ibox="860,297">
+                <points>615,392;615,368;805,368;805,344</points>
+            </suite>
+            <suite name="4G-02" basemap="Tupper-fp4.jpg" ibox="866,235">
+                <points>615,392;615,368;805,368;805,260;821,228</points>
+            </suite>
+            <suite name="4G-04" basemap="Tupper-fp4.jpg" ibox="857,286">
+                <points>615,392;615,368;805,368;805,260;826,254</points>
+            </suite>
+            <suite name="4G-03" basemap="Tupper-fp4.jpg" ibox="923,268">
+                <points>615,392;615,368;805,368;888,368;888,347</points>
+            </suite>
+            <suite name="4H-02" basemap="Tupper-fp4.jpg" ibox="982,250">
+                <points>615,392;615,368;805,368;910,368;910,346</points>
+            </suite>
+            <suite name="4H-03" basemap="Tupper-fp4.jpg" ibox="982,250">
+                <points>615,392;615,368;805,368;910,368;910,346</points>
+            </suite>
+            <suite name="4P-01" basemap="Tupper-fp4.jpg" ibox="749,433">
+                <points>615,392;615,368;805,368;959,368;959,397</points>
+            </suite>
+            <suite name="4P-03" basemap="Tupper-fp4.jpg" ibox="689,411">
+                <points>615,392;615,368;805,368;959,368;959,437;943,437</points>
+            </suite>
+            <suite name="4J-02" basemap="Tupper-fp4.jpg" ibox="1095,265">
+                <points>615,392;615,368;805,368;959,368;1059,368;1059,342</points>
+            </suite>
+            <suite name="4J-01" basemap="Tupper-fp4.jpg" ibox="1095,265">
+                <points>615,392;615,368;805,368;959,368;1059,368;1059,342</points>
+            </suite>
+            <suite name="4J-03" basemap="Tupper-fp4.jpg" ibox="1095,265">
+                <points>615,392;615,368;805,368;959,368;1059,368;1059,342</points>
+            </suite>
+            <suite name="4L-01" basemap="Tupper-fp4.jpg" ibox="958,257">
+                <points>615,392;615,368;1198,368;1198,343</points>
+            </suite>
+            <suite name="4L-05" basemap="Tupper-fp4.jpg" ibox="1099,193">
+                <points>615,392;615,368;1198,368;1198,285;1255,285</points>
+            </suite>
+            <suite name="4L-04" basemap="Tupper-fp4.jpg" ibox="1230,285">
+                <points>615,392;615,368;1198,368;1198,270;1207,257</points>
+            </suite>
+            <suite name="4L-03" basemap="Tupper-fp4.jpg" ibox="1230,285">
+                <points>615,392;615,368;1198,368;1198,270;1176,249</points>
+            </suite>
+            <suite name="4L-02" basemap="Tupper-fp4.jpg" ibox="1222,197">
+                <points>615,392;615,368;1198,368;1198,270;1151,248</points>
+            </suite>
+            <suite name="4M-04" basemap="Tupper-fp4.jpg" ibox="970,432">
+                <points>615,392;615,368;1173,368;1173,389</points>
+            </suite>
+            <suite name="4N-01" basemap="Tupper-fp4.jpg" ibox="1162,394">
+                <points>615,392;615,368;1136,368;1136,405</points>
+            </suite>
+            <suite name="4M-01" basemap="Tupper-fp4.jpg" ibox="1057,428">
+                <points>615,392;615,368;1269,368;1269,399</points>
+            </suite>
+            <suite name="4M-03" basemap="Tupper-fp4.jpg" ibox="1061,417">
+                <points>615,392;615,368;1269,368;1269,399</points>
+            </suite>
+            <suite name="4N-02" basemap="Tupper-fp4.jpg" ibox="1162,394">
+                <points>615,392;615,368;1136,368;1136,471;1148,471</points>
+            </suite>
+            <suite name="5E-01" basemap="Tupper-fp5.jpg" ibox="379,235">
+                <points>610,399;610,341</points>
+            </suite>
+            <suite name="5E-02" basemap="Tupper-fp5.jpg" ibox="379,235">
+                <points>610,399;610,341</points>
+            </suite>
+            <suite name="5E-03" basemap="Tupper-fp5.jpg" ibox="379,235">
+                <points>610,399;610,341</points>
+            </suite>
+            <suite name="5E-04" basemap="Tupper-fp5.jpg" ibox="379,235">
+                <points>610,399;610,341</points>
+            </suite>
+            <suite name="5D-02" basemap="Tupper-fp5.jpg" ibox="527,240">
+                <points>611,394;611,367;453,367;453,345</points>
+            </suite>
+            <suite name="5D-03" basemap="Tupper-fp5.jpg" ibox="527,240">
+                <points>611,394;611,367;453,367;453,345</points>
+            </suite>
+            <suite name="5D-04" basemap="Tupper-fp5.jpg" ibox="527,240">
+                <points>611,394;611,367;453,367;453,345</points>
+            </suite>
+            <suite name="5D-05" basemap="Tupper-fp5.jpg" ibox="527,240">
+                <points>611,394;611,367;453,367;453,345</points>
+            </suite>
+            <suite name="5C-01" basemap="Tupper-fp5.jpg" ibox="64,302">
+                <points>611,394;611,367;289,367;289,326</points>
+            </suite>
+            <suite name="5C-05" basemap="Tupper-fp5.jpg" ibox="64,302">
+                <points>611,394;611,367;289,367;289,326</points>
+            </suite>
+            <suite name="5C-04" basemap="Tupper-fp5.jpg" ibox="74,370">
+                <points>611,394;611,367;289,367;289,326;155,326;125,308;117,308</points>
+            </suite>
+            <suite name="5C-03" basemap="Tupper-fp5.jpg" ibox="169,191">
+                <points>611,394;611,367;289,367;289,326;138,326;138,226;119,226</points>
+            </suite>
+            <suite name="5B-01" basemap="Tupper-fp5.jpg" ibox="247,425">
+                <points>611,394;611,367;288,367;258,377;155,377;155,397</points>
+            </suite>
+            <suite name="5B-04" basemap="Tupper-fp5.jpg" ibox="247,425">
+                <points>611,394;611,367;288,367;258,377;155,377;148,394</points>
+            </suite>
+            <suite name="5B-03" basemap="Tupper-fp5.jpg" ibox="247,425">
+                <points>611,394;611,367;288,367;258,377;155,377;148,394</points>
+            </suite>
+            <suite name="5B-02" basemap="Tupper-fp5.jpg" ibox="247,425">
+                <points>611,394;611,367;288,367;258,377;155,377;148,394</points>
+            </suite>
+            <suite name="5A-01" basemap="Tupper-fp5.jpg" ibox="421,394">
+                <points>611,394;611,367;342,367;342,384</points>
+            </suite>
+            <suite name="5A-02" basemap="Tupper-fp5.jpg" ibox="421,394">
+                <points>611,394;611,367;342,367;342,384</points>
+            </suite>
+            <suite name="5A-03" basemap="Tupper-fp5.jpg" ibox="421,394">
+                <points>611,394;611,367;342,367;342,384</points>
+            </suite>
+            <suite name="5A-05" basemap="Tupper-fp5.jpg" ibox="421,394">
+                <points>611,394;611,367;342,367;342,384</points>
+            </suite>
+            <suite name="5A-06" basemap="Tupper-fp5.jpg" ibox="421,394">
+                <points>611,394;611,367;342,367;342,384</points>
+            </suite>
+            <suite name="5F-01" basemap="Tupper-fp5.jpg" ibox="805,225">
+                <points>611,394;611,367;804,367;804,333</points>
+            </suite>
+            <suite name="5F-02" basemap="Tupper-fp5.jpg" ibox="805,225">
+                <points>611,394;611,367;804,367;804,333</points>
+            </suite>
+            <suite name="5N-01" basemap="Tupper-fp5.jpg" ibox="967,422">
+                <points>611,394;611,367;918,367;918,404</points>
+            </suite>
+            <suite name="5G-01" basemap="Tupper-fp5.jpg" ibox="1016,240">
+                <points>611,394;611,367;1001,367;1001,332</points>
+            </suite>
+            <suite name="5G-02" basemap="Tupper-fp5.jpg" ibox="1016,240">
+                <points>611,394;611,367;1001,367;1001,332</points>
+            </suite>
+            <suite name="5G-03" basemap="Tupper-fp5.jpg" ibox="1016,240">
+                <points>611,394;611,367;1001,367;1001,332</points>
+            </suite>
+            <suite name="5G-04" basemap="Tupper-fp5.jpg" ibox="1016,240">
+                <points>611,394;611,367;1001,367;1001,332</points>
+            </suite>
+            <suite name="5G-05" basemap="Tupper-fp5.jpg" ibox="1016,240">
+                <points>611,394;611,367;1001,367;1001,332</points>
+            </suite>
+            <suite name="5M-01" basemap="Tupper-fp5.jpg" ibox="1050,421">
+                <points>611,394;611,367;1006,367;1006,395</points>
+            </suite>
+            <suite name="5L-01" basemap="Tupper-fp5.jpg" ibox="813,411">
+                <points>611,394;611,367;1032,367;1032,410</points>
+            </suite>
+            <suite name="5L-02" basemap="Tupper-fp5.jpg" ibox="813,411">
+                <points>611,394;611,367;1032,367;1032,410</points>
+            </suite>
+            <suite name="5L-03" basemap="Tupper-fp5.jpg" ibox="813,411">
+                <points>611,394;611,367;1032,367;1032,410</points>
+            </suite>
+            <suite name="5L-04" basemap="Tupper-fp5.jpg" ibox="813,411">
+                <points>611,394;611,367;1032,367;1032,410</points>
+            </suite>
+            <suite name="5J-01" basemap="Tupper-fp5.jpg" ibox="832,262">
+                <points>611,394;611,367;1063,367;1063,331</points>
+            </suite>
+            <suite name="5J-11" basemap="Tupper-fp5.jpg" ibox="832,262">
+                <points>611,394;611,367;1063,367;1063,331</points>
+            </suite>
+            <suite name="5J-02" basemap="Tupper-fp5.jpg" ibox="820,200">
+                <points>611,394;611,367;1063,367;1063,241</points>
+            </suite>
+            <suite name="5J-03" basemap="Tupper-fp5.jpg" ibox="820,200">
+                <points>611,394;611,367;1063,367;1063,241;1084,241</points>
+            </suite>
+            <suite name="5J-04" basemap="Tupper-fp5.jpg" ibox="820,200">
+                <points>611,394;611,367;1063,367;1063,241;1084,241</points>
+            </suite>
+            <suite name="5J-10" basemap="Tupper-fp5.jpg" ibox="1089,327">
+                <points>611,394;611,367;1063,367;1063,241;1154,241;1154,254</points>
+            </suite>
+            <suite name="5J-05" basemap="Tupper-fp5.jpg" ibox="1138,279">
+                <points>611,394;611,367;1063,367;1063,243;1199,243</points>
+            </suite>
+            <suite name="5J-09" basemap="Tupper-fp5.jpg" ibox="1133,338">
+                <points>611,394;611,367;1063,367;1063,243;1199,243</points>
+            </suite>
+            <suite name="5J-06" basemap="Tupper-fp5.jpg" ibox="1188,290">
+                <points>611,394;611,367;1063,367;1063,243;1199,243</points>
+            </suite>
+            <suite name="5J-08" basemap="Tupper-fp5.jpg" ibox="1135,331">
+                <points>611,394;611,367;1063,367;1063,243;1199,243</points>
+            </suite>
+            <suite name="5J-07" basemap="Tupper-fp5.jpg" ibox="1135,331">
+                <points>611,394;611,367;1063,367;1063,243;1199,243</points>
+            </suite>
+            <suite name="5K-01" basemap="Tupper-fp5.jpg" ibox="999,405">
+                <points>611,394;611,367;1185,367</points>
+            </suite>
+            <suite name="5K-02" basemap="Tupper-fp5.jpg" ibox="999,405">
+                <points>611,394;611,367;1185,367</points>
+            </suite>
+            <suite name="5K-03" basemap="Tupper-fp5.jpg" ibox="999,405">
+                <points>611,394;611,367;1185,367</points>
+            </suite>
+            <suite name="5K-04" basemap="Tupper-fp5.jpg" ibox="999,405">
+                <points>611,394;611,367;1185,367</points>
+            </suite>
+            <suite name="6E-01" basemap="Tupper-fp6.jpg" ibox="288,238">
+                <points>614,395;614,368;522,368;522,336</points>
+            </suite>
+            <suite name="6E-02" basemap="Tupper-fp6.jpg" ibox="288,238">
+                <points>614,395;614,368;522,368;522,336</points>
+            </suite>
+            <suite name="6E-03" basemap="Tupper-fp6.jpg" ibox="288,238">
+                <points>614,395;614,368;522,368;522,336</points>
+            </suite>
+            <suite name="6E-04" basemap="Tupper-fp6.jpg" ibox="288,238">
+                <points>614,395;614,368;522,368;522,336</points>
+            </suite>
+            <suite name="6D-04" basemap="Tupper-fp6.jpg" ibox="414,240">
+                <points>614,395;614,368;347,368;347,338</points>
+            </suite>
+            <suite name="6D-03" basemap="Tupper-fp6.jpg" ibox="414,240">
+                <points>614,395;614,368;347,368;347,338</points>
+            </suite>
+            <suite name="6D-02" basemap="Tupper-fp6.jpg" ibox="414,240">
+                <points>614,395;614,368;347,368;347,338</points>
+            </suite>
+            <suite name="6D-01" basemap="Tupper-fp6.jpg" ibox="414,240">
+                <points>614,395;614,368;347,368;347,338</points>
+            </suite>
+            <suite name="6C-02" basemap="Tupper-fp6.jpg" ibox="250,242">
+                <points>614,395;614,368;232,368;232,333</points>
+            </suite>
+            <suite name="6C-03" basemap="Tupper-fp6.jpg" ibox="250,242">
+                <points>614,395;614,368;232,368;232,333</points>
+            </suite>
+            <suite name="6B-03" basemap="Tupper-fp6.jpg" ibox="250,242">
+                <points>614,395;614,368;231,368;198,378;179,378</points>
+            </suite>
+            <suite name="6B-04" basemap="Tupper-fp6.jpg" ibox="250,242">
+                <points>614,395;614,368;231,368;198,378;179,378</points>
+            </suite>
+            <suite name="6B-02" basemap="Tupper-fp6.jpg" ibox="248,437">
+                <points>614,395;614,368;231,368;198,378;179,378;161,428;161,455</points>
+            </suite>
+            <suite name="6B-01" basemap="Tupper-fp6.jpg" ibox="271,416">
+                <points>614,395;614,368;237,368;237,407</points>
+            </suite>
+            <suite name="6A-01" basemap="Tupper-fp6.jpg" ibox="413,422">
+                <points>614,395;614,368;329,368;329,405</points>
+            </suite>
+            <suite name="6A-02" basemap="Tupper-fp6.jpg" ibox="413,422">
+                <points>614,395;614,368;329,368;329,405</points>
+            </suite>
+            <suite name="6A-03" basemap="Tupper-fp6.jpg" ibox="413,422">
+                <points>614,395;614,368;329,368;329,405</points>
+            </suite>
+            <suite name="6F-01" basemap="Tupper-fp6.jpg" ibox="768,240">
+                <points>614,395;614,368;778,368;778,332</points>
+            </suite>
+            <suite name="6F-02" basemap="Tupper-fp6.jpg" ibox="768,240">
+                <points>614,395;614,368;778,368;778,332</points>
+            </suite>
+            <suite name="6F-03" basemap="Tupper-fp6.jpg" ibox="768,240">
+                <points>614,395;614,368;778,368;778,332</points>
+            </suite>
+            <suite name="6F-04" basemap="Tupper-fp6.jpg" ibox="768,240">
+                <points>614,395;614,368;778,368;778,332</points>
+            </suite>
+            <suite name="6F-05" basemap="Tupper-fp6.jpg" ibox="857,310">
+                <points>614,395;614,368;806,368;806,344</points>
+            </suite>
+            <suite name="6G-01" basemap="Tupper-fp6.jpg" ibox="938,303">
+                <points>614,395;614,368;887,368;887,346</points>
+            </suite>
+            <suite name="6G-02" basemap="Tupper-fp6.jpg" ibox="938,303">
+                <points>614,395;614,368;887,368;887,346</points>
+            </suite>
+            <suite name="6G-03" basemap="Tupper-fp6.jpg" ibox="938,303">
+                <points>614,395;614,368;887,368;887,346</points>
+            </suite>
+            <suite name="6G-04" basemap="Tupper-fp6.jpg" ibox="938,303">
+                <points>614,395;614,368;887,368;887,346</points>
+            </suite>
+            <suite name="6G-05" basemap="Tupper-fp6.jpg" ibox="938,303">
+                <points>614,395;614,368;887,368;887,346</points>
+            </suite>
+            <suite name="6P-03" basemap="Tupper-fp6.jpg" ibox="690,423">
+                <points>614,395;614,368;894,368;894,398</points>
+            </suite>
+            <suite name="6P-01" basemap="Tupper-fp6.jpg" ibox="690,423">
+                <points>614,395;614,368;894,368;956,368;956,397</points>
+            </suite>
+            <suite name="6P-02" basemap="Tupper-fp6.jpg" ibox="690,423">
+                <points>614,395;614,368;894,368;956,368;956,397</points>
+            </suite>
+            <suite name="6Q-02" basemap="Tupper-fp6.jpg" ibox="952,445">
+                <points>614,395;614,368;849,368;849,434;867,434</points>
+            </suite>
+            <suite name="6Q-01" basemap="Tupper-fp6.jpg" ibox="952,445">
+                <points>614,395;614,368;849,368;849,434;867,434</points>
+            </suite>
+            <suite name="6H-01" basemap="Tupper-fp6.jpg" ibox="781,234">
+                <points>614,395;614,368;1003,368;1003,329</points>
+            </suite>
+            <suite name="6H-03" basemap="Tupper-fp6.jpg" ibox="1108,224">
+                <points>614,395;614,368;1003,368;1003,329</points>
+            </suite>
+            <suite name="6H-02" basemap="Tupper-fp6.jpg" ibox="1108,224">
+                <points>614,395;614,368;1003,368;1003,329</points>
+            </suite>
+            <suite name="6J-01" basemap="Tupper-fp6.jpg" ibox="1111,308">
+                <points>614,395;614,368;1065,368;1065,346</points>
+            </suite>
+            <suite name="6K-01" basemap="Tupper-fp6.jpg" ibox="1180,245">
+                <points>614,395;614,368;1142,368;1142,342</points>
+            </suite>
+            <suite name="6O-01" basemap="Tupper-fp6.jpg" ibox="912,433">
+                <points>614,395;614,368;1158,368;1158,406</points>
+            </suite>
+            <suite name="6N-01" basemap="Tupper-fp6.jpg" ibox="1041,432">
+                <points>614,395;614,368;1245,368;1245,399</points>
+            </suite>
+            <suite name="6N-02" basemap="Tupper-fp6.jpg" ibox="1041,432">
+                <points>614,395;614,368;1245,368;1245,399</points>
+            </suite>
+            <suite name="6L-01" basemap="Tupper-fp6.jpg" ibox="1034,256">
+                <points>614,395;614,368;1272,368;1272,341</points>
+            </suite>
+            <suite name="6M-01" basemap="Tupper-fp6.jpg" ibox="1122,400">
+                <points>614,395;614,368;1288,368;1302,377;1311,377</points>
+            </suite>
+            <suite name="6M-02" basemap="Tupper-fp6.jpg" ibox="1122,400">
+                <points>614,395;614,368;1288,368;1302,377;1311,377</points>
+            </suite>
+            <suite name="7G-01" basemap="Tupper-fp7.jpg" ibox="642,366">
+                <points>612,393;612,362;597,362;597,326</points>
+            </suite>
+            <suite name="7G" basemap="Tupper-fp7.jpg" ibox="642,366">
+                <points>612,393;612,362;597,362;597,326</points>
+            </suite>
+            <suite name="7G-03" basemap="Tupper-fp7.jpg" ibox="642,366">
+                <points>612,393;612,362;597,362;597,326</points>
+            </suite>
+            <suite name="7G-04" basemap="Tupper-fp7.jpg" ibox="692,300">
+                <points>612,393;612,362;597,362;597,316;708,248</points>
+            </suite>
+            <suite name="7G-05" basemap="Tupper-fp7.jpg" ibox="692,300">
+                <points>612,393;612,362;597,362;597,316;708,248</points>
+            </suite>
+            <suite name="7H-01" basemap="Tupper-fp7.jpg" ibox="738,344">
+                <points>612,393;612,362;695,362;695,277;733,277</points>
+            </suite>
+            <suite name="7H" basemap="Tupper-fp7.jpg" ibox="738,344">
+                <points>612,393;612,362;695,362;695,277;733,277</points>
+            </suite>
+            <suite name="7F" basemap="Tupper-fp7.jpg" ibox="288,384">
+                <points>612,393;612,362;458,362;458,331</points>
+            </suite>
+            <suite name="7F-01" basemap="Tupper-fp7.jpg" ibox="288,384">
+                <points>612,393;612,362;458,362;458,331</points>
+            </suite>
+            <suite name="7F-03" basemap="Tupper-fp7.jpg" ibox="288,384">
+                <points>612,393;612,362;458,362;458,331</points>
+            </suite>
+            <suite name="7F-04" basemap="Tupper-fp7.jpg" ibox="288,384">
+                <points>612,393;612,362;458,362;458,331</points>
+            </suite>
+            <suite name="7F-02" basemap="Tupper-fp7.jpg" ibox="288,384">
+                <points>612,393;612,362;458,362;458,331</points>
+            </suite>
+            <suite name="7D" basemap="Tupper-fp7.jpg" ibox="336,244">
+                <points>612,393;612,362;300,362;300,343</points>
+            </suite>
+            <suite name="7D-01" basemap="Tupper-fp7.jpg" ibox="336,244">
+                <points>612,393;612,362;300,362;300,343</points>
+            </suite>
+            <suite name="7D-02" basemap="Tupper-fp7.jpg" ibox="336,244">
+                <points>612,393;612,362;300,362;300,343</points>
+            </suite>
+            <suite name="7D-03" basemap="Tupper-fp7.jpg" ibox="336,244">
+                <points>612,393;612,362;300,362;300,343</points>
+            </suite>
+            <suite name="7D-04" basemap="Tupper-fp7.jpg" ibox="336,244">
+                <points>612,393;612,362;300,362;300,343</points>
+            </suite>
+            <suite name="7C" basemap="Tupper-fp7.jpg" ibox="267,408">
+                <points>585,394;585,369;254,369</points>
+            </suite>
+            <suite name="7C-01" basemap="Tupper-fp7.jpg" ibox="267,408">
+                <points>585,394;585,369;254,369</points>
+            </suite>
+            <suite name="7C-05" basemap="Tupper-fp7.jpg" ibox="267,408">
+                <points>585,394;585,369;254,369</points>
+            </suite>
+            <suite name="7C-04" basemap="Tupper-fp7.jpg" ibox="267,408">
+                <points>585,394;585,369;254,369</points>
+            </suite>
+            <suite name="7C-03" basemap="Tupper-fp7.jpg" ibox="267,408">
+                <points>585,394;585,369;254,369</points>
+            </suite>
+            <suite name="7C-02" basemap="Tupper-fp7.jpg" ibox="267,408">
+                <points>585,394;585,369;254,369</points>
+            </suite>
+            <suite name="7B" basemap="Tupper-fp7.jpg" ibox="88,415">
+                <points>585,394;585,369;327,369;327,407</points>
+            </suite>
+            <suite name="7B-01" basemap="Tupper-fp7.jpg" ibox="88,415">
+                <points>585,394;585,369;327,369;327,407</points>
+            </suite>
+            <suite name="7B-02" basemap="Tupper-fp7.jpg" ibox="88,415">
+                <points>585,394;585,369;327,369;327,407</points>
+            </suite>
+            <suite name="7A" basemap="Tupper-fp7.jpg" ibox="179,424">
+                <points>585,394;585,369;381,369;381,392</points>
+            </suite>
+            <suite name="7A-01" basemap="Tupper-fp7.jpg" ibox="179,424">
+                <points>585,394;585,369;381,369;381,392</points>
+            </suite>
+            <suite name="7H-02" basemap="Tupper-fp7.jpg" ibox="875,277">
+                <points>645,395;645,370;810,370;810,345</points>
+            </suite>
+            <suite name="7K" basemap="Tupper-fp7.jpg" ibox="949,233">
+                <points>645,395;645,370;889,370;889,339</points>
+            </suite>
+            <suite name="7K-01" basemap="Tupper-fp7.jpg" ibox="949,233">
+                <points>645,395;645,370;889,370;889,339</points>
+            </suite>
+            <suite name="7K-03" basemap="Tupper-fp7.jpg" ibox="949,233">
+                <points>645,395;645,370;889,370;889,339</points>
+            </suite>
+            <suite name="7K-02" basemap="Tupper-fp7.jpg" ibox="949,233">
+                <points>645,395;645,370;889,370;889,339</points>
+            </suite>
+            <suite name="7K-04" basemap="Tupper-fp7.jpg" ibox="1014,244">
+                <points>645,395;645,370;889,370;889,339</points>
+            </suite>
+            <suite name="7K-05" basemap="Tupper-fp7.jpg" ibox="1014,244">
+                <points>645,395;645,370;889,370;889,339</points>
+            </suite>
+            <suite name="7L" basemap="Tupper-fp7.jpg" ibox="767,251">
+                <points>645,395;645,370;986,370;986,338</points>
+            </suite>
+            <suite name="7L-01" basemap="Tupper-fp7.jpg" ibox="767,251">
+                <points>645,395;645,370;986,370;986,338</points>
+            </suite>
+            <suite name="7S-01" basemap="Tupper-fp7.jpg" ibox="815,432">
+                <points>645,395;645,370;1026,370;1026,397</points>
+            </suite>
+            <suite name="7S" basemap="Tupper-fp7.jpg" ibox="815,432">
+                <points>645,395;645,370;1026,370;1026,397</points>
+            </suite>
+            <suite name="7S-02" basemap="Tupper-fp7.jpg" ibox="1057,360">
+                <points>645,395;645,370;1026,370;1026,397</points>
+            </suite>
+            <suite name="7S-03" basemap="Tupper-fp7.jpg" ibox="1057,360">
+                <points>645,395;645,370;1026,370;1026,397</points>
+            </suite>
+            <suite name="7S-04" basemap="Tupper-fp7.jpg" ibox="1057,360">
+                <points>645,395;645,370;1026,370;1026,397</points>
+            </suite>
+            <suite name="7S-05" basemap="Tupper-fp7.jpg" ibox="1057,360">
+                <points>645,395;645,370;1026,370;1026,397</points>
+            </suite>
+            <suite name="7S-06" basemap="Tupper-fp7.jpg" ibox="1057,360">
+                <points>645,395;645,370;1026,370;1026,397</points>
+            </suite>
+            <suite name="7S-07" basemap="Tupper-fp7.jpg" ibox="1057,360">
+                <points>645,395;645,370;1026,370;1026,397</points>
+            </suite>
+            <suite name="7M" basemap="Tupper-fp7.jpg" ibox="1149,253">
+                <points>645,395;645,370;1108,370;1108,340</points>
+            </suite>
+            <suite name="7M-01" basemap="Tupper-fp7.jpg" ibox="1149,253">
+                <points>645,395;645,370;1108,370;1108,340</points>
+            </suite>
+            <suite name="7R" basemap="Tupper-fp7.jpg" ibox="913,419">
+                <points>645,395;645,370;1131,370;1131,394</points>
+            </suite>
+            <suite name="7R-01" basemap="Tupper-fp7.jpg" ibox="913,419">
+                <points>645,395;645,370;1131,370;1131,394</points>
+            </suite>
+            <suite name="7P" basemap="Tupper-fp7.jpg" ibox="1011,249">
+                <points>645,395;645,370;1184,370</points>
+            </suite>
+            <suite name="7P-01" basemap="Tupper-fp7.jpg" ibox="1011,249">
+                <points>645,395;645,370;1184,370</points>
+            </suite>
+            <suite name="7P-02" basemap="Tupper-fp7.jpg" ibox="1011,249">
+                <points>645,395;645,370;1184,370</points>
+            </suite>
+            <suite name="7P-03" basemap="Tupper-fp7.jpg" ibox="1011,249">
+                <points>645,395;645,370;1184,370</points>
+            </suite>
+            <suite name="7P-04" basemap="Tupper-fp7.jpg" ibox="1011,249">
+                <points>645,395;645,370;1184,370</points>
+            </suite>
+            <suite name="7P-05" basemap="Tupper-fp7.jpg" ibox="1011,249">
+                <points>645,395;645,370;1184,370</points>
+            </suite>
+            <suite name="7P-06" basemap="Tupper-fp7.jpg" ibox="1011,249">
+                <points>645,395;645,370;1184,370</points>
+            </suite>
+            <suite name="8G" basemap="Tupper-fp8.jpg" ibox="750,281">
+                <points>656,394;656,329</points>
+            </suite>
+            <suite name="8G-01" basemap="Tupper-fp8.jpg" ibox="750,281">
+                <points>656,394;656,329</points>
+            </suite>
+            <suite name="8F" basemap="Tupper-fp8.jpg" ibox="569,274">
+                <points>656,392;656,370;509,370;509,342</points>
+            </suite>
+            <suite name="8F-01" basemap="Tupper-fp8.jpg" ibox="569,274">
+                <points>656,392;656,370;509,370;509,342</points>
+            </suite>
+            <suite name="8F-02" basemap="Tupper-fp8.jpg" ibox="291,241">
+                <points>656,392;656,370;509,370;509,342</points>
+            </suite>
+            <suite name="8F-03" basemap="Tupper-fp8.jpg" ibox="291,241">
+                <points>656,392;656,370;509,370;509,342</points>
+            </suite>
+            <suite name="8F-04" basemap="Tupper-fp8.jpg" ibox="291,241">
+                <points>656,392;656,370;509,370;509,342</points>
+            </suite>
+            <suite name="8D" basemap="Tupper-fp8.jpg" ibox="442,247">
+                <points>656,392;656,370;356,370;356,341</points>
+            </suite>
+            <suite name="8D-01" basemap="Tupper-fp8.jpg" ibox="442,247">
+                <points>656,392;656,370;356,370;356,341</points>
+            </suite>
+            <suite name="8D-02" basemap="Tupper-fp8.jpg" ibox="442,247">
+                <points>656,392;656,370;356,370;356,341</points>
+            </suite>
+            <suite name="8C-03" basemap="Tupper-fp8.jpg" ibox="353,274">
+                <points>656,392;656,370;306,370;306,356</points>
+            </suite>
+            <suite name="8C" basemap="Tupper-fp8.jpg" ibox="352,248">
+                <points>656,392;656,370;233,370;233,347</points>
+            </suite>
+            <suite name="8C-01" basemap="Tupper-fp8.jpg" ibox="352,248">
+                <points>656,392;656,370;233,370;233,347</points>
+            </suite>
+            <suite name="8C-02" basemap="Tupper-fp8.jpg" ibox="352,248">
+                <points>656,392;656,370;233,370;233,347</points>
+            </suite>
+            <suite name="8B" basemap="Tupper-fp8.jpg" ibox="268,432">
+                <points>656,392;656,370;215,370</points>
+            </suite>
+            <suite name="8B-01" basemap="Tupper-fp8.jpg" ibox="268,432">
+                <points>656,392;656,370;215,370</points>
+            </suite>
+            <suite name="8B-04" basemap="Tupper-fp8.jpg" ibox="268,432">
+                <points>656,392;656,370;215,370</points>
+            </suite>
+            <suite name="8A" basemap="Tupper-fp8.jpg" ibox="112,433">
+                <points>656,392;656,370;344,370;344,405</points>
+            </suite>
+            <suite name="8A-01" basemap="Tupper-fp8.jpg" ibox="112,433">
+                <points>656,392;656,370;344,370;344,405</points>
+            </suite>
+            <suite name="8A-02" basemap="Tupper-fp8.jpg" ibox="112,433">
+                <points>656,392;656,370;344,370;344,405</points>
+            </suite>
+            <suite name="8A-03" basemap="Tupper-fp8.jpg" ibox="112,433">
+                <points>656,392;656,370;344,370;344,405</points>
+            </suite>
+            <suite name="8H-02" basemap="Tupper-fp8.jpg" ibox="836,296">
+                <points>656,392;656,370;793,370;793,355</points>
+            </suite>
+            <suite name="8H" basemap="Tupper-fp8.jpg" ibox="604,215">
+                <points>656,392;656,370;836,370;836,333</points>
+            </suite>
+            <suite name="8H-01" basemap="Tupper-fp8.jpg" ibox="604,215">
+                <points>656,392;656,370;836,370;836,333</points>
+            </suite>
+            <suite name="8H-03" basemap="Tupper-fp8.jpg" ibox="604,215">
+                <points>656,392;656,370;836,370;836,333</points>
+            </suite>
+            <suite name="8J-02" basemap="Tupper-fp8.jpg" ibox="1092,425">
+                <points>656,392;656,370;973,370;973,400</points>
+            </suite>
+            <suite name="8J-03" basemap="Tupper-fp8.jpg" ibox="1092,425">
+                <points>656,392;656,370;973,370;973,400</points>
+            </suite>
+            <suite name="8J-04" basemap="Tupper-fp8.jpg" ibox="1092,425">
+                <points>656,392;656,370;973,370;973,400</points>
+            </suite>
+            <suite name="8J" basemap="Tupper-fp8.jpg" ibox="1127,255">
+                <points>656,392;656,370;973,370;1016,337</points>
+            </suite>
+            <suite name="8J-01" basemap="Tupper-fp8.jpg" ibox="1127,255">
+                <points>656,392;656,370;973,370;1016,337</points>
+            </suite>
+            <suite name="9F" basemap="Tupper-fp9.jpg" ibox="642,247">
+                <points>594,396;594,330</points>
+            </suite>
+            <suite name="9F-01" basemap="Tupper-fp9.jpg" ibox="642,247">
+                <points>594,396;594,330</points>
+            </suite>
+            <suite name="9F-02" basemap="Tupper-fp9.jpg" ibox="642,247">
+                <points>594,396;594,330</points>
+            </suite>
+            <suite name="9F-03" basemap="Tupper-fp9.jpg" ibox="642,247">
+                <points>594,396;594,330</points>
+            </suite>
+            <suite name="9E" basemap="Tupper-fp9.jpg" ibox="557,265">
+                <points>588,397;588,371;511,371;511,343</points>
+            </suite>
+            <suite name="9E-01" basemap="Tupper-fp9.jpg" ibox="557,265">
+                <points>588,397;588,371;511,371;511,343</points>
+            </suite>
+            <suite name="9D" basemap="Tupper-fp9.jpg" ibox="483,236">
+                <points>588,397;588,371;469,371;469,341</points>
+            </suite>
+            <suite name="9D-01" basemap="Tupper-fp9.jpg" ibox="483,236">
+                <points>588,397;588,371;469,371;469,341</points>
+            </suite>
+            <suite name="9D-02" basemap="Tupper-fp9.jpg" ibox="483,236">
+                <points>588,397;588,371;469,371;469,341</points>
+            </suite>
+            <suite name="9D-03" basemap="Tupper-fp9.jpg" ibox="483,236">
+                <points>588,397;588,371;469,371;469,341</points>
+            </suite>
+            <suite name="9C" basemap="Tupper-fp9.jpg" ibox="270,251">
+                <points>588,397;588,371;231,371;231,338</points>
+            </suite>
+            <suite name="9C-01" basemap="Tupper-fp9.jpg" ibox="270,251">
+                <points>588,397;588,371;231,371;231,338</points>
+            </suite>
+            <suite name="9C-02" basemap="Tupper-fp9.jpg" ibox="270,251">
+                <points>588,397;588,371;231,371;231,338</points>
+            </suite>
+            <suite name="9B-04" basemap="Tupper-fp9.jpg" ibox="196,421">
+                <points>588,397;588,371;221,371</points>
+            </suite>
+            <suite name="9B" basemap="Tupper-fp9.jpg" ibox="258,435">
+                <points>588,397;588,371;232,371;232,407</points>
+            </suite>
+            <suite name="9B-01" basemap="Tupper-fp9.jpg" ibox="258,435">
+                <points>588,397;588,371;232,371;232,407</points>
+            </suite>
+            <suite name="9B-02" basemap="Tupper-fp9.jpg" ibox="258,435">
+                <points>588,397;588,371;232,371;232,407</points>
+            </suite>
+            <suite name="9B-03" basemap="Tupper-fp9.jpg" ibox="258,435">
+                <points>588,397;588,371;232,371;232,407</points>
+            </suite>
+            <suite name="9A-02" basemap="Tupper-fp9.jpg" ibox="354,434">
+                <points>588,397;588,371;310,371;310,407</points>
+            </suite>
+            <suite name="9A" basemap="Tupper-fp9.jpg" ibox="416,429">
+                <points>588,397;588,371;345,371;345,399</points>
+            </suite>
+            <suite name="9A-01" basemap="Tupper-fp9.jpg" ibox="416,429">
+                <points>588,397;588,371;345,371;345,399</points>
+            </suite>
+            <suite name="9G" basemap="Tupper-fp9.jpg" ibox="472,235">
+                <points>644,395;644,369;696,369;696,337</points>
+            </suite>
+            <suite name="9G-01" basemap="Tupper-fp9.jpg" ibox="472,235">
+                <points>644,395;644,369;696,369;696,337</points>
+            </suite>
+            <suite name="9G-02" basemap="Tupper-fp9.jpg" ibox="472,235">
+                <points>644,395;644,369;696,369;696,337</points>
+            </suite>
+            <suite name="9G-03" basemap="Tupper-fp9.jpg" ibox="472,235">
+                <points>644,395;644,369;696,369;696,337</points>
+            </suite>
+            <suite name="9H" basemap="Tupper-fp9.jpg" ibox="844,291">
+                <points>644,395;644,369;810,369;810,336</points>
+            </suite>
+            <suite name="9H-01" basemap="Tupper-fp9.jpg" ibox="844,291">
+                <points>644,395;644,369;810,369;810,336</points>
+            </suite>
+            <suite name="9J-01" basemap="Tupper-fp9.jpg" ibox="945,247">
+                <points>644,395;644,369;890,369;890,332</points>
+            </suite>
+            <suite name="9J" basemap="Tupper-fp9.jpg" ibox="951,249">
+                <points>644,395;644,369;890,369;890,332</points>
+            </suite>
+            <suite name="9T-01" basemap="Tupper-fp9.jpg" ibox="911,312">
+                <points>644,395;644,369;877,369;877,397</points>
+            </suite>
+            <suite name="9T" basemap="Tupper-fp9.jpg" ibox="911,312">
+                <points>644,395;644,369;877,369;877,397</points>
+            </suite>
+            <suite name="9T-02" basemap="Tupper-fp9.jpg" ibox="955,428">
+                <points>644,395;644,369;911,369;911,401</points>
+            </suite>
+            <suite name="9K" basemap="Tupper-fp9.jpg" ibox="1048,294">
+                <points>644,395;644,369;985,369;985,327</points>
+            </suite>
+            <suite name="9K-01" basemap="Tupper-fp9.jpg" ibox="1048,294">
+                <points>644,395;644,369;985,369;985,327</points>
+            </suite>
+            <suite name="9K-02" basemap="Tupper-fp9.jpg" ibox="1048,294">
+                <points>644,395;644,369;985,369;985,327</points>
+            </suite>
+            <suite name="9L" basemap="Tupper-fp9.jpg" ibox="1110,288">
+                <points>644,395;644,369;1066,369;1066,337</points>
+            </suite>
+            <suite name="9L-01" basemap="Tupper-fp9.jpg" ibox="1110,288">
+                <points>644,395;644,369;1066,369;1066,337</points>
+            </suite>
+            <suite name="9L-02" basemap="Tupper-fp9.jpg" ibox="863,250">
+                <points>644,395;644,369;1066,369;1066,337</points>
+            </suite>
+            <suite name="9S" basemap="Tupper-fp9.jpg" ibox="1088,426">
+                <points>644,395;644,369;1023,369;1023,405</points>
+            </suite>
+            <suite name="9S-01" basemap="Tupper-fp9.jpg" ibox="1088,426">
+                <points>644,395;644,369;1023,369;1023,405</points>
+            </suite>
+            <suite name="9S-02" basemap="Tupper-fp9.jpg" ibox="1088,426">
+                <points>644,395;644,369;1023,369;1023,405</points>
+            </suite>
+            <suite name="9S-03" basemap="Tupper-fp9.jpg" ibox="1088,426">
+                <points>644,395;644,369;1023,369;1023,405</points>
+            </suite>
+            <suite name="9L-03" basemap="Tupper-fp9.jpg" ibox="1169,307">
+                <points>644,395;644,369;1127,369;1127,353</points>
+            </suite>
+            <suite name="9R" basemap="Tupper-fp9.jpg" ibox="916,421">
+                <points>644,395;644,369;1127,369;1127,410</points>
+            </suite>
+            <suite name="9R-01" basemap="Tupper-fp9.jpg" ibox="916,421">
+                <points>644,395;644,369;1127,369;1127,410</points>
+            </suite>
+            <suite name="9P-02" basemap="Tupper-fp9.jpg" ibox="980,421">
+                <points>644,395;644,369;1191,369;1191,403</points>
+            </suite>
+            <suite name="9M" basemap="Tupper-fp9.jpg" ibox="981,264">
+                <points>644,395;644,369;1201,369;1201,332</points>
+            </suite>
+            <suite name="9M-01" basemap="Tupper-fp9.jpg" ibox="981,264">
+                <points>644,395;644,369;1201,369;1201,332</points>
+            </suite>
+            <suite name="9M-02" basemap="Tupper-fp9.jpg" ibox="981,264">
+                <points>644,395;644,369;1201,369;1201,332</points>
+            </suite>
+            <suite name="9M-03" basemap="Tupper-fp9.jpg" ibox="981,264">
+                <points>644,395;644,369;1201,369;1201,332</points>
+            </suite>
+            <suite name="9M-04" basemap="Tupper-fp9.jpg" ibox="981,264">
+                <points>644,395;644,369;1201,369;1201,332</points>
+            </suite>
+            <suite name="9P" basemap="Tupper-fp9.jpg" ibox="1031,438">
+                <points>644,395;644,369;1216,369;1216,402</points>
+            </suite>
+            <suite name="9P-01" basemap="Tupper-fp9.jpg" ibox="1031,438">
+                <points>644,395;644,369;1216,369;1216,402</points>
+            </suite>
+            <suite name="9N" basemap="Tupper-fp9.jpg" ibox="1096,430">
+                <points>644,395;644,369;1268,369</points>
+            </suite>
+            <suite name="9N-01" basemap="Tupper-fp9.jpg" ibox="1096,430">
+                <points>644,395;644,369;1268,369</points>
+            </suite>
+            <suite name="9N-02" basemap="Tupper-fp9.jpg" ibox="1096,430">
+                <points>644,395;644,369;1268,369</points>
+            </suite>
+            <suite name="10H-04" basemap="Tupper-fp10.jpg" ibox="666,353">
+                <points>599,391;599,339</points>
+            </suite>
+            <suite name="10G" basemap="Tupper-fp10.jpg" ibox="571,235">
+                <points>588,388;588,368;471,368;471,336</points>
+            </suite>
+            <suite name="10G-01" basemap="Tupper-fp10.jpg" ibox="571,235">
+                <points>588,388;588,368;471,368;471,336</points>
+            </suite>
+            <suite name="10G-04" basemap="Tupper-fp10.jpg" ibox="571,235">
+                <points>588,388;588,368;471,368;471,336</points>
+            </suite>
+            <suite name="10G-05" basemap="Tupper-fp10.jpg" ibox="571,235">
+                <points>588,388;588,368;471,368;471,336</points>
+            </suite>
+            <suite name="10G-06" basemap="Tupper-fp10.jpg" ibox="571,235">
+                <points>588,388;588,368;471,368;471,336</points>
+            </suite>
+            <suite name="10G-03" basemap="Tupper-fp10.jpg" ibox="614,303">
+                <points>588,388;588,368;471,368;471,336</points>
+            </suite>
+            <suite name="10G-02" basemap="Tupper-fp10.jpg" ibox="614,303">
+                <points>588,388;588,368;471,368;471,336</points>
+            </suite>
+            <suite name="10C-06" basemap="Tupper-fp10.jpg" ibox="435,278">
+                <points>588,388;588,368;392,368;392,353</points>
+            </suite>
+            <suite name="10C-05" basemap="Tupper-fp10.jpg" ibox="409,251">
+                <points>588,388;588,368;345,368;345,349</points>
+            </suite>
+            <suite name="10C" basemap="Tupper-fp10.jpg" ibox="174,210">
+                <points>588,388;588,368;303,368;303,307;154,307;147,290</points>
+            </suite>
+            <suite name="10C-01" basemap="Tupper-fp10.jpg" ibox="174,210">
+                <points>588,388;588,368;303,368;303,307;154,307;147,290</points>
+            </suite>
+            <suite name="10C-07" basemap="Tupper-fp10.jpg" ibox="327,221">
+                <points>588,388;588,368;303,368;303,247;292,247</points>
+            </suite>
+            <suite name="10C-02" basemap="Tupper-fp10.jpg" ibox="327,221">
+                <points>588,388;588,368;303,368;303,247;292,247</points>
+            </suite>
+            <suite name="10C-03" basemap="Tupper-fp10.jpg" ibox="327,221">
+                <points>588,388;588,368;303,368;303,247;292,247</points>
+            </suite>
+            <suite name="10D" basemap="Tupper-fp10.jpg" ibox="321,228">
+                <points>588,388;588,368;303,368;303,309;285,309</points>
+            </suite>
+            <suite name="10D-01" basemap="Tupper-fp10.jpg" ibox="321,228">
+                <points>588,388;588,368;303,368;303,309;285,309</points>
+            </suite>
+            <suite name="10D-02" basemap="Tupper-fp10.jpg" ibox="321,228">
+                <points>588,388;588,368;303,368;303,309;285,309</points>
+            </suite>
+            <suite name="10A-08" basemap="Tupper-fp10.jpg" ibox="276,399">
+                <points>588,388;588,368;286,368</points>
+            </suite>
+            <suite name="10A-07" basemap="Tupper-fp10.jpg" ibox="323,403">
+                <points>588,388;588,368;286,368</points>
+            </suite>
+            <suite name="10B" basemap="Tupper-fp10.jpg" ibox="167,398">
+                <points>588,388;588,368;146,368</points>
+            </suite>
+            <suite name="10B-01" basemap="Tupper-fp10.jpg" ibox="167,398">
+                <points>588,388;588,368;146,368</points>
+            </suite>
+            <suite name="10A-06" basemap="Tupper-fp10.jpg" ibox="179,397">
+                <points>588,388;588,368;151,368;151,424;141,424</points>
+            </suite>
+            <suite name="10A-03" basemap="Tupper-fp10.jpg" ibox="355,409">
+                <points>588,388;588,368;311,368;311,456</points>
+            </suite>
+            <suite name="10A-02" basemap="Tupper-fp10.jpg" ibox="355,409">
+                <points>588,388;588,368;311,368;311,456</points>
+            </suite>
+            <suite name="10A-04" basemap="Tupper-fp10.jpg" ibox="355,409">
+                <points>588,388;588,368;311,368;311,449;246,449</points>
+            </suite>
+            <suite name="10A-05" basemap="Tupper-fp10.jpg" ibox="355,409">
+                <points>588,388;588,368;311,368;311,449;246,449</points>
+            </suite>
+            <suite name="10A" basemap="Tupper-fp10.jpg" ibox="408,412">
+                <points>588,388;588,368;376,368;376,394</points>
+            </suite>
+            <suite name="10A-01" basemap="Tupper-fp10.jpg" ibox="408,412">
+                <points>588,388;588,368;376,368;376,394</points>
+            </suite>
+            <suite name="10C-04" basemap="Tupper-fp10.jpg" ibox="409,251">
+                <points>588,388;588,368;345,368;345,349</points>
+            </suite>
+            <suite name="10H" basemap="Tupper-fp10.jpg" ibox="842,243">
+                <points>647,391;647,365;779,365;779,337</points>
+            </suite>
+            <suite name="10H-01" basemap="Tupper-fp10.jpg" ibox="842,243">
+                <points>647,391;647,365;779,365;779,337</points>
+            </suite>
+            <suite name="10H-02" basemap="Tupper-fp10.jpg" ibox="842,243">
+                <points>647,391;647,365;779,365;779,337</points>
+            </suite>
+            <suite name="10H-02A" basemap="Tupper-fp10.jpg" ibox="842,243">
+                <points>647,391;647,365;779,365;779,337</points>
+            </suite>
+            <suite name="10J" basemap="Tupper-fp10.jpg" ibox="667,241">
+                <points>647,391;647,365;890,365;890,336</points>
+            </suite>
+            <suite name="10J-01" basemap="Tupper-fp10.jpg" ibox="667,241">
+                <points>647,391;647,365;890,365;890,336</points>
+            </suite>
+            <suite name="10J-02" basemap="Tupper-fp10.jpg" ibox="667,241">
+                <points>647,391;647,365;890,365;890,336</points>
+            </suite>
+            <suite name="10R-01" basemap="Tupper-fp10.jpg" ibox="692,422">
+                <points>647,391;647,365;896,365;896,391</points>
+            </suite>
+            <suite name="10R" basemap="Tupper-fp10.jpg" ibox="692,422">
+                <points>647,391;647,365;896,365;896,391</points>
+            </suite>
+            <suite name="10R-02" basemap="Tupper-fp10.jpg" ibox="692,422">
+                <points>647,391;647,365;896,365;896,391</points>
+            </suite>
+            <suite name="10K" basemap="Tupper-fp10.jpg" ibox="766,242">
+                <points>647,391;647,365;975,365;975,339</points>
+            </suite>
+            <suite name="10K-01" basemap="Tupper-fp10.jpg" ibox="766,242">
+                <points>647,391;647,365;975,365;975,339</points>
+            </suite>
+            <suite name="10K-02" basemap="Tupper-fp10.jpg" ibox="770,254">
+                <points>647,391;647,365;1011,365;1011,351</points>
+            </suite>
+            <suite name="10P-02" basemap="Tupper-fp10.jpg" ibox="756,420">
+                <points>647,391;647,365;986,365;986,397</points>
+            </suite>
+            <suite name="10P" basemap="Tupper-fp10.jpg" ibox="800,436">
+                <points>647,391;647,365;1008,365;1008,393</points>
+            </suite>
+            <suite name="10P-01" basemap="Tupper-fp10.jpg" ibox="800,436">
+                <points>647,391;647,365;1008,365;1008,393</points>
+            </suite>
+            <suite name="10L-01" basemap="Tupper-fp10.jpg" ibox="1146,245">
+                <points>647,391;647,365;1076,365;1076,340</points>
+            </suite>
+            <suite name="10L" basemap="Tupper-fp10.jpg" ibox="1146,245">
+                <points>647,391;647,365;1076,365;1076,340</points>
+            </suite>
+            <suite name="10L-02" basemap="Tupper-fp10.jpg" ibox="1146,245">
+                <points>647,391;647,365;1076,365;1076,340</points>
+            </suite>
+            <suite name="10L-03" basemap="Tupper-fp10.jpg" ibox="1146,245">
+                <points>647,391;647,365;1076,365;1076,340</points>
+            </suite>
+            <suite name="10N" basemap="Tupper-fp10.jpg" ibox="943,438">
+                <points>647,391;647,365;1183,365;1183,389</points>
+            </suite>
+            <suite name="10N-01" basemap="Tupper-fp10.jpg" ibox="943,438">
+                <points>647,391;647,365;1183,365;1183,389</points>
+            </suite>
+            <suite name="10N-02" basemap="Tupper-fp10.jpg" ibox="943,438">
+                <points>647,391;647,365;1183,365;1183,389</points>
+            </suite>
+            <suite name="10N-03" basemap="Tupper-fp10.jpg" ibox="908,400">
+                <points>647,391;647,365;1183,365;1183,389</points>
+            </suite>
+            <suite name="10M" basemap="Tupper-fp10.jpg" ibox="984,230">
+                <points>647,391;647,365;1199,365;1199,337</points>
+            </suite>
+            <suite name="10M-01" basemap="Tupper-fp10.jpg" ibox="984,230">
+                <points>647,391;647,365;1199,365;1199,337</points>
+            </suite>
+            <suite name="10M-02" basemap="Tupper-fp10.jpg" ibox="984,230">
+                <points>647,391;647,365;1199,365;1199,337</points>
+            </suite>
+            <suite name="10M-03" basemap="Tupper-fp10.jpg" ibox="984,230">
+                <points>647,391;647,365;1199,365;1199,337</points>
+            </suite>
+            <suite name="10M-04" basemap="Tupper-fp10.jpg" ibox="984,230">
+                <points>647,391;647,365;1199,365;1199,337</points>
+            </suite>
+            <suite name="10M-06" basemap="Tupper-fp10.jpg" ibox="984,230">
+                <points>647,391;647,365;1199,365;1199,337</points>
+            </suite>
+            <suite name="10M-07" basemap="Tupper-fp10.jpg" ibox="984,230">
+                <points>647,391;647,365;1199,365;1199,337</points>
+            </suite>
+            <suite name="11F-06" basemap="Tupper-fp11.jpg" ibox="690,288">
+                <points>631,386;631,347</points>
+            </suite>
+            <suite name="11F" basemap="Tupper-fp11.jpg" ibox="606,300">
+                <points>587,389;587,370;519,370;519,346</points>
+            </suite>
+            <suite name="11F-01" basemap="Tupper-fp11.jpg" ibox="606,300">
+                <points>587,389;587,370;519,370;519,346</points>
+            </suite>
+            <suite name="11F-02" basemap="Tupper-fp11.jpg" ibox="606,300">
+                <points>587,389;587,370;519,370;519,346</points>
+            </suite>
+            <suite name="11F-04" basemap="Tupper-fp11.jpg" ibox="606,300">
+                <points>587,389;587,370;519,370;519,346</points>
+            </suite>
+            <suite name="11F-05" basemap="Tupper-fp11.jpg" ibox="606,300">
+                <points>587,389;587,370;519,370;519,346</points>
+            </suite>
+            <suite name="11E" basemap="Tupper-fp11.jpg" ibox="454,275">
+                <points>587,389;587,370;423,370;423,349</points>
+            </suite>
+            <suite name="11E-01" basemap="Tupper-fp11.jpg" ibox="454,275">
+                <points>587,389;587,370;423,370;423,349</points>
+            </suite>
+            <suite name="11D-01" basemap="Tupper-fp11.jpg" ibox="121,291">
+                <points>587,389;587,370;359,370;359,341</points>
+            </suite>
+            <suite name="11D" basemap="Tupper-fp11.jpg" ibox="121,291">
+                <points>587,389;587,370;359,370;359,341</points>
+            </suite>
+            <suite name="11D-02" basemap="Tupper-fp11.jpg" ibox="121,291">
+                <points>587,389;587,370;359,370;359,341</points>
+            </suite>
+            <suite name="11D-03" basemap="Tupper-fp11.jpg" ibox="121,291">
+                <points>587,389;587,370;359,370;359,341</points>
+            </suite>
+            <suite name="11D-04" basemap="Tupper-fp11.jpg" ibox="121,291">
+                <points>587,389;587,370;359,370;359,341</points>
+            </suite>
+            <suite name="11C" basemap="Tupper-fp11.jpg" ibox="281,271">
+                <points>587,389;587,370;204,370;204,338</points>
+            </suite>
+            <suite name="11C-01" basemap="Tupper-fp11.jpg" ibox="281,271">
+                <points>587,389;587,370;204,370;204,338</points>
+            </suite>
+            <suite name="11C-02" basemap="Tupper-fp11.jpg" ibox="281,271">
+                <points>587,389;587,370;204,370;204,338</points>
+            </suite>
+            <suite name="11C-03" basemap="Tupper-fp11.jpg" ibox="281,271">
+                <points>587,389;587,370;204,370;204,338</points>
+            </suite>
+            <suite name="11C-04" basemap="Tupper-fp11.jpg" ibox="281,271">
+                <points>587,389;587,370;204,370;204,338</points>
+            </suite>
+            <suite name="11C-05" basemap="Tupper-fp11.jpg" ibox="281,271">
+                <points>587,389;587,370;204,370;204,338</points>
+            </suite>
+            <suite name="11C-06" basemap="Tupper-fp11.jpg" ibox="281,271">
+                <points>587,389;587,370;204,370;204,338</points>
+            </suite>
+            <suite name="11B-02" basemap="Tupper-fp11.jpg" ibox="163,423">
+                <points>587,389;587,370;173,370</points>
+            </suite>
+            <suite name="11B-04" basemap="Tupper-fp11.jpg" ibox="163,423">
+                <points>587,389;587,370;173,370</points>
+            </suite>
+            <suite name="11B-03" basemap="Tupper-fp11.jpg" ibox="163,423">
+                <points>587,389;587,370;173,370</points>
+            </suite>
+            <suite name="11B" basemap="Tupper-fp11.jpg" ibox="273,437">
+                <points>587,389;587,370;234,370;234,407</points>
+            </suite>
+            <suite name="11B-01" basemap="Tupper-fp11.jpg" ibox="273,437">
+                <points>587,389;587,370;234,370;234,407</points>
+            </suite>
+            <suite name="11A-01" basemap="Tupper-fp11.jpg" ibox="96,419">
+                <points>587,389;587,370;325,370;325,400</points>
+            </suite>
+            <suite name="11A-02" basemap="Tupper-fp11.jpg" ibox="96,419">
+                <points>587,389;587,370;325,370;325,400</points>
+            </suite>
+            <suite name="11A-03" basemap="Tupper-fp11.jpg" ibox="96,419">
+                <points>587,389;587,370;325,370;325,400</points>
+            </suite>
+            <suite name="11F-11" basemap="Tupper-fp11.jpg" ibox="826,309">
+                <points>650,389;650,368;774,368;774,337</points>
+            </suite>
+            <suite name="11F-10" basemap="Tupper-fp11.jpg" ibox="826,309">
+                <points>650,389;650,368;774,368;774,337</points>
+            </suite>
+            <suite name="11F-09" basemap="Tupper-fp11.jpg" ibox="826,309">
+                <points>650,389;650,368;774,368;774,337</points>
+            </suite>
+            <suite name="11F-08" basemap="Tupper-fp11.jpg" ibox="826,309">
+                <points>650,389;650,368;774,368;774,337</points>
+            </suite>
+            <suite name="11F-07" basemap="Tupper-fp11.jpg" ibox="826,309">
+                <points>650,389;650,368;774,368;774,337</points>
+            </suite>
+            <suite name="11G" basemap="Tupper-fp11.jpg" ibox="679,253">
+                <points>650,389;650,368;929,368;929,338</points>
+            </suite>
+            <suite name="11G-01" basemap="Tupper-fp11.jpg" ibox="679,253">
+                <points>650,389;650,368;929,368;929,338</points>
+            </suite>
+            <suite name="11G-02" basemap="Tupper-fp11.jpg" ibox="679,253">
+                <points>650,389;650,368;929,368;929,338</points>
+            </suite>
+            <suite name="11G-03" basemap="Tupper-fp11.jpg" ibox="679,253">
+                <points>650,389;650,368;929,368;929,338</points>
+            </suite>
+            <suite name="11G-04" basemap="Tupper-fp11.jpg" ibox="679,253">
+                <points>650,389;650,368;929,368;929,338</points>
+            </suite>
+            <suite name="11G-05" basemap="Tupper-fp11.jpg" ibox="679,253">
+                <points>650,389;650,368;929,368;929,338</points>
+            </suite>
+            <suite name="11N" basemap="Tupper-fp11.jpg" ibox="720,430">
+                <points>650,389;650,368;1001,368;1001,410</points>
+            </suite>
+            <suite name="11N-01" basemap="Tupper-fp11.jpg" ibox="720,430">
+                <points>650,389;650,368;1001,368;1001,410</points>
+            </suite>
+            <suite name="11N-02" basemap="Tupper-fp11.jpg" ibox="720,430">
+                <points>650,389;650,368;1001,368;1001,410</points>
+            </suite>
+            <suite name="11N-03" basemap="Tupper-fp11.jpg" ibox="720,430">
+                <points>650,389;650,368;1001,368;1001,410</points>
+            </suite>
+            <suite name="11G-06" basemap="Tupper-fp11.jpg" ibox="1073,374">
+                <points>650,389;650,368;1044,368;1044,346</points>
+            </suite>
+            <suite name="11J" basemap="Tupper-fp11.jpg" ibox="1153,278">
+                <points>650,389;650,368;1081,368;1081,339</points>
+            </suite>
+            <suite name="11J-01" basemap="Tupper-fp11.jpg" ibox="1153,278">
+                <points>650,389;650,368;1081,368;1081,339</points>
+            </suite>
+            <suite name="11J-02" basemap="Tupper-fp11.jpg" ibox="1153,278">
+                <points>650,389;650,368;1081,368;1081,339</points>
+            </suite>
+            <suite name="11J-03" basemap="Tupper-fp11.jpg" ibox="1153,278">
+                <points>650,389;650,368;1081,368;1081,339</points>
+            </suite>
+            <suite name="11J-04" basemap="Tupper-fp11.jpg" ibox="1153,278">
+                <points>650,389;650,368;1081,368;1081,339</points>
+            </suite>
+            <suite name="11L" basemap="Tupper-fp11.jpg" ibox="979,396">
+                <points>650,389;650,368;1191,368;1191,409</points>
+            </suite>
+            <suite name="11L-01" basemap="Tupper-fp11.jpg" ibox="979,396">
+                <points>650,389;650,368;1191,368;1191,409</points>
+            </suite>
+            <suite name="11L-02" basemap="Tupper-fp11.jpg" ibox="979,396">
+                <points>650,389;650,368;1191,368;1191,409</points>
+            </suite>
+            <suite name="11L-03" basemap="Tupper-fp11.jpg" ibox="979,396">
+                <points>650,389;650,368;1191,368;1191,409</points>
+            </suite>
+            <suite name="11L-04" basemap="Tupper-fp11.jpg" ibox="979,396">
+                <points>650,389;650,368;1191,368;1191,409</points>
+            </suite>
+            <suite name="11K" basemap="Tupper-fp11.jpg" ibox="986,269">
+                <points>650,389;650,368;1217,368;1231,353</points>
+            </suite>
+            <suite name="11K-01" basemap="Tupper-fp11.jpg" ibox="986,269">
+                <points>650,389;650,368;1217,368;1231,353</points>
+            </suite>
+            <suite name="11K-02" basemap="Tupper-fp11.jpg" ibox="986,269">
+                <points>650,389;650,368;1217,368;1231,353</points>
+            </suite>
+            <suite name="11K-07" basemap="Tupper-fp11.jpg" ibox="986,269">
+                <points>650,389;650,368;1217,368;1231,353</points>
+            </suite>
+            <suite name="11K-04" basemap="Tupper-fp11.jpg" ibox="986,269">
+                <points>650,389;650,368;1217,368;1231,353</points>
+            </suite>
+            <suite name="11K-05" basemap="Tupper-fp11.jpg" ibox="986,269">
+                <points>650,389;650,368;1217,368;1231,353</points>
+            </suite>
+            <suite name="11K-06" basemap="Tupper-fp11.jpg" ibox="986,269">
+                <points>650,389;650,368;1217,368;1231,353</points>
+            </suite>
+            <suite name="12H" basemap="Tupper-fp12.jpg" ibox="650,356">
+                <points>616,383;616,329</points>
+            </suite>
+            <suite name="12H-01" basemap="Tupper-fp12.jpg" ibox="650,356">
+                <points>616,383;616,329</points>
+            </suite>
+            <suite name="12H-02" basemap="Tupper-fp12.jpg" ibox="650,356">
+                <points>616,383;616,329</points>
+            </suite>
+            <suite name="12H-03" basemap="Tupper-fp12.jpg" ibox="650,356">
+                <points>616,383;616,329</points>
+            </suite>
+            <suite name="12H-04" basemap="Tupper-fp12.jpg" ibox="650,356">
+                <points>616,383;616,329</points>
+            </suite>
+            <suite name="12H-05" basemap="Tupper-fp12.jpg" ibox="650,356">
+                <points>616,383;616,329</points>
+            </suite>
+            <suite name="12H-06" basemap="Tupper-fp12.jpg" ibox="650,356">
+                <points>616,383;616,329</points>
+            </suite>
+            <suite name="12H-07" basemap="Tupper-fp12.jpg" ibox="650,356">
+                <points>616,383;616,329</points>
+            </suite>
+            <suite name="12H-08" basemap="Tupper-fp12.jpg" ibox="650,356">
+                <points>616,383;616,329</points>
+            </suite>
+            <suite name="12H-09" basemap="Tupper-fp12.jpg" ibox="650,356">
+                <points>616,383;616,329</points>
+            </suite>
+            <suite name="12H-10" basemap="Tupper-fp12.jpg" ibox="650,356">
+                <points>616,383;616,329</points>
+            </suite>
+            <suite name="12F" basemap="Tupper-fp12.jpg" ibox="501,275">
+                <points>583,391;583,372;456,372;456,355</points>
+            </suite>
+            <suite name="12F-01" basemap="Tupper-fp12.jpg" ibox="501,275">
+                <points>583,391;583,372;456,372;456,355</points>
+            </suite>
+            <suite name="12E" basemap="Tupper-fp12.jpg" ibox="438,272">
+                <points>583,391;583,372;381,372;381,346</points>
+            </suite>
+            <suite name="12E-01" basemap="Tupper-fp12.jpg" ibox="438,272">
+                <points>583,391;583,372;381,372;381,346</points>
+            </suite>
+            <suite name="12E-02" basemap="Tupper-fp12.jpg" ibox="438,272">
+                <points>583,391;583,372;381,372;381,346</points>
+            </suite>
+            <suite name="12E-03" basemap="Tupper-fp12.jpg" ibox="438,272">
+                <points>583,391;583,372;381,372;381,346</points>
+            </suite>
+            <suite name="12D" basemap="Tupper-fp12.jpg" ibox="271,248">
+                <points>583,391;583,372;207,372;207,333</points>
+            </suite>
+            <suite name="12D-01" basemap="Tupper-fp12.jpg" ibox="271,248">
+                <points>583,391;583,372;207,372;207,333</points>
+            </suite>
+            <suite name="12D-06" basemap="Tupper-fp12.jpg" ibox="271,248">
+                <points>583,391;583,372;207,372;207,333</points>
+            </suite>
+            <suite name="12D-05" basemap="Tupper-fp12.jpg" ibox="271,248">
+                <points>583,391;583,372;207,372;207,333</points>
+            </suite>
+            <suite name="12D-02" basemap="Tupper-fp12.jpg" ibox="271,248">
+                <points>583,391;583,372;207,372;207,333</points>
+            </suite>
+            <suite name="12D-03" basemap="Tupper-fp12.jpg" ibox="271,248">
+                <points>583,391;583,372;207,372;207,333</points>
+            </suite>
+            <suite name="12D-04" basemap="Tupper-fp12.jpg" ibox="271,248">
+                <points>583,391;583,372;207,372;207,333</points>
+            </suite>
+            <suite name="12B-05" basemap="Tupper-fp12.jpg" ibox="232,410">
+                <points>583,391;583,372;203,372</points>
+            </suite>
+            <suite name="12B" basemap="Tupper-fp12.jpg" ibox="249,446">
+                <points>583,391;583,372;207,372;207,406</points>
+            </suite>
+            <suite name="12B-01" basemap="Tupper-fp12.jpg" ibox="249,446">
+                <points>583,391;583,372;207,372;207,406</points>
+            </suite>
+            <suite name="12B-02" basemap="Tupper-fp12.jpg" ibox="249,446">
+                <points>583,391;583,372;207,372;207,406</points>
+            </suite>
+            <suite name="12B-03" basemap="Tupper-fp12.jpg" ibox="249,446">
+                <points>583,391;583,372;207,372;207,406</points>
+            </suite>
+            <suite name="12B-04" basemap="Tupper-fp12.jpg" ibox="249,446">
+                <points>583,391;583,372;207,372;207,406</points>
+            </suite>
+            <suite name="12A" basemap="Tupper-fp12.jpg" ibox="412,429">
+                <points>583,391;583,372;323,372;323,409</points>
+            </suite>
+            <suite name="12A-01" basemap="Tupper-fp12.jpg" ibox="412,429">
+                <points>583,391;583,372;323,372;323,409</points>
+            </suite>
+            <suite name="12A-02" basemap="Tupper-fp12.jpg" ibox="412,429">
+                <points>583,391;583,372;323,372;323,409</points>
+            </suite>
+            <suite name="12A-03" basemap="Tupper-fp12.jpg" ibox="412,429">
+                <points>583,391;583,372;323,372;323,409</points>
+            </suite>
+            <suite name="12K" basemap="Tupper-fp12.jpg" ibox="1029,417">
+                <points>651,396;651,371;982,371</points>
+            </suite>
+            <suite name="12K-01" basemap="Tupper-fp12.jpg" ibox="1029,417">
+                <points>651,396;651,371;982,371</points>
+            </suite>
+            <suite name="12K-02" basemap="Tupper-fp12.jpg" ibox="973,290">
+                <points>651,396;651,371;936,371;936,339</points>
+            </suite>
+            <suite name="12L" basemap="Tupper-fp12.jpg" ibox="1023,433">
+                <points>651,396;651,371;991,371;991,443;956,443</points>
+            </suite>
+            <suite name="12L-01" basemap="Tupper-fp12.jpg" ibox="1023,433">
+                <points>651,396;651,371;991,371;991,443;956,443</points>
+            </suite>
+            <suite name="12L-02" basemap="Tupper-fp12.jpg" ibox="1023,433">
+                <points>651,396;651,371;991,371;991,443;956,443</points>
+            </suite>
+            <suite name="12L-03" basemap="Tupper-fp12.jpg" ibox="1023,433">
+                <points>651,396;651,371;991,371;991,443;956,443</points>
+            </suite>
+            <suite name="13E-01" basemap="Tupper-fp13.jpg" ibox="272,240">
+                <points>584,392;584,369;497,369;497,325</points>
+            </suite>
+            <suite name="13E-02" basemap="Tupper-fp13.jpg" ibox="272,240">
+                <points>584,392;584,369;497,369;497,325</points>
+            </suite>
+            <suite name="13E-03" basemap="Tupper-fp13.jpg" ibox="272,240">
+                <points>584,392;584,369;497,369;497,325</points>
+            </suite>
+            <suite name="13E-04" basemap="Tupper-fp13.jpg" ibox="272,240">
+                <points>584,392;584,369;497,369;497,325</points>
+            </suite>
+            <suite name="13E-05" basemap="Tupper-fp13.jpg" ibox="272,240">
+                <points>584,392;584,369;497,369;497,325</points>
+            </suite>
+            <suite name="13E-06" basemap="Tupper-fp13.jpg" ibox="272,240">
+                <points>584,392;584,369;497,369;497,325</points>
+            </suite>
+            <suite name="13E-09" basemap="Tupper-fp13.jpg" ibox="272,240">
+                <points>584,392;584,369;497,369;497,325</points>
+            </suite>
+            <suite name="13D" basemap="Tupper-fp13.jpg" ibox="386,252">
+                <points>584,392;584,369;326,369;326,349</points>
+            </suite>
+            <suite name="13D-01" basemap="Tupper-fp13.jpg" ibox="386,252">
+                <points>584,392;584,369;326,369;326,349</points>
+            </suite>
+            <suite name="13D-02" basemap="Tupper-fp13.jpg" ibox="422,274">
+                <points>584,392;584,369;326,369;326,349</points>
+            </suite>
+            <suite name="13D-03" basemap="Tupper-fp13.jpg" ibox="422,274">
+                <points>584,392;584,369;326,369;326,349</points>
+            </suite>
+            <suite name="13D-04" basemap="Tupper-fp13.jpg" ibox="422,274">
+                <points>584,392;584,369;326,369;326,349</points>
+            </suite>
+            <suite name="13D-05" basemap="Tupper-fp13.jpg" ibox="422,274">
+                <points>584,392;584,369;326,369;326,349</points>
+            </suite>
+            <suite name="13C-04" basemap="Tupper-fp13.jpg" ibox="175,411">
+                <points>583,393;583,368;201,368</points>
+            </suite>
+            <suite name="13C" basemap="Tupper-fp13.jpg" ibox="222,236">
+                <points>583,393;583,368;213,368;213,336</points>
+            </suite>
+            <suite name="13C-01" basemap="Tupper-fp13.jpg" ibox="222,236">
+                <points>583,393;583,368;213,368;213,336</points>
+            </suite>
+            <suite name="13C-02" basemap="Tupper-fp13.jpg" ibox="222,236">
+                <points>583,393;583,368;213,368;213,336</points>
+            </suite>
+            <suite name="13C-03" basemap="Tupper-fp13.jpg" ibox="222,236">
+                <points>583,393;583,368;213,368;213,336</points>
+            </suite>
+            <suite name="13B" basemap="Tupper-fp13.jpg" ibox="243,422">
+                <points>583,393;583,368;213,368;213,408</points>
+            </suite>
+            <suite name="13B-01" basemap="Tupper-fp13.jpg" ibox="243,422">
+                <points>583,393;583,368;213,368;213,408</points>
+            </suite>
+            <suite name="13B-04" basemap="Tupper-fp13.jpg" ibox="243,422">
+                <points>583,393;583,368;213,368;213,408</points>
+            </suite>
+            <suite name="13B-05" basemap="Tupper-fp13.jpg" ibox="243,422">
+                <points>583,393;583,368;213,368;213,408</points>
+            </suite>
+            <suite name="13B-03" basemap="Tupper-fp13.jpg" ibox="243,422">
+                <points>583,393;583,368;213,368;213,408</points>
+            </suite>
+            <suite name="13B-02" basemap="Tupper-fp13.jpg" ibox="307,431">
+                <points>583,393;583,368;237,368;237,405</points>
+            </suite>
+            <suite name="13A" basemap="Tupper-fp13.jpg" ibox="410,426">
+                <points>583,393;583,368;354,368;354,408</points>
+            </suite>
+            <suite name="13A-01" basemap="Tupper-fp13.jpg" ibox="410,426">
+                <points>583,393;583,368;354,368;354,408</points>
+            </suite>
+            <suite name="13H-02" basemap="Tupper-fp13.jpg" ibox="516,252">
+                <points>648,396;648,370;729,370;729,335</points>
+            </suite>
+            <suite name="13H-01" basemap="Tupper-fp13.jpg" ibox="804,254">
+                <points>648,396;648,370;768,370;768,341</points>
+            </suite>
+            <suite name="13H" basemap="Tupper-fp13.jpg" ibox="804,254">
+                <points>648,396;648,370;768,370;768,341</points>
+            </suite>
+            <suite name="13J" basemap="Tupper-fp13.jpg" ibox="681,219">
+                <points>648,396;648,370;893,370;893,343</points>
+            </suite>
+            <suite name="13J-01" basemap="Tupper-fp13.jpg" ibox="681,219">
+                <points>648,396;648,370;893,370;893,343</points>
+            </suite>
+            <suite name="13J-02" basemap="Tupper-fp13.jpg" ibox="631,219">
+                <points>648,396;648,370;893,370;893,343</points>
+            </suite>
+            <suite name="13J-03" basemap="Tupper-fp13.jpg" ibox="631,219">
+                <points>648,396;648,370;893,370;893,343</points>
+            </suite>
+            <suite name="13J-05" basemap="Tupper-fp13.jpg" ibox="1005,223">
+                <points>648,396;648,370;893,370;893,343</points>
+            </suite>
+            <suite name="13J-06" basemap="Tupper-fp13.jpg" ibox="1005,223">
+                <points>648,396;648,370;893,370;893,343</points>
+            </suite>
+            <suite name="13P" basemap="Tupper-fp13.jpg" ibox="704,399">
+                <points>648,396;648,370;951,370;951,400</points>
+            </suite>
+            <suite name="13P-01" basemap="Tupper-fp13.jpg" ibox="704,399">
+                <points>648,396;648,370;951,370;951,400</points>
+            </suite>
+            <suite name="13P-02" basemap="Tupper-fp13.jpg" ibox="704,399">
+                <points>648,396;648,370;951,370;951,400</points>
+            </suite>
+            <suite name="13P-03" basemap="Tupper-fp13.jpg" ibox="704,399">
+                <points>648,396;648,370;951,370;951,400</points>
+            </suite>
+            <suite name="13P-04" basemap="Tupper-fp13.jpg" ibox="704,399">
+                <points>648,396;648,370;951,370;951,400</points>
+            </suite>
+            <suite name="13J-07" basemap="Tupper-fp13.jpg" ibox="1016,310">
+                <points>648,396;648,370;991,370;991,344</points>
+            </suite>
+            <suite name="13O-02" basemap="Tupper-fp13.jpg" ibox="834,445">
+                <points>648,396;648,370;1036,370;1036,405</points>
+            </suite>
+            <suite name="13O" basemap="Tupper-fp13.jpg" ibox="1161,426">
+                <points>648,396;648,370;1089,370;1089,402</points>
+            </suite>
+            <suite name="13O-01" basemap="Tupper-fp13.jpg" ibox="1161,426">
+                <points>648,396;648,370;1089,370;1089,402</points>
+            </suite>
+            <suite name="13O-04" basemap="Tupper-fp13.jpg" ibox="1161,426">
+                <points>648,396;648,370;1089,370;1089,402</points>
+            </suite>
+            <suite name="13K-01" basemap="Tupper-fp13.jpg" ibox="1178,312">
+                <points>648,396;648,370;1144,370;1144,336</points>
+            </suite>
+            <suite name="13K" basemap="Tupper-fp13.jpg" ibox="1178,312">
+                <points>648,396;648,370;1144,370;1144,336</points>
+            </suite>
+            <suite name="13K-02" basemap="Tupper-fp13.jpg" ibox="1178,312">
+                <points>648,396;648,370;1144,370;1144,336</points>
+            </suite>
+            <suite name="13K-03" basemap="Tupper-fp13.jpg" ibox="1178,312">
+                <points>648,396;648,370;1144,370;1144,336</points>
+            </suite>
+            <suite name="13M" basemap="Tupper-fp13.jpg" ibox="1043,233">
+                <points>648,396;648,370;1212,370;1224,344</points>
+            </suite>
+            <suite name="13M-01" basemap="Tupper-fp13.jpg" ibox="1043,233">
+                <points>648,396;648,370;1212,370;1224,344</points>
+            </suite>
+            <suite name="13M-02" basemap="Tupper-fp13.jpg" ibox="1043,233">
+                <points>648,396;648,370;1212,370;1224,344</points>
+            </suite>
+            <suite name="13M-03" basemap="Tupper-fp13.jpg" ibox="1043,233">
+                <points>648,396;648,370;1212,370;1224,344</points>
+            </suite>
+            <suite name="13M-04" basemap="Tupper-fp13.jpg" ibox="1043,233">
+                <points>648,396;648,370;1212,370;1224,344</points>
+            </suite>
+            <suite name="13N" basemap="Tupper-fp13.jpg" ibox="997,437">
+                <points>648,396;648,370;1212,370;1228,388</points>
+            </suite>
+            <suite name="13N-01" basemap="Tupper-fp13.jpg" ibox="997,437">
+                <points>648,396;648,370;1212,370;1228,388</points>
+            </suite>
+            <suite name="13N-02" basemap="Tupper-fp13.jpg" ibox="997,437">
+                <points>648,396;648,370;1212,370;1228,388</points>
+            </suite>
+            <suite name="13N-03" basemap="Tupper-fp13.jpg" ibox="997,437">
+                <points>648,396;648,370;1212,370;1228,388</points>
+            </suite>
+            <suite name="13N-04" basemap="Tupper-fp13.jpg" ibox="997,437">
+                <points>648,396;648,370;1212,370;1228,388</points>
+            </suite>
+            <suite name="14D-03" basemap="Tupper-fp14.jpg" ibox="465,244">
+                <points>586,390;586,370;429,370;429,341</points>
+            </suite>
+            <suite name="14D-04" basemap="Tupper-fp14.jpg" ibox="465,244">
+                <points>586,390;586,370;429,370;429,341</points>
+            </suite>
+            <suite name="14C" basemap="Tupper-fp14.jpg" ibox="411,235">
+                <points>586,390;586,370;324,370;324,334</points>
+            </suite>
+            <suite name="14C-01" basemap="Tupper-fp14.jpg" ibox="411,235">
+                <points>586,390;586,370;324,370;324,334</points>
+            </suite>
+            <suite name="14C-02" basemap="Tupper-fp14.jpg" ibox="411,235">
+                <points>586,390;586,370;324,370;324,334</points>
+            </suite>
+            <suite name="14C-03" basemap="Tupper-fp14.jpg" ibox="411,235">
+                <points>586,390;586,370;324,370;324,334</points>
+            </suite>
+            <suite name="14C-04" basemap="Tupper-fp14.jpg" ibox="411,235">
+                <points>586,390;586,370;324,370;324,334</points>
+            </suite>
+            <suite name="14B-02" basemap="Tupper-fp14.jpg" ibox="256,235">
+                <points>586,390;586,370;225,370;225,333</points>
+            </suite>
+            <suite name="14B" basemap="Tupper-fp14.jpg" ibox="256,235">
+                <points>586,390;586,370;225,370;225,333</points>
+            </suite>
+            <suite name="14A" basemap="Tupper-fp14.jpg" ibox="392,456">
+                <points>586,390;586,370;323,370;323,410</points>
+            </suite>
+            <suite name="14A-01" basemap="Tupper-fp14.jpg" ibox="392,456">
+                <points>586,390;586,370;323,370;323,410</points>
+            </suite>
+            <suite name="14A-12" basemap="Tupper-fp14.jpg" ibox="392,456">
+                <points>586,390;586,370;323,370;323,410</points>
+            </suite>
+            <suite name="14A-11" basemap="Tupper-fp14.jpg" ibox="392,456">
+                <points>586,390;586,370;323,370;323,410</points>
+            </suite>
+            <suite name="14A-02" basemap="Tupper-fp14.jpg" ibox="392,456">
+                <points>586,390;586,370;323,370;323,447;296,447</points>
+            </suite>
+            <suite name="14A-03" basemap="Tupper-fp14.jpg" ibox="392,456">
+                <points>586,390;586,370;323,370;323,447;296,447</points>
+            </suite>
+            <suite name="14A-10" basemap="Tupper-fp14.jpg" ibox="392,456">
+                <points>586,390;586,370;323,370;323,447;216,447;216,432</points>
+            </suite>
+            <suite name="14A-08" basemap="Tupper-fp14.jpg" ibox="216,478">
+                <points>586,390;586,370;323,370;323,447;192,447</points>
+            </suite>
+            <suite name="14A-04" basemap="Tupper-fp14.jpg" ibox="216,478">
+                <points>586,390;586,370;323,370;323,447;192,447</points>
+            </suite>
+            <suite name="14A-05" basemap="Tupper-fp14.jpg" ibox="216,478">
+                <points>586,390;586,370;323,370;323,447;192,447</points>
+            </suite>
+            <suite name="14A-06" basemap="Tupper-fp14.jpg" ibox="216,478">
+                <points>586,390;586,370;323,370;323,447;192,447</points>
+            </suite>
+            <suite name="14A-07" basemap="Tupper-fp14.jpg" ibox="216,478">
+                <points>586,390;586,370;323,370;323,447;192,447</points>
+            </suite>
+            <suite name="14E-01" basemap="Tupper-fp14.jpg" ibox="483,240">
+                <points>640,390;640,369;740,369;740,333</points>
+            </suite>
+            <suite name="14E-02" basemap="Tupper-fp14.jpg" ibox="867,244">
+                <points>640,390;640,369;831,369;831,331</points>
+            </suite>
+            <suite name="14F" basemap="Tupper-fp14.jpg" ibox="714,220">
+                <points>640,390;640,369;903,369;903,337</points>
+            </suite>
+            <suite name="14F-01" basemap="Tupper-fp14.jpg" ibox="714,220">
+                <points>640,390;640,369;903,369;903,337</points>
+            </suite>
+            <suite name="14G-01" basemap="Tupper-fp14.jpg" ibox="1145,392">
+                <points>640,390;640,369;1089,369</points>
+            </suite>
+            <suite name="14G" basemap="Tupper-fp14.jpg" ibox="1145,392">
+                <points>640,390;640,369;1089,369</points>
+            </suite>
+            <suite name="14H" basemap="Tupper-fp14.jpg" ibox="939,423">
+                <points>640,390;640,369;897,369;897,399</points>
+            </suite>
+            <suite name="14H-01" basemap="Tupper-fp14.jpg" ibox="939,423">
+                <points>640,390;640,369;897,369;897,399</points>
+            </suite>
+            <suite name="14H-02" basemap="Tupper-fp14.jpg" ibox="939,423">
+                <points>640,390;640,369;897,369;897,399</points>
+            </suite>
+            <suite name="15A-01" basemap="Tupper-fp15.jpg" ibox="406,424">
+                <points>591,395;591,367;340,367;340,469</points>
+            </suite>
+            <suite name="15A-2" basemap="Tupper-fp15.jpg" ibox="406,424">
+                <points>591,395;591,367;340,367;340,437;324,437</points>
+            </suite>
+            <suite name="15A-3" basemap="Tupper-fp15.jpg" ibox="406,424">
+                <points>591,395;591,367;340,367;340,437;324,437</points>
+            </suite>
+            <suite name="15A-4" basemap="Tupper-fp15.jpg" ibox="406,424">
+                <points>591,395;591,367;340,367;340,437;324,437</points>
+            </suite>
+            <suite name="15A-5" basemap="Tupper-fp15.jpg" ibox="406,424">
+                <points>591,395;591,367;340,367;340,437;324,437</points>
+            </suite>
+            <suite name="15A-6" basemap="Tupper-fp15.jpg" ibox="406,424">
+                <points>591,395;591,367;340,367;340,437;324,437</points>
+            </suite>
+            <suite name="15A-7" basemap="Tupper-fp15.jpg" ibox="406,424">
+                <points>591,395;591,367;340,367;340,437;324,437</points>
+            </suite>
+            <suite name="15A-8" basemap="Tupper-fp15.jpg" ibox="406,424">
+                <points>591,395;591,367;340,367;340,437;324,437</points>
+            </suite>
+            <suite name="15B" basemap="Tupper-fp15.jpg" ibox="125,341">
+                <points>591,395;591,367;340,367;340,281;103,281;103,289</points>
+            </suite>
+            <suite name="15B-1" basemap="Tupper-fp15.jpg" ibox="125,341">
+                <points>591,395;591,367;340,367;340,281;103,281;103,289</points>
+            </suite>
+            <suite name="15B-2" basemap="Tupper-fp15.jpg" ibox="125,341">
+                <points>591,395;591,367;340,367;340,281;103,281;103,259</points>
+            </suite>
+            <suite name="15B-3" basemap="Tupper-fp15.jpg" ibox="125,341">
+                <points>591,395;591,367;340,367;340,281;318,281</points>
+            </suite>
+            <suite name="15B-4" basemap="Tupper-fp15.jpg" ibox="125,341">
+                <points>591,395;591,367;340,367;340,281;318,281</points>
+            </suite>
+            <suite name="15B-5" basemap="Tupper-fp15.jpg" ibox="125,341">
+                <points>591,395;591,367;340,367;340,281;318,281</points>
+            </suite>
+            <suite name="15B-6" basemap="Tupper-fp15.jpg" ibox="374,356">
+                <points>609,380;609,279;584,279</points>
+            </suite>
+            <suite name="15B-7" basemap="Tupper-fp15.jpg" ibox="374,356">
+                <points>609,380;609,279;584,279</points>
+            </suite>
+            <suite name="15B-8" basemap="Tupper-fp15.jpg" ibox="374,356">
+                <points>609,380;609,279;584,279</points>
+            </suite>
+            <suite name="15B-9" basemap="Tupper-fp15.jpg" ibox="374,356">
+                <points>609,380;609,279;584,279</points>
+            </suite>
+            <suite name="15B-10" basemap="Tupper-fp15.jpg" ibox="374,356">
+                <points>609,380;609,279;584,279</points>
+            </suite>
+            <suite name="15B-14" basemap="Tupper-fp15.jpg" ibox="374,356">
+                <points>609,380;609,279;584,279</points>
+            </suite>
+            <suite name="15B-15" basemap="Tupper-fp15.jpg" ibox="374,356">
+                <points>609,380;609,279;584,279</points>
+            </suite>
+            <suite name="15B-16" basemap="Tupper-fp15.jpg" ibox="374,356">
+                <points>609,380;609,279;584,279</points>
+            </suite>
+            <suite name="15B-17" basemap="Tupper-fp15.jpg" ibox="374,356">
+                <points>609,380;609,279;584,279</points>
+            </suite>
+            <suite name="15B-17A" basemap="Tupper-fp15.jpg" ibox="374,356">
+                <points>609,380;609,279;584,279</points>
+            </suite>
+            <suite name="15B-11" basemap="Tupper-fp15.jpg" ibox="730,258">
+                <points>609,380;609,279;639,279</points>
+            </suite>
+            <suite name="15B-12" basemap="Tupper-fp15.jpg" ibox="730,258">
+                <points>609,380;609,279;639,279</points>
+            </suite>
+            <suite name="15B-13" basemap="Tupper-fp15.jpg" ibox="730,258">
+                <points>609,380;609,279;639,279</points>
+            </suite>
+            <suite name="15C-1" basemap="Tupper-fp15.jpg" ibox="860,278">
+                <points>625,396;625,371;827,371;827,327</points>
+            </suite>
+            <suite name="15C" basemap="Tupper-fp15.jpg" ibox="860,278">
+                <points>625,396;625,371;827,371;827,327</points>
+            </suite>
+            <suite name="15D" basemap="Tupper-fp15.jpg" ibox="940,269">
+                <points>625,396;625,371;895,371;895,348</points>
+            </suite>
+            <suite name="15D-1" basemap="Tupper-fp15.jpg" ibox="940,269">
+                <points>625,396;625,371;895,371;895,348</points>
+            </suite>
+            <suite name="15D-2" basemap="Tupper-fp15.jpg" ibox="940,269">
+                <points>625,396;625,371;895,371;895,348</points>
+            </suite>
+            <suite name="15D-3" basemap="Tupper-fp15.jpg" ibox="1008,276">
+                <points>625,396;625,371;955,371;955,249;964,249</points>
+            </suite>
+            <suite name="15D-4" basemap="Tupper-fp15.jpg" ibox="1008,276">
+                <points>625,396;625,371;955,371;955,249;964,249</points>
+            </suite>
+            <suite name="15D-5" basemap="Tupper-fp15.jpg" ibox="1008,276">
+                <points>625,396;625,371;955,371;955,249;964,249</points>
+            </suite>
+            <suite name="15D-6" basemap="Tupper-fp15.jpg" ibox="1008,276">
+                <points>625,396;625,371;955,371;955,249;964,249</points>
+            </suite>
+            <suite name="15D-7" basemap="Tupper-fp15.jpg" ibox="1008,276">
+                <points>625,396;625,371;955,371;955,249;964,249</points>
+            </suite>
+            <suite name="15E-2" basemap="Tupper-fp15.jpg" ibox="697,409">
+                <points>625,396;625,371;938,371;938,394</points>
+            </suite>
+            <suite name="15E-1" basemap="Tupper-fp15.jpg" ibox="697,409">
+                <points>625,396;625,371;938,371;938,394</points>
+            </suite>
+            <suite name="15E-3" basemap="Tupper-fp15.jpg" ibox="697,409">
+                <points>625,396;625,371;938,371;938,394</points>
+            </suite>
+            <suite name="15E" basemap="Tupper-fp15.jpg" ibox="697,409">
+                <points>625,396;625,371;938,371;938,394</points>
+            </suite>
+            <suite name="15F" basemap="Tupper-fp15.jpg" ibox="697,409">
+                <points>625,396;625,371;1015,371;1015,437</points>
+            </suite>
+            <suite name="15F-1" basemap="Tupper-fp15.jpg" ibox="697,409">
+                <points>625,396;625,371;1015,371;1015,437</points>
+            </suite>
+            <suite name="15F-2" basemap="Tupper-fp15.jpg" ibox="1079,354">
+                <points>625,396;625,371;1015,371;1015,450;1025,450</points>
+            </suite>
+            <suite name="15F-3" basemap="Tupper-fp15.jpg" ibox="1079,354">
+                <points>625,396;625,371;1015,371;1015,450;1025,450</points>
+            </suite>
+            <suite name="15F-4" basemap="Tupper-fp15.jpg" ibox="1079,354">
+                <points>625,396;625,371;1015,371;1015,450;1025,450</points>
+            </suite>
+            <suite name="15E-4" basemap="Tupper-fp15.jpg" ibox="1097,335">
+                <points>625,396;625,371;990,371;1029,361</points>
+            </suite>
+            <suite name="15E-5" basemap="Tupper-fp15.jpg" ibox="1084,278">
+                <points>625,396;625,371;960,371;960,252;1266,252</points>
+            </suite>
+            <suite name="15E-6" basemap="Tupper-fp15.jpg" ibox="1084,278">
+                <points>625,396;625,371;960,371;960,252;1266,252</points>
+            </suite>
+            <suite name="15E-7" basemap="Tupper-fp15.jpg" ibox="1086,341">
+                <points>625,396;625,371;1017,371;1017,451;1265,451;1275,437</points>
+            </suite>
+            <suite name="15E-8" basemap="Tupper-fp15.jpg" ibox="1086,341">
+                <points>625,396;625,371;1017,371;1017,451;1265,451;1300,444</points>
+            </suite>
+            <suite name="15E-9" basemap="Tupper-fp15.jpg" ibox="1086,341">
+                <points>625,396;625,371;1017,371;1017,451;1265,451;1282,459</points>
+            </suite>
+            <suite name="6E" basemap="Tupper-fp6.jpg" ibox="288,238">
+                <points>614,395;614,368;522,368;522,336</points>
+            </suite>
+            <suite name="6D" basemap="Tupper-fp6.jpg" ibox="414,240">
+                <points>614,395;614,368;347,368;347,338</points>
+            </suite>
+            <suite name="6C-01" basemap="Tupper-fp6.jpg" ibox="250,242">
+                <points>614,395;614,368;232,368;232,333</points>
+            </suite>
+            <suite name="6C" basemap="Tupper-fp6.jpg" ibox="250,242">
+                <points>614,395;614,368;232,368;232,333</points>
+            </suite>
+            <suite name="6B" basemap="Tupper-fp6.jpg" ibox="271,416">
+                <points>614,395;614,368;237,368;237,407</points>
+            </suite>
+            <suite name="6F" basemap="Tupper-fp6.jpg" ibox="768,240">
+                <points>614,395;614,368;778,368;778,332</points>
+            </suite>
+            <suite name="6G" basemap="Tupper-fp6.jpg" ibox="938,303">
+                <points>614,395;614,368;887,368;887,346</points>
+            </suite>
+            <suite name="6H" basemap="Tupper-fp6.jpg" ibox="781,234">
+                <points>614,395;614,368;1003,368;1003,329</points>
+            </suite>
+            <suite name="6K" basemap="Tupper-fp6.jpg" ibox="1180,245">
+                <points>614,395;614,368;1142,368;1142,342</points>
+            </suite>
+            <suite name="6L" basemap="Tupper-fp6.jpg" ibox="1034,256">
+                <points>614,395;614,368;1272,368;1272,341</points>
+            </suite>
+            <suite name="6N" basemap="Tupper-fp6.jpg" ibox="1041,432">
+                <points>614,395;614,368;1245,368;1245,399</points>
+            </suite>
+            <suite name="6P" basemap="Tupper-fp6.jpg" ibox="690,423">
+                <points>614,395;614,368;894,368;956,368;956,397</points>
+            </suite>
+            <suite name="6A" basemap="Tupper-fp6.jpg" ibox="413,422">
+                <points>614,395;614,368;329,368;329,405</points>
+            </suite>
+            <suite name="5B" basemap="Tupper-fp5.jpg" ibox="247,425">
+                <points>611,394;611,367;288,367;258,377;155,377;155,397</points>
+            </suite>
+            <suite name="5C" basemap="Tupper-fp5.jpg" ibox="64,302">
+                <points>611,394;611,367;289,367;289,326</points>
+            </suite>
+            <suite name="5D-01" basemap="Tupper-fp5.jpg" ibox="527,240">
+                <points>611,394;611,367;453,367;453,345</points>
+            </suite>
+            <suite name="5D" basemap="Tupper-fp5.jpg" ibox="527,240">
+                <points>611,394;611,367;453,367;453,345</points>
+            </suite>
+            <suite name="5E" basemap="Tupper-fp5.jpg" ibox="379,235">
+                <points>610,399;610,341</points>
+            </suite>
+            <suite name="5F" basemap="Tupper-fp5.jpg" ibox="805,225">
+                <points>611,394;611,367;804,367;804,333</points>
+            </suite>
+            <suite name="5G" basemap="Tupper-fp5.jpg" ibox="1016,240">
+                <points>611,394;611,367;1001,367;1001,332</points>
+            </suite>
+            <suite name="5J" basemap="Tupper-fp5.jpg" ibox="832,262">
+                <points>611,394;611,367;1063,367;1063,331</points>
+            </suite>
+            <suite name="5K" basemap="Tupper-fp5.jpg" ibox="999,405">
+                <points>611,394;611,367;1185,367</points>
+            </suite>
+            <suite name="5L" basemap="Tupper-fp5.jpg" ibox="813,411">
+                <points>611,394;611,367;1032,367;1032,410</points>
+            </suite>
+            <suite name="5M" basemap="Tupper-fp5.jpg" ibox="1050,421">
+                <points>611,394;611,367;1006,367;1006,395</points>
+            </suite>
+            <suite name="5N" basemap="Tupper-fp5.jpg" ibox="967,422">
+                <points>611,394;611,367;918,367;918,404</points>
+            </suite>
+            <suite name="4E" basemap="Tupper-fp4.jpg" ibox="510,249">
+                <points>614,393;614,366;454,366;454,343</points>
+            </suite>
+            <suite name="4D" basemap="Tupper-fp4.jpg" ibox="342,280">
+                <points>614,393;614,366;312,366;312,337</points>
+            </suite>
+            <suite name="4C" basemap="Tupper-fp4.jpg" ibox="244,267">
+                <points>614,393;614,366;213,366;213,340</points>
+            </suite>
+            <suite name="4B" basemap="Tupper-fp4.jpg" ibox="245,400">
+                <points>614,393;614,366;238,366;205,372;197,372</points>
+            </suite>
+            <suite name="4A" basemap="Tupper-fp4.jpg" ibox="408,421">
+                <points>614,393;614,366;345,366;345,398</points>
+            </suite>
+            <suite name="4P" basemap="Tupper-fp4.jpg" ibox="749,433">
+                <points>615,392;615,368;805,368;959,368;959,397</points>
+            </suite>
+            <suite name="4N" basemap="Tupper-fp4.jpg" ibox="1162,394">
+                <points>615,392;615,368;1136,368;1136,405</points>
+            </suite>
+            <suite name="4M" basemap="Tupper-fp4.jpg" ibox="1057,428">
+                <points>615,392;615,368;1269,368;1269,399</points>
+            </suite>
+            <suite name="4K-01" basemap="Tupper-fp4.jpg" ibox="1030,399">
+                <points>640,409;640,371;1113,371;1113,344</points>
+            </suite>
+            <suite name="4K" basemap="Tupper-fp4.jpg" ibox="1030,399">
+                <points>640,409;640,371;1113,371;1113,344</points>
+            </suite>
+            <suite name="4J" basemap="Tupper-fp4.jpg" ibox="1095,265">
+                <points>615,392;615,368;805,368;959,368;1059,368;1059,342</points>
+            </suite>
+            <suite name="4G" basemap="Tupper-fp4.jpg" ibox="860,297">
+                <points>615,392;615,368;805,368;805,344</points>
+            </suite>
+            <suite name="4F" basemap="Tupper-fp4.jpg" ibox="709,339">
+                <points>614,393;614,366;651,366;651,344</points>
+            </suite>
+            <suite name="3E" basemap="Tupper-fp3.jpg" ibox="741,279">
+                <points>614,399;614,372;699,372;699,339</points>
+            </suite>
+            <suite name="3D" basemap="Tupper-fp3.jpg" ibox="480,268">
+                <points>614,399;614,372;427,372;427,345</points>
+            </suite>
+            <suite name="3C" basemap="Tupper-fp3.jpg" ibox="304,255">
+                <points>614,399;614,372;288,372;288,323;244,323</points>
+            </suite>
+            <suite name="3B" basemap="Tupper-fp3.jpg" ibox="288,439">
+                <points>614,399;614,372;288,372;288,412;226,412</points>
+            </suite>
+            <suite name="3A" basemap="Tupper-fp3.jpg" ibox="140,443">
+                <points>614,399;614,372;311,372;311,400</points>
+            </suite>
+            <suite name="3R" basemap="Tupper-fp3.jpg" ibox="962,392">
+                <points>614,399;614,372;832,372;934,372;934,448;944,471</points>
+            </suite>
+            <suite name="3F" basemap="Tupper-fp3.jpg" ibox="723,266">
+                <points>614,399;614,372;698,372;698,330</points>
+            </suite>
+            <suite name="3G" basemap="Tupper-fp3.jpg" ibox="816,316">
+                <points>614,399;614,372;735,372;735,345</points>
+            </suite>
+            <suite name="3H" basemap="Tupper-fp3.jpg" ibox="879,299">
+                <points>614,399;614,372;832,372;832,335</points>
+            </suite>
+            <suite name="3J" basemap="Tupper-fp3.jpg" ibox="1118,287">
+                <points>614,399;614,372;832,372;934,372;1089,372;1089,339</points>
+            </suite>
+            <suite name="2C" basemap="Tupper-fp2.jpg" ibox="673,224">
+                <points>1081,381;930,381;900,351;809,351;616,351;616,233</points>
+            </suite>
+            <suite name="2B" basemap="Tupper-fp2.jpg" ibox="884,607">
+                <points>1084,386;926,386;926,542;940,578;838,578</points>
+            </suite>
+            <suite name="2A" basemap="Tupper-fp2.jpg" ibox="434,274">
+                <points>1081,381;930,381;900,351;809,351;616,351;397,359</points>
+            </suite>
+            <suite name="2A-01" basemap="Tupper-fp2.jpg" ibox="434,274">
+                <points>1081,381;930,381;900,351;809,351;616,351;397,359</points>
+            </suite>
+            <suite name="1B" basemap="Tupper-fp1.jpg" ibox="607,313">
+                <points>537,350;504,350;504,387</points>
+            </suite>
+            <suite name="1A" basemap="Tupper-fp1.jpg" ibox="607,313">
+                <points>553,363;392,363</points>
+            </suite>
+            <suite name="1A-01" basemap="Tupper-fp1.jpg" ibox="607,313">
+                <points>553,363;392,363</points>
+            </suite>
+            <suite name="BD" basemap="Tupper-fpBasement.jpg" ibox="736,358">
+                <points>635,416;635,383;687,383;687,353</points>
+            </suite>
+            <suite name="BD-02" basemap="Tupper-fpBasement.jpg" ibox="736,358">
+                <points>635,416;635,383;687,383;687,353</points>
+            </suite>
+            <suite name="BC-07" basemap="Tupper-fpBasement.jpg" ibox="652,319">
+                <points>635,416;635,383;573,383;573,370</points>
+            </suite>
+            <suite name="BC-08" basemap="Tupper-fpBasement.jpg" ibox="579,295">
+                <points>635,416;635,383;537,383;537,361</points>
+            </suite>
+            <suite name="BC-03" basemap="Tupper-fpBasement.jpg" ibox="579,295">
+                <points>635,416;635,383;537,383;537,361</points>
+            </suite>
+            <suite name="BC-01" basemap="Tupper-fpBasement.jpg" ibox="229,271">
+                <points>635,416;635,383;426,383;426,354</points>
+            </suite>
+            <suite name="BC" basemap="Tupper-fpBasement.jpg" ibox="229,271">
+                <points>635,416;635,383;426,383;426,354</points>
+            </suite>
+            <suite name="BD-01" basemap="Tupper-fpBasement.jpg" ibox="736,358">
+                <points>635,416;635,383;687,383;687,353</points>
+            </suite>
+            <suite name="BB" basemap="Tupper-fpBasement.jpg" ibox="299,412">
+                <points>635,416;635,383;419,383;352,370;338,370;338,350</points>
+            </suite>
+            <suite name="BB-1" basemap="Tupper-fpBasement.jpg" ibox="299,412">
+                <points>635,416;635,383;419,383;352,370;338,370;338,350</points>
+            </suite>
+            <suite name="BB-2" basemap="Tupper-fpBasement.jpg" ibox="299,412">
+                <points>635,416;635,383;419,383;352,370;338,370;338,350</points>
+            </suite>
+            <suite name="BB-8" basemap="Tupper-fpBasement.jpg" ibox="299,412">
+                <points>635,416;635,383;419,383;352,370;338,370;338,350</points>
+            </suite>
+            <suite name="BB-3" basemap="Tupper-fpBasement.jpg" ibox="298,258">
+                <points>635,416;635,383;419,383;352,370;268,370;268,357</points>
+            </suite>
+            <suite name="BA-4" basemap="Tupper-fpBasement.jpg" ibox="120,414">
+                <points>635,416;635,383;419,383;352,370;174,370</points>
+            </suite>
+            <suite name="BB-4" basemap="Tupper-fpBasement.jpg" ibox="283,255">
+                <points>635,416;635,383;419,383;352,370;186,370;186,341</points>
+            </suite>
+            <suite name="BB-5" basemap="Tupper-fpBasement.jpg" ibox="283,255">
+                <points>635,416;635,383;419,383;352,370;186,370;186,341</points>
+            </suite>
+            <suite name="BB-6" basemap="Tupper-fpBasement.jpg" ibox="283,255">
+                <points>635,416;635,383;419,383;352,370;186,370;186,341</points>
+            </suite>
+            <suite name="BB-7" basemap="Tupper-fpBasement.jpg" ibox="283,255">
+                <points>635,416;635,383;419,383;352,370;186,370;186,341</points>
+            </suite>
+            <suite name="BA-2" basemap="Tupper-fpBasement.jpg" ibox="321,443">
+                <points>635,416;635,383;419,383;352,370;260,370;260,398</points>
+            </suite>
+            <suite name="BA" basemap="Tupper-fpBasement.jpg" ibox="403,440">
+                <points>635,416;635,383;419,383;352,370;312,370;312,398</points>
+            </suite>
+            <suite name="BE-02" basemap="Tupper-fpBasement.jpg" ibox="894,324">
+                <points>635,416;635,383;833,383;833,307</points>
+            </suite>
+            <suite name="BE-03" basemap="Tupper-fpBasement.jpg" ibox="894,324">
+                <points>635,416;635,383;833,383;833,307</points>
+            </suite>
+            <suite name="BF-06" basemap="Tupper-fpBasement.jpg" ibox="920,393">
+                <points>635,416;635,383;833,383;833,341;891,341</points>
+            </suite>
+            <suite name="BF-01" basemap="Tupper-fpBasement.jpg" ibox="996,388">
+                <points>635,416;635,383;833,383;833,341;1158,341</points>
+            </suite>
+            <suite name="BF" basemap="Tupper-fpBasement.jpg" ibox="996,388">
+                <points>635,416;635,383;833,383;833,341;1158,341</points>
+            </suite>
+            <suite name="BF-02" basemap="Tupper-fpBasement.jpg" ibox="977,380">
+                <points>635,416;635,383;833,383;833,341;1158,341</points>
+            </suite>
+            <suite name="BF-03" basemap="Tupper-fpBasement.jpg" ibox="977,380">
+                <points>635,416;635,383;833,383;833,341;1158,341</points>
+            </suite>
+            <suite name="BF-04" basemap="Tupper-fpBasement.jpg" ibox="977,380">
+                <points>635,416;635,383;833,383;833,341;1158,341</points>
+            </suite>
+            <suite name="13E" basemap="Tupper-fp13.jpg" ibox="640,283">
+                <points>584,392;584,369;497,369;497,325</points>
+            </suite>
+            <suite name="4L01" basemap="Tupper-fp4.jpg" ibox="958,257">
+                <points>615,392;615,368;1198,368;1198,343</points>
+            </suite>
+            <suite name="4L" basemap="Tupper-fp4.jpg" ibox="958,257">
+                <points>615,392;615,368;1198,368;1198,343</points>
+            </suite>
+            <suite name="11A" basemap="Tupper-fp11.jpg" ibox="96,419">
+                <points>587,389;587,370;325,370;325,400</points>
+            </suite>
+            <suite name="11A01" basemap="Tupper-fp11.jpg" ibox="96,419">
+                <points>587,389;587,370;325,370;325,400</points>
+            </suite>
+            <suite name="13-B2" basemap="Tupper-fp13.jpg" ibox="307,431">
+                <points>583,393;583,368;237,368;237,405</points>
+            </suite>
+            <suite name="2-B04" basemap="Tupper-fp2.jpg" ibox="1011,623">
+                <points>1084,386;926,386;926,542;958,597</points>
+            </suite>
+            <suite name="11B02" basemap="Tupper-fp11.jpg" ibox="163,423">
+                <points>587,389;587,370;173,370</points>
+            </suite>
+            <suite name="6B03" basemap="Tupper-fp6.jpg" ibox="250,242">
+                <points>614,395;614,368;231,368;198,378;179,378</points>
+            </suite>
+            <suite name="3B01" basemap="Tupper-fp3.jpg" ibox="288,439">
+                <points>614,399;614,372;288,372;288,412;226,412</points>
+            </suite>
+            <suite name="BE01" basemap="Tupper-fpBasement.jpg" ibox="851,339">
+                <points>632,405;632,387;796,387;796,346</points>
+            </suite>
+            <suite name="BC6" basemap="Tupper-fpBasement.jpg" ibox="626,270">
+                <points>635,416;635,383;538,383;538,330;538,293;538,256;570,256;570,286</points>
+            </suite>
+            <suite name="15A" basemap="Tupper-fp15.jpg" ibox="454,434">
+                <points>591,395;591,367;388,367;388,385</points>
+            </suite>
+            <suite name="14E" basemap="Tupper-fp14.jpg" ibox="608,231">
+                <points>640,390;640,369;578,369;578,331</points>
+            </suite>
+            <suite name="1A1" basemap="Link-fp1.jpg" ibox="710,566">
+                <points>633,522;633,632</points>
+            </suite>
+            <suite name="BC-1" basemap="Tupper-fpBasement.jpg" ibox="282,409">
+                <points>612,387;424,387;424,353</points>
+            </suite>
+            <suite name="1B1" basemap="Link-fp1.jpg" ibox="705,448">
+                <points>628,518;628,530;644,530</points>
+            </suite>
+            <suite name="BE-1" basemap="Tupper-fpBasement.jpg" ibox="822,226">
+                <points>612,388;793,388;793,310</points>
+            </suite>
+            <suite name="1B05" basemap="Link-fp1.jpg" ibox="363,388">
+                <points>623,526;595,526</points>
+            </suite>
+            <suite name="outdoors" basemap="Link-fp1.jpg" ibox="789,526">
+                <points>631,524;631,621;744,621</points>
+            </suite>
+            <suite name="Outdoors" basemap="Link-fp1.jpg" ibox="789,526">
+                <points>631,524;631,621;744,621</points>
+            </suite>
+            <suite name="BA-3" basemap="Tupper-fpBasement.jpg" ibox="250,436">
+                <points>610,380;223,380;223,404</points>
+            </suite>
+            <suite name="BA-1" basemap="Tupper-fpBasement.jpg" ibox="408,438">
+                <points>612,380;310,380;310,406</points>
+            </suite>
+            <suite name="10A08" basemap="Tupper-fp10.jpg" ibox="323,403">
+                <points>588,388;588,368;286,368</points>
+            </suite>
+            <suite name="1D" basemap="Tupper-fp1.jpg" ibox="702,266">
+                <points>635,461;635,296</points>
+            </suite>
+            <suite name="1D01" basemap="Tupper-fp1.jpg" ibox="702,266">
+                <points>635,461;635,296</points>
+            </suite>
+            <suite name="1-D10" basemap="Tupper-fp1.jpg" ibox="848,318">
+                <points>635,461;635,296;635,287;799,287</points>
+            </suite>
+            <suite name="1-D07" basemap="Tupper-fp1.jpg" ibox="783,356">
+                <points>635,461;635,296;635,287;747,287;747,312</points>
+            </suite>
+            <suite name="1-C01" basemap="Tupper-fp1.jpg" ibox="678,341">
+                <points>635,464;635,386;621,386</points>
+            </suite>
+            <suite name="1-C02" basemap="Tupper-fp1.jpg" ibox="678,341">
+                <points>635,464;635,386;586,386</points>
+            </suite>
+            <suite name="1-B01" basemap="Link-fp1.jpg" ibox="705,448">
+                <points>628,518;628,530;644,530</points>
+            </suite>
+            <suite name="1-B03" basemap="Link-fp1.jpg" ibox="705,448">
+                <points>628,518;628,530;644,530</points>
+            </suite>
+            <suite name="1-B02" basemap="Link-fp1.jpg" ibox="705,448">
+                <points>628,518;628,530;644,530</points>
+            </suite>
+            <suite name="1B02" basemap="Link-fp1.jpg" ibox="705,448">
+                <points>628,518;628,530;644,530</points>
+            </suite>
+            <suite name="1B03" basemap="Link-fp1.jpg" ibox="705,448">
+                <points>628,518;628,530;644,530</points>
+            </suite>
+            <suite name="1B01" basemap="Link-fp1.jpg" ibox="705,448">
+                <points>628,518;628,530;644,530</points>
+            </suite>
+            <suite name="1-A01" basemap="Link-fp1.jpg" ibox="710,566">
+                <points>633,522;633,632</points>
+            </suite>
+            <suite name="Tupper B" basemap="Tupper-fpBasement.jpg" ibox="776,361">
+                <points>611,407;611,382;731,382;731,542</points>
+            </suite>
+            <suite name="Basement" basemap="Tupper-fpBasement.jpg" ibox="784,385">
+                <points>608,387;730,387;730,544</points>
+            </suite>
+            <suite name="1C-01" basemap="Tupper-fp1.jpg" ibox="713,341">
+                <points>635,470;635,385;615,385</points>
+            </suite>
+            <suite name="BA3" basemap="Tupper-fpBasement.jpg" ibox="250,436">
+                <points>610,380;223,380;223,404</points>
+            </suite>
+            <suite name="BA4" basemap="Tupper-fpBasement.jpg" ibox="120,414">
+                <points>635,416;635,383;419,383;352,370;174,370</points>
+            </suite>
+            <suite name="BB4" basemap="Tupper-fpBasement.jpg" ibox="283,255">
+                <points>635,416;635,383;419,383;352,370;186,370;186,341</points>
+            </suite>
+            <suite name="BB6" basemap="Tupper-fpBasement.jpg" ibox="283,255">
+                <points>635,416;635,383;419,383;352,370;186,370;186,341</points>
+            </suite>
+            <suite name="BB7" basemap="Tupper-fpBasement.jpg" ibox="283,255">
+                <points>635,416;635,383;419,383;352,370;186,370;186,341</points>
+            </suite>
+            <suite name="BB5" basemap="Tupper-fpBasement.jpg" ibox="283,255">
+                <points>635,416;635,383;419,383;352,370;186,370;186,341</points>
+            </suite>
+            <suite name="BB3" basemap="Tupper-fpBasement.jpg" ibox="298,258">
+                <points>635,416;635,383;419,383;352,370;268,370;268,357</points>
+            </suite>
+            <suite name="BB2" basemap="Tupper-fpBasement.jpg" ibox="299,412">
+                <points>635,416;635,383;419,383;352,370;338,370;338,347;327,347</points>
+            </suite>
+            <suite name="BB1" basemap="Tupper-fpBasement.jpg" ibox="299,412">
+                <points>635,416;635,383;419,383;352,370;338,370;338,350</points>
+            </suite>
+            <suite name="BC1" basemap="Tupper-fpBasement.jpg" ibox="282,409">
+                <points>612,387;424,387;424,353</points>
+            </suite>
+            <suite name="BC2" basemap="Tupper-fpBasement.jpg" ibox="598,235">
+                <points>635,416;635,383;538,383;538,262</points>
+            </suite>
+            <suite name="BC3" basemap="Tupper-fpBasement.jpg" ibox="602,273">
+                <points>635,416;635,383;538,383;538,309</points>
+            </suite>
+            <suite name="BC8" basemap="Tupper-fpBasement.jpg" ibox="598,273">
+                <points>635,416;635,383;538,383;538,356</points>
+            </suite>
+            <suite name="BC7" basemap="Tupper-fpBasement.jpg" ibox="632,342">
+                <points>610,384;572,384;572,365</points>
+            </suite>
+            <suite name="BD01" basemap="Tupper-fpBasement.jpg" ibox="650,469">
+                <points>615,385;687,385;687,364</points>
+            </suite>
+            <suite name="BC5" basemap="Tupper-fpBasement.jpg" ibox="704,255">
+                <points>635,416;635,383;538,383;538,330;538,293;538,256;640,256</points>
+            </suite>
+            <suite name="BD02" basemap="Tupper-fpBasement.jpg" ibox="713,386">
+                <points>615,385;687,385;687,345;699,345</points>
+            </suite>
+            <suite name="BE02" basemap="Tupper-fpBasement.jpg" ibox="912,287">
+                <points>611,385;835,385;835,308</points>
+            </suite>
+            <suite name="BE03" basemap="Tupper-fpBasement.jpg" ibox="1055,268">
+                <points>611,385;835,385;835,228;1179,228</points>
+            </suite>
+            <suite name="BF06" basemap="Tupper-fpBasement.jpg" ibox="900,395">
+                <points>611,385;835,385;835,338;871,338</points>
+            </suite>
+            <suite name="BF01" basemap="Tupper-fpBasement.jpg" ibox="990,392">
+                <points>611,385;835,385;835,338;1165,338</points>
+            </suite>
+            <suite name="BF02" basemap="Tupper-fpBasement.jpg" ibox="939,406">
+                <points>611,385;835,385;835,338;1165,338</points>
+            </suite>
+            <suite name="BF03" basemap="Tupper-fpBasement.jpg" ibox="939,406">
+                <points>611,385;835,385;835,338;1165,338</points>
+            </suite>
+            <suite name="BF04" basemap="Tupper-fpBasement.jpg" ibox="939,406">
+                <points>611,385;835,385;835,338;1165,338</points>
+            </suite>
+            <suite name="BA1" basemap="Tupper-fpBasement.jpg" ibox="428,431">
+                <points>611,388;406,388;384,410</points>
+            </suite>
+        </building>
+        <building name="Clinical Research Centre">
+            <suite name="C-121" basemap="Clinical-fp1.jpg" ibox="1142,304">
+                <points>490,490;490,427;575,427;575,492;1047,492;1047,479;1156,479;1156,380;1098,380;1098,310;1104,310</points>
+            </suite>
+            <suite name="C-206A" basemap="Clinical-fp2.jpg" ibox="1148,405">
+                <points>491,497;491,434;575,434;575,496;1045,496;1045,488;1120,488;1120,495</points>
+            </suite>
+            <suite name="C-224" basemap="Clinical-fp2.jpg" ibox="1175,205">
+                <points>491,497;491,434;575,434;575,495;1045,495;1045,489;1145,489;1145,166</points>
+            </suite>
+            <suite name="C106" basemap="Clinical-fp1.jpg" ibox="1165,373">
+                <points>489,490;489,426;575,426;575,493;1047,493;1047,480;1154,480;1154,494</points>
+            </suite>
+            <suite name="C-106D" basemap="Clinical-fp1.jpg" ibox="1038,313">
+                <points>490,490;490,426;574,426;574,492;1046,492;1046,479;1155,479;1155,538;1123,538</points>
+            </suite>
+            <suite name="C-106E" basemap="Clinical-fp1.jpg" ibox="1038,313">
+                <points>490,490;490,426;574,426;574,492;1046,492;1046,479;1155,479;1155,538;1123,538</points>
+            </suite>
+            <suite name="C-106F" basemap="Clinical-fp1.jpg" ibox="1038,313">
+                <points>490,490;490,426;574,426;574,492;1046,492;1046,479;1155,479;1155,538;1123,538</points>
+            </suite>
+            <suite name="C-106A" basemap="Clinical-fp1.jpg" ibox="1197,412">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,511;1183,511</points>
+            </suite>
+            <suite name="C-106B" basemap="Clinical-fp1.jpg" ibox="1197,412">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,511;1154,531;1181,531</points>
+            </suite>
+            <suite name="C-106C" basemap="Clinical-fp1.jpg" ibox="1197,412">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,511;1154,531;1154,559;1176,559</points>
+            </suite>
+            <suite name="C-106H" basemap="Clinical-fp1.jpg" ibox="1197,412">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,511;1179,511;1179,498</points>
+            </suite>
+            <suite name="C-105" basemap="Clinical-fp1.jpg" ibox="1099,503">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1160,451</points>
+            </suite>
+            <suite name="C-104" basemap="Clinical-fp1.jpg" ibox="1099,503">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1162,428</points>
+            </suite>
+            <suite name="C-112A" basemap="Clinical-fp1.jpg" ibox="1099,503">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1143,398</points>
+            </suite>
+            <suite name="C-103" basemap="Clinical-fp1.jpg" ibox="1099,503">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1160,391</points>
+            </suite>
+            <suite name="C-102" basemap="Clinical-fp1.jpg" ibox="1099,503">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,368;1162,368</points>
+            </suite>
+            <suite name="C-101" basemap="Clinical-fp1.jpg" ibox="1099,503">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,368;1154,347;1160,347</points>
+            </suite>
+            <suite name="C-115" basemap="Clinical-fp1.jpg" ibox="1099,503">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1072,380;1072,344;1066,344</points>
+            </suite>
+            <suite name="C-X115" basemap="Clinical-fp1.jpg" ibox="1099,503">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1072,380;1072,369</points>
+            </suite>
+            <suite name="C-115G" basemap="Clinical-fp1.jpg" ibox="1070,204">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1072,380;1072,345;1053,345</points>
+            </suite>
+            <suite name="C-115F" basemap="Clinical-fp1.jpg" ibox="1070,204">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1072,380;1072,345;1053,345</points>
+            </suite>
+            <suite name="C-115A" basemap="Clinical-fp1.jpg" ibox="1070,204">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1072,380;1072,345;1053,345</points>
+            </suite>
+            <suite name="C-115B" basemap="Clinical-fp1.jpg" ibox="1070,204">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1072,380;1072,345;1053,345</points>
+            </suite>
+            <suite name="C-115C" basemap="Clinical-fp1.jpg" ibox="1070,204">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1072,380;1072,345;1053,345</points>
+            </suite>
+            <suite name="C-115D" basemap="Clinical-fp1.jpg" ibox="1070,204">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1072,380;1072,345;1053,345</points>
+            </suite>
+            <suite name="C-115E" basemap="Clinical-fp1.jpg" ibox="1070,204">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1072,380;1072,345;1053,345</points>
+            </suite>
+            <suite name="C-X120" basemap="Clinical-fp1.jpg" ibox="1070,204">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1098,380;1098,312;1092,312</points>
+            </suite>
+            <suite name="C-122" basemap="Clinical-fp1.jpg" ibox="1173,319">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1154,313;1131,313;1131,321</points>
+            </suite>
+            <suite name="C-123" basemap="Clinical-fp1.jpg" ibox="1173,319">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1154,313;1131,313;1131,302</points>
+            </suite>
+            <suite name="C-132" basemap="Clinical-fp1.jpg" ibox="1173,319">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1154,313;1154,257;1163,257</points>
+            </suite>
+            <suite name="C-132A" basemap="Clinical-fp1.jpg" ibox="1173,319">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1154,313;1154,257;1163,257;1174,257;1174,265</points>
+            </suite>
+            <suite name="C-132B" basemap="Clinical-fp1.jpg" ibox="1173,319">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1154,313;1154,257;1163,257;1174,257;1174,247</points>
+            </suite>
+            <suite name="C-124" basemap="Clinical-fp1.jpg" ibox="1173,319">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1154,313;1154,257;1154,225;1146,225</points>
+            </suite>
+            <suite name="C-124A" basemap="Clinical-fp1.jpg" ibox="1173,319">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1154,313;1154,257;1154,225;1146,225;1130,225;1130,233</points>
+            </suite>
+            <suite name="C-125" basemap="Clinical-fp1.jpg" ibox="1173,319">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1154,313;1154,257;1154,225;1154,212</points>
+            </suite>
+            <suite name="C-125A" basemap="Clinical-fp1.jpg" ibox="1173,319">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1154,313;1154,257;1154,225;1154,207;1195,207;1195,194</points>
+            </suite>
+            <suite name="C-125B" basemap="Clinical-fp1.jpg" ibox="1173,319">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1154,313;1154,257;1154,225;1154,207;1154,172</points>
+            </suite>
+            <suite name="C-125C" basemap="Clinical-fp1.jpg" ibox="1173,319">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1154,313;1154,257;1154,225;1154,207;1141,207;1141,186;1132,186</points>
+            </suite>
+            <suite name="C-125D" basemap="Clinical-fp1.jpg" ibox="1173,319">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1154,313;1154,257;1154,225;1154,207;1142,207;1142,184;1105,184;1105,178</points>
+            </suite>
+            <suite name="C-125E" basemap="Clinical-fp1.jpg" ibox="1172,221">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1154,313;1154,257;1154,225;1154,207;1154,134;1114,134</points>
+            </suite>
+            <suite name="C-125G" basemap="Clinical-fp1.jpg" ibox="1172,221">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1154,313;1154,257;1154,225;1154,207;1154,156;1186,156</points>
+            </suite>
+            <suite name="C-125F" basemap="Clinical-fp1.jpg" ibox="1172,221">
+                <points>491,490;491,427;575,427;575,492;1046,492;1046,480;1154,480;1154,451;1154,428;1154,398;1154,391;1154,380;1154,313;1154,257;1154,225;1154,207;1154,156;1154,130;1185,130</points>
+            </suite>
+            <suite name="C-205" basemap="Clinical-fp2.jpg" ibox="1196,408">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,500</points>
+            </suite>
+            <suite name="C-205A" basemap="Clinical-fp2.jpg" ibox="1196,408">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,511;1184,511</points>
+            </suite>
+            <suite name="C-205B" basemap="Clinical-fp2.jpg" ibox="1196,408">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,511;1147,537;1177,537</points>
+            </suite>
+            <suite name="C-205C" basemap="Clinical-fp2.jpg" ibox="1196,408">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,511;1162,511;1162,547</points>
+            </suite>
+            <suite name="C-205D" basemap="Clinical-fp2.jpg" ibox="1196,408">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,511;1147,534;1136,534;1136,541</points>
+            </suite>
+            <suite name="C-205E" basemap="Clinical-fp2.jpg" ibox="1196,408">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,511;1147,534;1125,534;1125,546</points>
+            </suite>
+            <suite name="C-205F" basemap="Clinical-fp2.jpg" ibox="1196,408">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,511;1147,534;1128,534</points>
+            </suite>
+            <suite name="C-206" basemap="Clinical-fp2.jpg" ibox="1196,408">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,511;1112,511</points>
+            </suite>
+            <suite name="C-205G" basemap="Clinical-fp2.jpg" ibox="1196,408">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,511;1174,511;1174,504</points>
+            </suite>
+            <suite name="C-204" basemap="Clinical-fp2.jpg" ibox="1173,493">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1156,453</points>
+            </suite>
+            <suite name="C-203" basemap="Clinical-fp2.jpg" ibox="1173,493">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,425;1154,425</points>
+            </suite>
+            <suite name="C-202" basemap="Clinical-fp2.jpg" ibox="1173,493">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,425;1147,408;1155,408</points>
+            </suite>
+            <suite name="C-X212" basemap="Clinical-fp2.jpg" ibox="1173,493">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1140,446</points>
+            </suite>
+            <suite name="C-213" basemap="Clinical-fp2.jpg" ibox="1173,493">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1147,431;1140,431</points>
+            </suite>
+            <suite name="C-214" basemap="Clinical-fp2.jpg" ibox="1173,493">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1147,431;1147,410;1140,410</points>
+            </suite>
+            <suite name="THTR D" basemap="Clinical-fp2.jpg" ibox="1173,493">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1147,431;1147,410;1147,381;1080,381</points>
+            </suite>
+            <suite name="C-216" basemap="Clinical-fp2.jpg" ibox="1173,493">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1147,431;1147,410;1147,380;1104,380;1104,371</points>
+            </suite>
+            <suite name="C-242A" basemap="Clinical-fp2.jpg" ibox="1173,493">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1147,431;1147,410;1147,380;1147,288;1147,280;1162,280</points>
+            </suite>
+            <suite name="C-242B" basemap="Clinical-fp2.jpg" ibox="1173,493">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1147,431;1147,410;1147,380;1147,288;1147,280;1162,280</points>
+            </suite>
+            <suite name="C-242C" basemap="Clinical-fp2.jpg" ibox="1173,493">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1147,431;1147,410;1147,380;1147,288;1147,280;1147,251;1154,251</points>
+            </suite>
+            <suite name="C-240" basemap="Clinical-fp2.jpg" ibox="1176,219">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1147,431;1147,410;1147,380;1147,288;1147,280;1147,251;1147,174;1156,174</points>
+            </suite>
+            <suite name="C-238" basemap="Clinical-fp2.jpg" ibox="1176,219">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1147,431;1147,410;1147,380;1147,288;1147,280;1147,251;1147,174;1180,174;1180,180;1198,180;1198,174</points>
+            </suite>
+            <suite name="C-220" basemap="Clinical-fp2.jpg" ibox="1176,219">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1147,431;1147,410;1147,380;1147,288;1140,288</points>
+            </suite>
+            <suite name="C-221" basemap="Clinical-fp2.jpg" ibox="1176,219">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1147,431;1147,410;1147,380;1147,288;1147,258;1140,258</points>
+            </suite>
+            <suite name="C-222" basemap="Clinical-fp2.jpg" ibox="1176,219">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1147,431;1147,410;1147,380;1147,288;1147,258;1147,228;1140,228</points>
+            </suite>
+            <suite name="C-223" basemap="Clinical-fp2.jpg" ibox="1176,219">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1147,431;1147,410;1147,380;1147,288;1147,258;1147,228;1147,176;1140,176</points>
+            </suite>
+            <suite name="C-W225" basemap="Clinical-fp2.jpg" ibox="1176,219">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1147,431;1147,410;1147,380;1147,288;1147,258;1147,228;1147,176;1147,145;1121,145;1121,151</points>
+            </suite>
+            <suite name="C-235" basemap="Clinical-fp2.jpg" ibox="1176,219">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1147,431;1147,410;1147,380;1147,288;1147,258;1147,228;1147,176;1147,145;1156,145</points>
+            </suite>
+            <suite name="C-236" basemap="Clinical-fp2.jpg" ibox="1176,219">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1147,431;1147,410;1147,380;1147,288;1147,258;1147,228;1147,176;1147,145;1156,145</points>
+            </suite>
+            <suite name="C-237" basemap="Clinical-fp2.jpg" ibox="1176,219">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1147,431;1147,410;1147,380;1147,288;1147,258;1147,228;1147,176;1147,145;1177,145</points>
+            </suite>
+            <suite name="C-233" basemap="Clinical-fp2.jpg" ibox="1176,219">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1147,431;1147,410;1147,380;1147,288;1147,258;1147,228;1147,176;1147,145;1124,145</points>
+            </suite>
+            <suite name="C-232" basemap="Clinical-fp2.jpg" ibox="1176,219">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1147,431;1147,410;1147,380;1147,288;1147,258;1147,228;1147,176;1147,145;1124,145</points>
+            </suite>
+            <suite name="C-230" basemap="Clinical-fp2.jpg" ibox="1176,219">
+                <points>491,498;491,433;576,433;576,497;1046,497;1046,487;1147,487;1147,453;1147,446;1147,431;1147,410;1147,380;1147,288;1147,258;1147,228;1147,176;1147,145;1124,145;1086,145</points>
+            </suite>
+            <suite name="C-306" basemap="Clinical-fp3.jpg" ibox="1178,416">
+                <points>490,493;490,432;575,432;575,496;1045,496;1045,482;1103,482;1103,462;1140,462;1140,468</points>
+            </suite>
+            <suite name="C-305" basemap="Clinical-fp3.jpg" ibox="1120,307">
+                <points>490,493;490,432;575,432;575,496;1045,496;1045,482;1103,482;1103,462;1140,462;1159,462;1159,468</points>
+            </suite>
+            <suite name="C-304" basemap="Clinical-fp3.jpg" ibox="1195,303">
+                <points>490,493;490,432;575,432;575,496;1045,496;1045,482;1103,482;1103,462;1140,462;1164,462</points>
+            </suite>
+            <suite name="C-304A" basemap="Clinical-fp3.jpg" ibox="1195,303">
+                <points>490,493;490,432;575,432;575,496;1045,496;1045,482;1103,482;1103,462;1140,462;1164,462;1185,462</points>
+            </suite>
+            <suite name="C-307A" basemap="Clinical-fp3.jpg" ibox="1195,303">
+                <points>490,493;490,432;575,432;575,496;1045,496;1045,482;1103,482;1103,462;1140,462;1160,462;1160,437;1128,437;1128,430</points>
+            </suite>
+            <suite name="C-307" basemap="Clinical-fp3.jpg" ibox="1195,303">
+                <points>490,493;490,432;575,432;575,496;1045,496;1045,482;1103,482;1103,462;1140,462;1160,462;1160,437;1153,437</points>
+            </suite>
+            <suite name="C-303" basemap="Clinical-fp3.jpg" ibox="1195,303">
+                <points>490,493;490,432;575,432;575,496;1045,496;1045,482;1103,482;1103,462;1140,462;1160,462;1160,428;1167,428</points>
+            </suite>
+            <suite name="C-302" basemap="Clinical-fp3.jpg" ibox="1195,303">
+                <points>490,493;490,432;575,432;575,496;1045,496;1045,482;1103,482;1103,462;1140,462;1160,462;1160,428;1160,405;1169,405</points>
+            </suite>
+            <suite name="C-308" basemap="Clinical-fp3.jpg" ibox="1195,303">
+                <points>490,493;490,432;575,432;575,496;1045,496;1045,482;1103,482;1103,462;1140,462;1160,462;1160,428;1160,405;1154,405</points>
+            </suite>
+            <suite name="C-301" basemap="Clinical-fp3.jpg" ibox="1193,388">
+                <points>490,493;490,432;575,432;575,496;1045,496;1045,482;1103,482;1103,462;1140,462;1160,462;1160,428;1160,405;1160,381;1144,381;1144,361;1154,361</points>
+            </suite>
+            <suite name="C-309" basemap="Clinical-fp3.jpg" ibox="1193,388">
+                <points>490,493;490,432;575,432;575,496;1045,496;1045,482;1103,482;1103,462;1140,462;1160,462;1160,428;1160,405;1160,381;1144,381;1144,361;1134,361</points>
+            </suite>
+            <suite name="C-312" basemap="Clinical-fp3.jpg" ibox="1193,388">
+                <points>490,493;490,432;575,432;575,496;1045,496;1045,482;1103,482;1103,462;1140,462;1160,462;1160,428;1160,405;1160,381;1144,381;1144,361;1144,311;1159,311;1159,286;1153,286</points>
+            </suite>
+            <suite name="C-313" basemap="Clinical-fp3.jpg" ibox="1193,388">
+                <points>490,493;490,432;575,432;575,496;1045,496;1045,482;1103,482;1103,462;1140,462;1160,462;1160,428;1160,405;1160,381;1144,381;1144,361;1144,311;1159,311;1159,286;1159,266;1151,266</points>
+            </suite>
+            <suite name="C-314" basemap="Clinical-fp3.jpg" ibox="1193,388">
+                <points>490,493;490,432;575,432;575,496;1045,496;1045,482;1103,482;1103,462;1140,462;1160,462;1160,428;1160,405;1160,381;1144,381;1144,361;1144,311;1159,311;1159,286;1159,266;1159,251;1151,251</points>
+            </suite>
+            <suite name="C-315" basemap="Clinical-fp3.jpg" ibox="1186,274">
+                <points>490,493;490,432;575,432;575,496;1045,496;1045,482;1103,482;1103,462;1140,462;1160,462;1160,428;1160,405;1160,381;1144,381;1144,361;1144,311;1159,311;1159,286;1159,266;1159,251;1159,228;1151,228</points>
+            </suite>
+            <suite name="C-316" basemap="Clinical-fp3.jpg" ibox="1186,274">
+                <points>490,493;490,432;575,432;575,496;1045,496;1045,482;1103,482;1103,462;1140,462;1160,462;1160,428;1160,405;1160,381;1144,381;1144,361;1144,311;1159,311;1159,286;1159,266;1159,251;1159,224</points>
+            </suite>
+            <suite name="C-317" basemap="Clinical-fp3.jpg" ibox="1186,274">
+                <points>490,493;490,432;575,432;575,496;1045,496;1045,482;1103,482;1103,462;1140,462;1160,462;1160,428;1160,405;1160,381;1144,381;1144,361;1144,311;1159,311;1159,286;1159,266;1159,251;1159,228;1165,228</points>
+            </suite>
+            <suite name="C-318" basemap="Clinical-fp3.jpg" ibox="1186,274">
+                <points>490,493;490,432;575,432;575,496;1045,496;1045,482;1103,482;1103,462;1140,462;1160,462;1160,428;1160,405;1160,381;1144,381;1144,361;1144,311;1159,311;1159,286;1159,266;1159,251;1159,239;1168,239</points>
+            </suite>
+            <suite name="C-319" basemap="Clinical-fp3.jpg" ibox="1203,386">
+                <points>490,493;490,432;575,432;575,496;1045,496;1045,482;1103,482;1103,462;1140,462;1160,462;1160,428;1160,405;1160,381;1144,381;1144,361;1144,311;1159,311;1159,286;1159,271;1168,271</points>
+            </suite>
+            <suite name="C-320" basemap="Clinical-fp3.jpg" ibox="1203,386">
+                <points>490,493;490,432;575,432;575,496;1045,496;1045,482;1103,482;1103,462;1140,462;1160,462;1160,428;1160,405;1160,381;1144,381;1144,361;1144,311;1159,311;1159,288;1173,288</points>
+            </suite>
+            <suite name="C-106" basemap="Clinical-fp1.jpg" ibox="1186,453">
+                <points>490,491;490,427;574,427;574,492;1045,492;1045,479;1156,479;1156,498</points>
+            </suite>
+            <suite name="C-241" basemap="Clinical-fp2.jpg" ibox="1186,249">
+                <points>491,497;491,433;575,433;575,497;1045,497;1045,489;1146,489;1146,215;1161,215</points>
+            </suite>
+            <suite name="C-112" basemap="Clinical-fp1.jpg" ibox="1180,384">
+                <points>490,491;490,427;575,427;575,493;1046,493;1046,482;1154,482;1154,397;1132,397;1132,403</points>
+            </suite>
+            <suite name="C-234" basemap="Clinical-fp2.jpg" ibox="1172,156">
+                <points>492,498;492,433;576,433;576,496;1045,496;1045,487;1147,487;1147,147</points>
+            </suite>
+            <suite name="C-106G" basemap="Clinical-fp1.jpg" ibox="1193,514">
+                <points>490,487;490,428;574,428;574,488;1046,488;1046,480;1153,480;1153,537;1132,537</points>
+            </suite>
+            <suite name="C-218" basemap="Clinical-fp2.jpg" ibox="1186,249">
+                <points>491,497;491,433;575,433;575,497;1045,497;1045,489;1146,489;1146,352</points>
+            </suite>
+        </building>
+        <building name="Link Building">
+            <suite name="LB5" basemap="Link-fp2.jpg" ibox="616,325">
+                <points>560,219;572,233;572,285</points>
+            </suite>
+            <suite name="LB3" basemap="Link-fp2.jpg" ibox="632,277">
+                <points>557,220;573,236;573,259;614,259;614,243</points>
+            </suite>
+            <suite name="L3" basemap="Link-fp2.jpg" ibox="725,286">
+                <points>557,220;573,236;573,259;655,259;655,276</points>
+            </suite>
+            <suite name="L5" basemap="Link-fp2.jpg" ibox="722,250">
+                <points>557,220;573,236;573,259;655,259;655,239</points>
+            </suite>
+            <suite name="L9" basemap="Link-fp2.jpg" ibox="817,238">
+                <points>557,220;573,236;573,259;765,259;765,248</points>
+            </suite>
+            <suite name="L10" basemap="Link-fp2.jpg" ibox="656,107">
+                <points>557,220;573,236;573,259;822,259</points>
+            </suite>
+            <suite name="L11" basemap="Link-fp2.jpg" ibox="612,333">
+                <points>557,220;573,236;573,259;808,259;808,302;791,302</points>
+            </suite>
+            <suite name="L14" basemap="Link-fp2.jpg" ibox="823,362">
+                <points>557,220;573,236;573,259;808,259;808,316;821,316</points>
+            </suite>
+            <suite name="L16" basemap="Link-fp2.jpg" ibox="820,401">
+                <points>557,220;573,236;573,259;808,259;808,370;821,370</points>
+            </suite>
+            <suite name="L15" basemap="Link-fp2.jpg" ibox="611,410">
+                <points>557,220;573,236;573,259;808,259;808,383;793,383</points>
+            </suite>
+            <suite name="L18" basemap="Link-fp2.jpg" ibox="826,440">
+                <points>557,220;573,236;573,259;808,259;808,396;820,396</points>
+            </suite>
+            <suite name="L17" basemap="Link-fp2.jpg" ibox="608,455">
+                <points>557,220;573,236;573,259;808,259;808,423;784,423</points>
+            </suite>
+            <suite name="L20" basemap="Link-fp2.jpg" ibox="824,476">
+                <points>557,220;573,236;573,259;808,259;808,437;823,437</points>
+            </suite>
+            <suite name="L22" basemap="Link-fp2.jpg" ibox="825,525">
+                <points>557,220;573,236;573,259;808,259;808,489;817,489</points>
+            </suite>
+            <suite name="LB8" basemap="Link-fp2.jpg" ibox="617,503">
+                <points>557,220;573,236;573,440;613,440;613,454</points>
+            </suite>
+            <suite name="L26" basemap="Link-fp2.jpg" ibox="661,519">
+                <points>557,220;573,236;573,440;656,440;656,457</points>
+            </suite>
+            <suite name="L24" basemap="Link-fp2.jpg" ibox="661,519">
+                <points>557,220;573,236;573,440;710,440;710,459</points>
+            </suite>
+            <suite name="L21" basemap="Link-fp2.jpg" ibox="661,519">
+                <points>557,220;573,236;573,440;753,440;753,457</points>
+            </suite>
+            <suite name="L19" basemap="Link-fp2.jpg" ibox="661,519">
+                <points>557,220;573,236;573,440;793,440;793,459</points>
+            </suite>
+            <suite name="L23" basemap="Link-fp2.jpg" ibox="721,410">
+                <points>557,220;573,236;573,440;682,440;682,426</points>
+            </suite>
+            <suite name="L25" basemap="Link-fp2.jpg" ibox="692,429">
+                <points>557,220;573,236;573,440;655,440;655,427</points>
+            </suite>
+            <suite name="L12" basemap="Link-fp2.jpg" ibox="612,374">
+                <points>557,220;573,236;573,259;808,259;808,277;819,277</points>
+            </suite>
+            <suite name="L13" basemap="Link-fp2.jpg" ibox="612,374">
+                <points>557,220;573,236;573,259;808,259;808,342;793,342</points>
+            </suite>
+            <suite name="2L-D01" basemap="Link-fp2.jpg" ibox="622,651">
+                <points>557,220;573,236;573,464;557,464;557,705;547,705</points>
+            </suite>
+            <suite name="2LD01" basemap="Link-fp2.jpg" ibox="622,651">
+                <points>557,220;573,236;573,464;557,464;557,705;547,705</points>
+            </suite>
+            <suite name="2LD03" basemap="Link-fp2.jpg" ibox="622,651">
+                <points>557,220;573,236;573,464;557,464;557,639;565,639</points>
+            </suite>
+            <suite name="2L-D03" basemap="Link-fp2.jpg" ibox="622,651">
+                <points>557,220;573,236;573,464;557,464;557,639;565,639</points>
+            </suite>
+            <suite name="2L-D02" basemap="Link-fp2.jpg" ibox="622,651">
+                <points>557,220;573,236;573,464;557,464;557,664;570,664</points>
+            </suite>
+            <suite name="2LD02" basemap="Link-fp2.jpg" ibox="622,651">
+                <points>557,220;573,236;573,464;557,464;557,664;570,664</points>
+            </suite>
+            <suite name="2LD05" basemap="Link-fp2.jpg" ibox="708,650">
+                <points>557,220;573,236;573,464;557,464;557,702;595,702</points>
+            </suite>
+            <suite name="2L-D05" basemap="Link-fp2.jpg" ibox="708,650">
+                <points>557,220;573,236;573,464;557,464;557,702;595,702</points>
+            </suite>
+            <suite name="2-L5" basemap="Link-fp2.jpg" ibox="722,250">
+                <points>557,220;573,236;573,259;655,259;655,239</points>
+            </suite>
+            <suite name="THTR A" basemap="Link-fp1.jpg" ibox="716,496">
+                <points>634,469;634,408;736,408;736,466;934,466;934,444;941,444</points>
+            </suite>
+            <suite name="THTR B" basemap="Link-fp1.jpg" ibox="1059,315">
+                <points>634,469;634,408;736,408;736,466;1025,466;1025,446;1006,446</points>
+            </suite>
+            <suite name="G27" basemap="Link-fp1.jpg" ibox="1187,307">
+                <points>634,469;634,408;736,408;736,466;1025,466;1176,466;1176,427;1196,427</points>
+            </suite>
+            <suite name="G28" basemap="Link-fp1.jpg" ibox="919,281">
+                <points>634,469;634,408;736,408;736,466;1025,466;1176,466;1176,349</points>
+            </suite>
+            <suite name="G34" basemap="Link-fp1.jpg" ibox="889,285">
+                <points>634,469;634,408;736,408;736,466;845,466;845,260;911,260;911,245</points>
+            </suite>
+            <suite name="G33" basemap="Link-fp1.jpg" ibox="889,285">
+                <points>634,469;634,408;736,408;736,466;845,466;845,260;955,260;955,245</points>
+            </suite>
+            <suite name="G33B" basemap="Link-fp1.jpg" ibox="889,285">
+                <points>634,469;634,408;736,408;736,466;845,466;845,260;955,260;955,212;969,212</points>
+            </suite>
+            <suite name="2LA02" basemap="Link-fp2.jpg" ibox="912,384">
+                <points>866,458;866,469</points>
+            </suite>
+            <suite name="2LA03" basemap="Link-fp2.jpg" ibox="912,384">
+                <points>866,458;866,469</points>
+            </suite>
+            <suite name="2L-B5" basemap="Link-fp2.jpg" ibox="1021,368">
+                <points>871,450;914,450</points>
+            </suite>
+            <suite name="2L-B3" basemap="Link-fp2.jpg" ibox="935,356">
+                <points>870,449;897,449;897,414;886,414</points>
+            </suite>
+            <suite name="2L07" basemap="Link-fp2.jpg" ibox="935,356">
+                <points>870,449;897,449;897,376;883,376</points>
+            </suite>
+            <suite name="2L03" basemap="Link-fp2.jpg" ibox="994,351">
+                <points>870,449;897,449;897,376;910,376</points>
+            </suite>
+            <suite name="2L-09" basemap="Link-fp2.jpg" ibox="920,234">
+                <points>870,449;897,449;897,277;890,277</points>
+            </suite>
+            <suite name="2L-10" basemap="Link-fp2.jpg" ibox="926,155">
+                <points>870,449;897,449;897,235</points>
+            </suite>
+            <suite name="2L-12" basemap="Link-fp2.jpg" ibox="932,245">
+                <points>870,449;897,449;897,241;912,241;912,222</points>
+            </suite>
+            <suite name="2L-14" basemap="Link-fp2.jpg" ibox="951,267">
+                <points>870,449;897,449;897,241;947,241;947,226</points>
+            </suite>
+            <suite name="2L-16" basemap="Link-fp2.jpg" ibox="951,267">
+                <points>870,449;897,449;897,241;947,241;996,241;996,218</points>
+            </suite>
+            <suite name="2L-18" basemap="Link-fp2.jpg" ibox="951,267">
+                <points>870,449;897,449;897,241;947,241;1019,241;1019,228</points>
+            </suite>
+            <suite name="2L18" basemap="Link-fp2.jpg" ibox="951,267">
+                <points>870,449;897,449;897,241;947,241;1019,241;1019,228</points>
+            </suite>
+            <suite name="2L20" basemap="Link-fp2.jpg" ibox="951,267">
+                <points>870,449;897,449;897,241;947,241;1056,241;1056,225</points>
+            </suite>
+            <suite name="2L-20" basemap="Link-fp2.jpg" ibox="951,267">
+                <points>870,449;897,449;897,241;947,241;1056,241;1056,225</points>
+            </suite>
+            <suite name="2L22" basemap="Link-fp2.jpg" ibox="951,267">
+                <points>870,449;897,449;897,241;947,241;1102,241;1102,227</points>
+            </suite>
+            <suite name="2L-22" basemap="Link-fp2.jpg" ibox="951,267">
+                <points>870,449;897,449;897,241;947,241;1102,241;1102,227</points>
+            </suite>
+            <suite name="2L-17" basemap="Link-fp2.jpg" ibox="944,336">
+                <points>870,449;897,449;897,241;947,241;1044,241;1044,254</points>
+            </suite>
+            <suite name="2L17" basemap="Link-fp2.jpg" ibox="944,336">
+                <points>870,449;897,449;897,241;947,241;1044,241;1044,254</points>
+            </suite>
+            <suite name="2L-15" basemap="Link-fp2.jpg" ibox="944,336">
+                <points>870,449;897,449;897,241;947,241;1009,241;1009,255</points>
+            </suite>
+            <suite name="2L15" basemap="Link-fp2.jpg" ibox="944,336">
+                <points>870,449;897,449;897,241;947,241;1009,241;1009,255</points>
+            </suite>
+            <suite name="2L13" basemap="Link-fp2.jpg" ibox="944,336">
+                <points>870,449;897,449;897,241;947,241;973,241;973,256</points>
+            </suite>
+            <suite name="2L-13" basemap="Link-fp2.jpg" ibox="944,336">
+                <points>870,449;897,449;897,241;947,241;973,241;973,256</points>
+            </suite>
+            <suite name="2L-11" basemap="Link-fp2.jpg" ibox="944,336">
+                <points>870,449;897,449;897,241;934,241;934,252</points>
+            </suite>
+            <suite name="2L11" basemap="Link-fp2.jpg" ibox="944,336">
+                <points>870,449;897,449;897,241;934,241;934,252</points>
+            </suite>
+            <suite name="2L-03" basemap="Link-fp2.jpg" ibox="980,319">
+                <points>870,449;897,449;897,376;910,376</points>
+            </suite>
+            <suite name="2L-B8" basemap="Link-fp2.jpg" ibox="1121,307">
+                <points>873,450;1060,450;1060,413;1072,413</points>
+            </suite>
+            <suite name="2LC03" basemap="Link-fp2.jpg" ibox="915,318">
+                <points>873,450;1060,450;1075,450;1086,460;1077,467</points>
+            </suite>
+            <suite name="2LC02" basemap="Link-fp2.jpg" ibox="915,318">
+                <points>873,450;1060,450;1075,450;1086,460;1086,469</points>
+            </suite>
+            <suite name="2LC01" basemap="Link-fp2.jpg" ibox="915,318">
+                <points>873,450;1060,450;1075,450;1097,464;1122,464;1122,475</points>
+            </suite>
+            <suite name="2LC04" basemap="Link-fp2.jpg" ibox="945,331">
+                <points>873,450;1060,450;1075,450;1097,464;1187,464;1187,474</points>
+            </suite>
+            <suite name="2LD14" basemap="Link-fp2.jpg" ibox="945,331">
+                <points>873,450;1060,450;1075,450;1097,464;1171,464;1171,385;1154,385</points>
+            </suite>
+            <suite name="2LD13" basemap="Link-fp2.jpg" ibox="945,331">
+                <points>873,450;1060,450;1075,450;1097,464;1171,464;1171,385;1171,334;1156,334</points>
+            </suite>
+            <suite name="2LD12" basemap="Link-fp2.jpg" ibox="929,249">
+                <points>873,450;1060,450;1075,450;1097,464;1171,464;1171,385;1171,310;1158,310</points>
+            </suite>
+            <suite name="2LD11" basemap="Link-fp2.jpg" ibox="929,249">
+                <points>873,450;1060,450;1075,450;1097,464;1171,464;1171,385;1171,268;1162,268</points>
+            </suite>
+            <suite name="2LD16" basemap="Link-fp2.jpg" ibox="970,260">
+                <points>873,450;1060,450;1075,450;1097,464;1171,464;1171,385;1184,350</points>
+            </suite>
+            <suite name="2L-07" basemap="Link-fp2.jpg" ibox="919,337">
+                <points>870,449;897,449;897,376;882,376</points>
+            </suite>
+            <suite name="2LA2" basemap="Link-fp2.jpg" ibox="912,384">
+                <points>866,458;866,469</points>
+            </suite>
+            <suite name="G36" basemap="Link-fp1.jpg" ibox="889,285">
+                <points>634,469;634,408;736,408;736,466;845,466;845,249</points>
+            </suite>
+            <suite name="H1" basemap="Link-fp1.jpg" ibox="899,357">
+                <points>633,468;633,407;737,407;737,478;861,478</points>
+            </suite>
+            <suite name="GW01 / GW02" basemap="Link-fp1.jpg" ibox="798,476">
+                <points>634,468;634,411;736,411;736,451;793,451;793,424</points>
+            </suite>
+            <suite name="Courtyard outdoors" basemap="Link-fp1.jpg" ibox="705,448">
+                <points>633,520;633,621;731,621;764,621</points>
+            </suite>
+            <suite name="G-34" basemap="Link-fp1.jpg" ibox="953,226">
+                <points>633,466;633,410;736,410;736,470;845,470;845,262;911,262;911,240</points>
+            </suite>
+            <suite name="2L-19" basemap="Link-fp2.jpg" ibox="1122,223">
+                <points>870,448;898,448;898,238;1059,238;1059,253;1069,253</points>
+            </suite>
+            <suite name="2L-21" basemap="Link-fp2.jpg" ibox="1126,260">
+                <points>878,448;897,448;897,240;1060,240;1060,290;1069,290</points>
+            </suite>
+            <suite name="2L-24" basemap="Link-fp2.jpg" ibox="1126,284">
+                <points>878,448;897,448;897,240;1060,240;1060,328;1072,328</points>
+            </suite>
+            <suite name="2L-23" basemap="Link-fp2.jpg" ibox="932,393">
+                <points>878,448;897,448;897,240;1060,240;1060,354;1052,354</points>
+            </suite>
+            <suite name="2L-25" basemap="Link-fp2.jpg" ibox="1013,412">
+                <points>878,448;897,448;897,240;1060,240;1060,375;1047,375</points>
+            </suite>
+            <suite name="2L-26" basemap="Link-fp2.jpg" ibox="1013,412">
+                <points>878,448;897,448;897,240;1060,240;1060,375;1072,375</points>
+            </suite>
+            <suite name="2L-C03" basemap="Link-fp2.jpg" ibox="1113,355">
+                <points>878,448;897,448;897,240;1060,240;1060,443;1087,456;1087,462</points>
+            </suite>
+            <suite name="2L-C02" basemap="Link-fp2.jpg" ibox="1113,355">
+                <points>878,448;897,448;897,240;1060,240;1060,443;1087,456;1087,462</points>
+            </suite>
+            <suite name="2L-C01" basemap="Link-fp2.jpg" ibox="1113,355">
+                <points>878,448;897,448;897,240;1060,240;1060,443;1098,464;1122,464;1122,471</points>
+            </suite>
+            <suite name="2L-C04" basemap="Link-fp2.jpg" ibox="1113,355">
+                <points>878,448;897,448;897,240;1060,240;1060,443;1098,464;1189,464;1189,473</points>
+            </suite>
+            <suite name="2L-D16" basemap="Link-fp2.jpg" ibox="1149,186">
+                <points>878,448;897,448;897,240;1060,240;1060,443;1098,464;1189,464;1189,375</points>
+            </suite>
+            <suite name="2L-D14" basemap="Link-fp2.jpg" ibox="1139,247">
+                <points>878,448;897,448;897,240;1060,240;1060,443;1098,464;1175,464;1175,383;1159,383</points>
+            </suite>
+            <suite name="2L-D13" basemap="Link-fp2.jpg" ibox="1145,186">
+                <points>878,448;897,448;897,240;1060,240;1060,443;1098,464;1175,464;1175,333;1164,333</points>
+            </suite>
+            <suite name="2L-D12" basemap="Link-fp2.jpg" ibox="1145,186">
+                <points>878,448;897,448;897,240;1060,240;1060,443;1098,464;1175,464;1175,308;1163,308</points>
+            </suite>
+            <suite name="2L-D11" basemap="Link-fp2.jpg" ibox="1187,187">
+                <points>878,448;897,448;897,240;1060,240;1060,443;1098,464;1175,464;1175,267;1160,267</points>
+            </suite>
+            <suite name="1st Floor Link" basemap="Link-fp1.jpg" ibox="1132,345">
+                <points>634,468;634,411;736,411;736,471;1104,471;1104,456</points>
+            </suite>
+            <suite name="1st floor Link" basemap="Link-fp1.jpg" ibox="1130,340">
+                <points>634,468;634,411;736,411;736,471;1104,471;1153,478;1184,478</points>
+            </suite>
+            <suite name="THTR C" basemap="Link-fp1.jpg" ibox="835,272">
+                <points>634,469;634,408;736,408;736,466;1113,466;1113,250</points>
+            </suite>
+            <suite name="G-33" basemap="Link-fp1.jpg" ibox="889,285">
+                <points>634,469;634,408;736,408;736,466;845,466;845,260;955,260;955,245</points>
+            </suite>
+            <suite name="G-33B" basemap="Link-fp1.jpg" ibox="889,285">
+                <points>634,469;634,408;736,408;736,466;845,466;845,260;955,260;955,212;969,212</points>
+            </suite>
+        </building>
+        <building name="1494 Carlton Street, Halifax Nova Scotia Canada">
+            <suite name="all" basemap="map1494-Carlton.jpg" ibox="683,229">
+                <points>1536,373;1536,343</points>
+            </suite>
+        </building>
+        <building name="5850 University Avenue, Halifax Nova Scotia Canada">
+            <suite name="all" basemap="mapIWK-Health-Centre.jpg" ibox="865,412">
+                <points>1536,373;1536,343</points>
+            </suite>
+        </building>
+        <building name="5955 Veterana Memorial Lane, Halifax Nova Scotia C">
+            <suite name="all" basemap="mapVeterans-Memorial-Building.jpg" ibox="282,259">
+                <points>1536,373;1536,343</points>
+            </suite>
+        </building>
+        <building name="Abbie J Lane Building, Halifax Infirmary Site">
+            <suite name="all" basemap="mapAbbieJ-Lane-Building.jpg" ibox="689,202">
+                <points>1536,373;1536,343</points>
+            </suite>
+        </building>
+        <building name="Bethune Building, Victoria General Site">
+            <suite name="all" basemap="mapQEII-Health-Sciences-Centre.jpg" ibox="990,320">
+                <points>1536,373;1536,343</points>
+            </suite>
+        </building>
+        <building name="Centre for Clinical Research, Victoria General Sit">
+            <suite name="all" basemap="map5790-University.jpg" ibox="460,446">
+                <points>1536,373;1536,343</points>
+            </suite>
+        </building>
+        <building name="Children&apos;s Health Services Building">
+            <suite name="all" basemap="mapIWK-Health-Centre.jpg" ibox="890,427">
+                <points>1526,442;1526,409</points>
+            </suite>
+        </building>
+        <building name="1535 Dresden Row, Halifax Nova Scotia Canada">
+            <suite name="all" basemap="map1535-Dresden-Row.jpg" ibox="1075,61">
+                <points>1536,373;1536,343</points>
+            </suite>
+        </building>
+        <building name="Dalhousie Medicine New Brunswick Building">
+            <suite name="all" basemap="mapDalhousie-Medicine-New-Brunswick-Building.jpg" ibox="328,401">
+                <points>1487,404;1478,377</points>
+            </suite>
+        </building>
+        <building name="Abbie J Lane Building">
+            <suite name="all" basemap="mapAbbieJ-Lane-Building.jpg" ibox="692,198">
+                <points>1526,442;1526,409</points>
+            </suite>
+        </building>
+        <building name="Bethune Building">
+            <suite name="all" basemap="mapQEII-Health-Sciences-Centre.jpg" ibox="1004,318">
+                <points>1526,442;1526,409</points>
+            </suite>
+        </building>
+        <building name="Centre for Clinical Research">
+            <suite name="all" basemap="map5790-University.jpg" ibox="452,384">
+                <points>1526,442;1526,409</points>
+            </suite>
+        </building>
+        <building name="Denistry Building">
+            <suite name="all" basemap="mapDentistry-Building.jpg" ibox="523,581">
+                <points>1487,404;1478,377</points>
+            </suite>
+        </building>
+        <building name="Dickson Building">
+            <suite name="all" basemap="mapDickson-Building.jpg" ibox="919,428">
+                <points>1516,357;1516,332</points>
+            </suite>
+        </building>
+        <building name="Halifax Infirmary">
+            <suite name="all" basemap="mapHalifax-Infirmary.jpg" ibox="742,69">
+                <points>1516,357;1516,332</points>
+            </suite>
+        </building>
+        <building name="IWK Health Centre">
+            <suite name="all" basemap="mapIWK-Health-Centre.jpg" ibox="891,413">
+                <points>1516,357;1516,332</points>
+            </suite>
+        </building>
+        <building name="Thompson Building">
+            <suite name="all" basemap="mapThompson-Building.jpg" ibox="1073,336">
+                <points>1516,357;1516,332</points>
+            </suite>
+        </building>
+        <building name="Veterans Memorial Building">
+            <suite name="all" basemap="mapVeterans-Memorial-Building.jpg" ibox="315,284">
+                <points>1498,480;1498,457</points>
+            </suite>
+        </building>
+        <building name="Victoria Building">
+            <suite name="all" basemap="mapQEII-Health-Sciences-Centre.jpg" ibox="995,319">
+                <points>1498,480;1498,457</points>
+            </suite>
+        </building>
+        <building name="1494 Carlton Street, Halifax Nova  Scotia Canada">
+            <suite name="all" basemap="map1494-Carlton.jpg" ibox="697,191">
+                <points>1514,446;1514,422</points>
+            </suite>
+        </building>
+        <building name="Life Sciences Research Institute">
+            <suite name="All" basemap="Tupper-fp4.jpg" ibox="1101,422">
+                <points>620,403;620,370;1246,370</points>
+            </suite>
+            <suite name="all" basemap="mapLife-Sciences-Research-Institute-North-South.jpg" ibox="922,323">
+                <points>1514,446;1514,422</points>
+            </suite>
+        </building>
+        <building name="LSRI">
+            <suite name="All" basemap="mapLSRI-Building.jpg" ibox="965,476">
+                <points>1483,555;1483,549</points>
+            </suite>
+        </building>
+        <building name="Dentistry Building">
+            <suite name="all" basemap="map5981-UniversityDentistryBuilding.jpg" ibox="553,579">
+                <points>1514,446;1514,422</points>
+            </suite>
+        </building>
+        <building name="Life Sciences Research Centre">
+            <suite name="all" basemap="mapLife-Sciences-Research-Institute-North-South.jpg" ibox="922,323">
+                <points>1514,446;1514,422</points>
+            </suite>
+        </building>
+        <building name="1318 Robie Street, Halifax Nova Scotia Canada">
+            <suite name="all" basemap="map1318Robie.jpg" ibox="820,337">
+                <points>1312,840;1331,840</points>
+            </suite>
+        </building>
+    </paths>
+    <speed>5</speed>
+</dataroot>
