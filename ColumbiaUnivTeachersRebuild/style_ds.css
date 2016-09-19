@@ -1,0 +1,99 @@
+body {background-color: #241a14 }
+
+table.OnePixelBorder {background-color: #5a514c }
+
+tr.bgHeader {background-color: #413832 }
+
+tr.bgRow1 {background-color: #19130f }
+
+tr.bgRow2 {background-color: #2d241f }
+
+tr.bgPropHead {background-color: #5a514c }
+
+.headLarge {font-family: Optima LT, Verdana, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 24px;
+		font-weight: bold;
+		margin-left: 8px; margin-right: 8px }
+
+.headMed {font-family: Optima LT, Verdana, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 22px;
+		font-weight: bold;
+		margin-left: 8px; margin-right: 8px }
+
+.listLarge {font-family: Optima LT, Verdana, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 21px;
+		font-weight: normal;
+		margin-left: 8px; margin-right: 8px }
+
+.listMed {font-family: Optima LT, Verdana, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 18px;
+		font-weight: normal;
+		margin-left: 8px; margin-right: 8px }
+
+.listSmall {font-family: Optima LT, Verdana, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 16px;
+		font-weight: normal;
+		margin-left: 8px; margin-right: 8px }
+
+.textdirections {font-family: Verdana, Arial, sans-serif;
+		color: #000000;
+		font-size: 12px;
+		font-weight: normal }
+
+.listXS {font-family: Optima LT, Verdana, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 8px;
+		font-weight: normal;
+		margin-left: 8px; margin-right: 8px }
+
+table.Mgmt {position:absolute; left:106px; top:100px; }
+table.Leas {position:absolute; left:628px; top:100px; }
+td.PropHdrHeight  {height:80; }
+td.HdrSize  {width:427; height:50; }
+td.BoxSize  {width:427; height:370; }
+
+.headProperty {font-family: Optima LT, Verdana, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 42px;
+		font-weight: normal }
+
+.headBox {font-family: Garamond, Palatino, Times, serif;
+		color: #ffffff;
+		font-size: 28px;
+		font-weight: bold }
+
+td.setOne1 { width: 40%; padding:8; height:45 }
+td.setOne2 { width: 25%; padding:8; height:45 }
+td.setOne3 { width: 20%; padding:8; height:45 }
+td.setOne4 { width: 15%; padding:8; height:45 }
+td.setOne5 { width: 0%; padding:0; height:45 }
+
+td.setTwo1 { width: 25%; padding:8; height:35 }
+td.setTwo2 { width: 30%; padding:8; height:35 }
+td.setTwo3 { width: 25%; padding:8; height:35 }
+td.setTwo4 { width: 20%; padding:8; height:35 }
+td.setTwo5 { width: 0%; padding:0; height:35 }
+
+td.setThree1 { width: 35%; padding:8; height:45 }
+td.setThree2 { width: 45%; padding:8; height:45 }
+td.setThree3 { width: 20%; padding:8; height:45 }
+td.setThree4 { width: 0%; padding:0; height:35 }
+td.setThree5 { width: 0%; padding:0; height:35 }
+
+td.setFour1 { width: 12%; padding:8; height:35 }
+td.setFour2 { width: 15%; padding:8; height:35 }
+td.setFour3 { width: 15%; padding:8; height:35 }
+td.setFour4 { width: 20%; padding:8; height:35 }
+td.setFour5 { width: 38%; padding:8; height:35 }
+
+td.setFive1 { width: 19%; padding:8; height:35 }
+td.setFive2 { width: 22%; padding:8; height:35 }
+td.setFive3 { width: 19%; padding:8; height:35 }
+td.setFive4 { width: 20%; padding:8; height:35 }
+td.setFive5 { width: 0%; padding:0; height:35 }
+
