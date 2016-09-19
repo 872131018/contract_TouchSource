@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+   <tables>
+      <Companies dataSource="3632.mdb" aspFile="dbLookup.asp" idField="CompanyID" suiteField="Suite" bldgField="building" displayLines="[lb]Suite ;Suite[br];CompanyName" ibBkgd="infobox.png" ibFont="Gill Sans MT" ibBold="true" ibItalic="false" ibTxtColor="000000" ibAlign="center" ibSize="16" ibLeading="1" ibLeftMargin="10" ibRightMargin="10" ibTopMargin="8" ibBottomMargin="8" ibGraphicMargin="10" ibMaxWidth="240" ibErrorText="The requested map is not available." />
+      <Amenities dataSource="3632.mdb" aspFile="dbLookup.asp" idField="AmenityID" suiteField="Suite" bldgField="Building" displayLines="AmenityName" ibBkgd="infobox.png" ibFont="Gill Sans MT" ibBold="true" ibItalic="false" ibTxtColor="000000" ibAlign="center" ibSize="16" ibLeading="1" ibLeftMargin="10" ibRightMargin="10" ibTopMargin="8" ibBottomMargin="8" ibGraphicMargin="10" ibMaxWidth="240" ibErrorText="The requested map is not available." />
+      <Individuals dataSource="3632.mdb" aspFile="dbLookup.asp" idField="IndID" suiteField="Suite" bldgField="Ranking" displayLines="[lb]Suite ;Suite[br];IndividualName" ibBkgd="infobox.png" ibFont="Gill Sans MT" ibBold="true" ibItalic="false" ibTxtColor="000000" ibAlign="center" ibSize="16" ibLeading="1" ibLeftMargin="10" ibRightMargin="10" ibTopMargin="8" ibBottomMargin="8" ibGraphicMargin="10" ibMaxWidth="240" ibErrorText="The requested map is not available." />
+   </tables>
+   <colors>0000ff;00ff00;ff0000;003a6e</colors>
+   <paths width="6" color="003a6e" looppath="false">
+      <building name="">
+         <suite name="20S" basemap="fpll.jpg" ibox="738,730">
+            <points>635,221;635,820;682,820;701,784</points>
+         </suite>
+         <suite name="30S" basemap="fpll.jpg" ibox="514,890">
+            <points>635,221;635,820;647,820;624,863;580,863;580,816</points>
+         </suite>
+         <suite name="10S" basemap="fpll.jpg" ibox="763,843">
+            <points>635,221;635,820;670,813;776,813</points>
+         </suite>
+         <suite name="Conference Room A" basemap="fpll.jpg" ibox="763,797">
+            <points>635,221;635,820;724,800;747,762;793,762;808,735</points>
+         </suite>
+         <suite name="Conference Room B" basemap="fpll.jpg" ibox="763,797">
+            <points>635,221;635,820;724,800;747,762;847,762;877,740</points>
+         </suite>
+         <suite name="40S" basemap="fpll.jpg" ibox="378,880">
+            <points>635,221;635,820;647,820;634,851;343,851;349,838;395,825</points>
+         </suite>
+         <suite name="80N" basemap="fpll.jpg" ibox="413,957">
+            <points>635,221;635,820;647,820;634,851;569,890;553,922;499,922</points>
+         </suite>
+         <suite name="40N" basemap="fpll.jpg" ibox="528,994">
+            <points>635,221;635,820;647,820;634,851;569,890;533,957;578,957</points>
+         </suite>
+         <suite name="50N" basemap="fpll.jpg" ibox="466,1195">
+            <points>635,221;635,820;647,820;634,851;569,890;481,1055;498,1070;464,1139</points>
+         </suite>
+         <suite name="70N" basemap="fpll.jpg" ibox="303,1141">
+            <points>635,221;635,820;647,820;634,851;569,890;481,1055;504,1078;490,1102;445,1102</points>
+         </suite>
+         <suite name="100S" basemap="fp1.jpg" ibox="749,344">
+            <points>611,445;629,445;702,367</points>
+         </suite>
+         <suite name="160N" basemap="fp1.jpg" ibox="548,561">
+            <points>599,461;608,476;597,501</points>
+         </suite>
+         <suite name="170N" basemap="fp1.jpg" ibox="461,538">
+            <points>570,458;548,469;447,469;433,497;471,497</points>
+         </suite>
+         <suite name="180N" basemap="fp1.jpg" ibox="286,541">
+            <points>570,458;548,469;346,469;330,499</points>
+         </suite>
+         <suite name="150N" basemap="fp1.jpg" ibox="455,784">
+            <points>570,458;548,469;445,469;376,604;539,604;475,731</points>
+         </suite>
+         <suite name="200S" basemap="fp2.jpg" ibox="730,123">
+            <points>626,797;626,199;669,199;684,157</points>
+         </suite>
+         <suite name="250N" basemap="fp2.jpg" ibox="325,318">
+            <points>639,794;639,217;598,289</points>
+         </suite>
+         <suite name="300S" basemap="fp3.jpg" ibox="725,215">
+            <points>632,793;619,305;658,299;690,243</points>
+         </suite>
+         <suite name="340S" basemap="fp3.jpg" ibox="625,169">
+            <points>632,793;619,305;658,299;665,274;545,274;562,238</points>
+         </suite>
+         <suite name="451" basemap="fp4.jpg" ibox="724,172">
+            <points>633,795;616,304;647,304;668,269</points>
+         </suite>
+         <suite name="500S" basemap="fp5.jpg" ibox="724,172">
+            <points>633,795;616,304;658,304;675,261</points>
+         </suite>
+      </building>
+   </paths>
+   <speed>8</speed>
+</dataroot>

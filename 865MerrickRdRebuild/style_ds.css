@@ -1,0 +1,430 @@
+body {background-color: #28434c }
+
+/* Slideshow */
+
+.pics {  
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 814px;
+	overflow: hidden;
+	border: solid 0px #fff;
+} 
+ 
+.pics img {  
+	max-width: 100%;
+	max-height: 100%;
+} 
+
+
+/* Scrolling Message */
+
+
+.tickercontainer {
+	position: absolute;
+	top: 0px;
+    background-color: #13262c;
+	border-top: solid 0px #fff;
+	border-bottom: solid 0px #fff;
+	width: 1080px; 
+	height: 140px; 
+	margin: 0; 
+	padding: 45px 0px 45px 0px;
+	overflow: hidden; 
+}
+.tickercontainer .mask { /* that serves as a mask. so you get a sort of padding both left and right */
+	position: relative;
+	left: 0px;
+	top: 8px;
+	width: 1080px;
+	overflow: hidden;
+}
+ul.newsticker { /* that's your list */
+	position: relative;
+	left: 1080px;
+	font: italic 30px Century Gothic;
+	color: #ffffff;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+ul.newsticker li {
+	float: left; /* important: display inline gives incorrect results when you check for elem's width */
+	margin: 0;
+	padding: 0;
+	white-space: nowrap; /* important - keeps text from wrapping */
+}
+
+
+/* Directory Listing Fonts */
+
+
+tr.bgPropHead {background-color: #none }
+
+tr.bgHeader {background-color: none }
+.headerStyle {border-bottom: #b6c0c6 solid 3px; background-image: url('bg_header.jpg')}
+
+/* Styles used when listings have alternating colors and 1-pixel border  */
+table.OnePixelBorder {background-color: #5a514c }
+tr.bgRow1 {background-color: #19130f }
+tr.bgRow2 {background-color: #2d241f }
+
+/* Listing font styles - Removed padding from font classes to fix table widths */
+.headLarge {
+	font-size: 34px;
+	font-weight: bold; 
+}
+.headMed {
+	font-size: 32px;
+	font-weight: bold;
+}
+.listLarge {
+	font-size: 30px;
+	font-weight: normal;
+}
+.listMed {
+	font-size: 26px;
+	font-weight: normal;
+}
+.listSmall {
+	font-size: 22px;
+	font-weight: normal;
+}
+.listXS {
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.headLarge, .headMed, .listLarge, .listMed, .listSmall, .listXS {
+	font-family: Century Gothic, Verdana, Arial, sans-serif;
+	color: #ffffff;
+}
+
+
+/* ++++++++ Begin Building Info Page ++++++++  */
+.mgmtCont {
+	left:229px;     /* Management box location  */
+	top:121px; 
+}
+.leaseCont {
+	left:229px;      /* Leasing box location  */
+	top:697px; 
+}
+.mgmtCont, .leaseCont {
+	position:absolute; 
+	text-align: center;
+	font-family: Futura LT Book, Century Gothic, Arial, sans-serif;
+}
+.bldgHeader {
+	font-size: 28px;
+	font-weight: bold;
+	color: #ffffff;
+	width: 617px; 
+	height: 50px; 
+	padding: 14px 0px 0px 0px;
+	border-top: 2px solid #b6bfc6;
+	border-right: 2px solid #b6bfc6;
+	border-bottom: 1px solid #b6bfc6;
+	border-left: 2px solid #b6bfc6;
+	border-radius: 25px 25px 0px 0px;
+	background: rgba(46, 67, 76, .50);
+}
+.bldgData {
+	font-size: 24px;
+	font-weight: normal;
+	color: #ffffff;
+	padding: 0px 20px 0px 20px;
+	width: 577px; 
+	height: 410px;  /* Increase this height for taller boxes */
+	border-top: 1px solid #b6bfc6;
+	border-right: 2px solid #b6bfc6;
+	border-bottom: 2px solid #b6bfc6;
+	border-left: 2px solid #b6bfc6;
+	border-radius: 0px 0px 25px 25px;
+	background: rgba(0, 0, 0, .15);
+	display: table-cell;
+	vertical-align: middle;
+}
+.bldgData img {
+	margin-top: 10px;
+}
+.bldgheaderHeight { 
+	height: 103px;  /* Height of property name bar at top of building info page */
+}
+.headProperty {
+	font-family: Futura LT Book, Century Gothic, Arial, sans-serif;
+	color: #ffffff;
+	font-size: 56px;    /* treatment of text at top of building info page */
+	font-weight: normal;
+}
+table.SpaceBtn {
+	position:absolute;  /* if a space button exists on building info page */
+	left:547px;
+	top:827px; 
+}
+td.SpaceSize  {
+	width:340px; 
+	height:101px; 
+}
+/* ++++++++ End Building Info Page ++++++++  */
+
+.pushdown { 
+	height: 30px;  /* creates horizontal space between listings and header */
+}  
+
+/*     Company Padding order <top, right, bottom, left >  
+Set###0 holds your info link icon
+Set###6 is for your message that displays when you have no listings	*/
+td.setOne0 { width: 20%; padding: 2px 0px 0px 24px; }
+td.setOne1 { width: 50%; padding: 10px 10px 10px 10px; height:60px;  }
+td.setOne2 { width: 30%; padding: 10px 10px 10px 10px; }
+td.setOne3 { width: 0%; padding: 0px 0px 0px 0px; }
+td.setOne4 { width: 0%; padding: 0px 0px 0px 0px; }
+td.setOne5 { width: 0%; padding: 0px 0px 0px 0px; }
+td.setOne6 { width: 95%; padding: 10px 10px 10px 10px; }
+
+/*     Individuals Padding order - top, right, bottom, left 	*/
+td.setTwo0 { width: 20%; padding: 2px 0px 0px 24px; }
+td.setTwo1 { width: 30%; padding: 10px 10px 10px 10px; height:60px; }
+td.setTwo2 { width: 30%; padding: 10px 10px 10px 10px; }
+td.setTwo3 { width: 20%; padding: 10px 10px 10px 10px; }
+td.setTwo4 { width: 0%; padding: 0px 0px 0px 0px; }
+td.setTwo5 { width: 0%; padding: 0px 0px 0px 0px; }
+td.setTwo6 { width: 95%; padding: 8px 8px 8px 8px; }
+
+/*     Amenities Padding order - top, right, bottom, left 	*/
+td.setThree0 { width: 5%; padding: 2px 0px 0px 24px; }
+td.setThree1 { width: 35%; padding: 12px 10px 10px 10px; height:60px; }
+td.setThree2 { width: 60%; padding: 12px 10px 10px 10px; }
+td.setThree3 { width: 0%; padding: 0px 0px 0px 0px; }
+td.setThree4 { width: 0%; padding: 0px 0px 0px 0px; }
+td.setThree5 { width: 0%; padding: 0px 0px 0px 0px; }
+td.setThree6 { width: 95%; padding: 8px 8px 8px 8px; }
+
+/*     Space Padding order - top, right, bottom, left	*/
+td.setFour0 { width: 5%; padding: 2px 0px 0px 24px; }
+td.setFour1 { width: 10%; padding: 12px 10px 10px 10px; height:60px; }
+td.setFour2 { width: 20%; padding: 12px 10px 10px 10px; }
+td.setFour3 { width: 65%; padding: 12px 10px 10px 10px; }
+td.setFour4 { width: 0%; padding: 0px 0px 0px 0px; }
+td.setFour5 { width: 0%; padding: 0px 0px 0px 0px; }
+td.setFour6 { width: 95%; padding: 8px 8px 8px 8px; }
+
+/*     Padding order - top, right, bottom, left	*/
+td.setFive0 { width: 5%; padding: 2px 0px 0px 24px }
+td.setFive1 { width: 30%; padding: 12px 8px 8px 8px; height:60px }
+td.setFive2 { width: 25%; padding: 12px 8px 8px 8px; }
+td.setFive3 { width: 18%; padding: 12px 8px 8px 8px; }
+td.setFive4 { width: 22%; padding: 12px 8px 8px 8px; }
+td.setFive5 { width: 0%; padding: 0px 0px 0px 0px; }
+td.setFive6 { width: 95%; padding: 8px 8px 8px 8px; }
+
+/*     Padding order - top, right, bottom, left	*/
+td.setSix0 { width: 5%; padding: 2px 0px 0px 24px }
+td.setSix1 { width: 30%; padding: 12px 8px 8px 8px; height:60px }
+td.setSix2 { width: 25%; padding: 12px 8px 8px 8px; }
+td.setSix3 { width: 15%; padding: 12px 8px 8px 8px; }
+td.setSix4 { width: 25%; padding: 12px 8px 8px 8px; }
+td.setSix5 { width: 0%; padding: 0px 0px 0px 0px; }
+td.setSix6 { width: 95%; padding: 8px 8px 8px 8px; }
+
+
+/* +++++  NEW Styles for JQuery scrolling +++++ */
+.infoLink { 
+	width: 100px;   /* Works in conjunction with .linkFix below to place link.png */
+}
+.linkFix { 
+	padding-right: 100px !important;  /* Offsets header <td> above link.png, must equal .infoLink width above */
+} 
+.overflowHidden {    /* removes scroll bars */
+	overflow: hidden;
+}
+.listingsWidth { 
+	width: 1080px !important;  /* Sets width of listings and header table */  
+} 
+.headerHeight { 
+	height: 83px;  /* Cannot be less than <td> height=60 plus padding+10+10 */
+}
+.detailHeight { 
+	height: 1295px;    /* Sets height of detail pages with keyboard */
+} 
+.detailHeightOther { 
+	height: 1655px;  /* Sets height of full detail pages */
+} 
+.iframeSpecs {  /* Sets iframe width and height of pages with a keyboard */
+	width:1080px;
+	height:1340px;  /* .detailHeight=899 minus .headerHeight=82 */
+}
+.iframeSpecsOther {  /* Sets iframe width and height of full size pages */
+	width:1080px;
+	height:1701px;
+}
+.pdfSpecs {  /* Sets width and height of PDF display area */
+	width: 1080px;
+	height: 1784px;
+}
+.pdfSpecsKeyboard {  /* Sets width and height of PDF display area with keyboard below */
+	width: 1080px;
+	height: 1295px;
+}
+.pad-top {
+	padding-top: 30%;  /* pads No Listing/No Info messages */
+}
+#scroll_up {
+	position: absolute;
+	z-index: 1000;
+	background: url(up.png);
+}
+.arrow_up {
+	left: 937px;
+	top: 1318px;
+}
+.arrow_up_other {
+	left: 937px;
+	top: 1679px;
+}
+#scroll_down {
+	position: absolute;
+	z-index: 1000;
+	background: url(down.png);
+}
+.arrow_down {
+	left: 705px;
+	top: 1318px;
+}
+.arrow_down_other {
+	left: 705px;
+	top: 1679px;
+}
+#scroll_down, #scroll_up, #scroll_down_other, #scroll_up_other {
+	width: 112px;
+	height: 82px;
+}
+#scroll_up:active, #scroll_up_other:active {
+	background: url(up-d.png);
+}
+#scroll_down:active, #scroll_down_other:active {
+	background: url(down-d.png);
+}
+#scroll_down:hover, #scroll_up:hover, #scroll_down_other:hover, #scroll_up_other:hover { 
+	cursor: pointer; 
+}
+#scroll_text, #scroll_text_other {
+	position: absolute;
+	width: 112px;
+	height: 97px;
+	text-align: center;
+	font-size: 22px;
+	font-family: Century Schoolbook;
+	color: #96c3d5;
+	z-index: 1000;
+	line-height: 140%;
+}
+#scroll_text {
+	left: 820px;
+	top: 1326px;
+}
+#scroll_text_other {
+	left: 820px;
+	top: 1685px;
+}
+/*  Please text instructions - vertical systems */
+.please_box {
+	position: absolute;
+	width: 600px;
+	height: 126px;
+	left: 43px;
+	top: 1296px;
+}
+.please_text {
+	font-size: 28px;
+	font-family: Century Schoolbook;
+	font-weight: normal;
+	color: #96c3d5;
+	z-index: 1000;
+	line-height: 120%;
+}
+/*  Sidebar or scrollbar beneath listings - if needed */
+.sidebar {
+	position: absolute;
+	left: 0px;
+	top: 1295px;
+	border-top: solid 1px #ffffff;
+	background-image: url('bg_header.jpg');
+	width: 1080px;
+	height: 129px;
+}
+.sidebar_other {
+	position: absolute;
+	left: 0px;
+	top: 1655px;
+	border-top: solid 1px #ffffff;
+	border-bottom: solid 1px #ffffff;
+	background-image: url('bg_header.jpg');
+	width: 1080px;
+	height: 125px;
+}
+
+.backButton, .backButtonOther, .backButtonPDF {
+	position: absolute;
+	background: url(back.png);
+	border: none;
+	width: 82px;
+	height: 112px;
+}
+.backButton {
+	left: 565px;
+	top: 1303px;
+}
+.backButtonOther {
+	left: 95px;
+	top: 1663px;
+}
+.backButtonPDF {
+	left: 95px;
+	top: 1663px;
+}
+
+/* 
+IMPORTANT: This ID appears in the HTML, but it is not visible. It will be read by the javascript in scroll_listing.js when the page loads.
+The amount to scroll up/down in pixels is calculated in the javascript when the pages serves as viewHeight / {this top number} 
+Thus, if your viewHeight is 960px and you set top:1.8px; below, the scroll amount would be 310px.  
+Note that the javascript removes the "px" from the number to perform the calculation.
+Also, 1.8 seems to be a good ratio.
+*/
+#scrollAmountFractionOfViewPort{
+	visibility: hidden; top:1.8px;
+} 
+
+/* 
+IMPORTANT: This ID appears in the HTML, but it is not visible. It will be read by the javascript in scroll_listing.js when the page loads.
+The maximum spacing to put above the list, so that the top part of the list scrolls down below 1/2 of the monitor for ADA reasons, 
+is calculated in the javascript when the pages serves as viewHeight / {this top number} 
+Thus, if your viewHeight is 960px and you set top:2; below, the maximum spacing to put above the list amount would be 480px
+Note that the javascript removes the "px" from the number to perform the calculation.
+*/
+#topMaxSpacingForADAFractionOfViewPort{
+	visibility: hidden; top:2px;
+} 
+
+/*  DEBUG CODE - UNCOMMENT CODE TO TEST LISTING CELLS */
+/*
+.headBox { background: #365B68;}
+td.HdrSize  { background: #C01DCD; }
+td.BoxSize  { background: #5F991E; }
+.headLarge, .headMed, .listLarge, .listMed, .listSmall, .listXS { background: #787A47; }
+td.setOne0, td.setTwo0, td.setThree0, td.setFour0, td.setFive0, td.setSix0 { background: #2C3C2B; }
+td.setOne1, td.setTwo1, td.setThree1, td.setFour1, td.setFive1, td.setSix1 { background: #3E543D; }
+td.setOne2, td.setTwo2, td.setThree2, td.setFour2, td.setFive2, td.setSix2 { background: #2C3C2B; }
+td.setOne3, td.setTwo3, td.setThree3, td.setFour3, td.setFive3, td.setSix3 { background: #3E543D; }
+td.setOne4, td.setTwo4, td.setThree4, td.setFour4, td.setFive4, td.setSix4 { background: #2C3C2B; }
+td.setOne5, td.setTwo5, td.setThree5, td.setFour5, td.setFive5, td.setSix5 { background: #3E543D; }
+td.setOne6, td.setTwo6, td.setThree6, td.setFour6, td.setFive6, td.setSix6 { background: #2C3C2B; }
+.infoLink { background: #BA9D45; }
+.bldgHeader { background: #4BADA9;}
+.bldgData { background: #C01DCD; }
+.mgmtCont, .leaseCont { background: #5F991E; } 
+tr.bgPropHead {background: #0000ff }
+td.PropHdrHeight  {background: #00ff00 }
+*/
