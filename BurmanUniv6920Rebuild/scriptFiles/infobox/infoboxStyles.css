@@ -1,0 +1,119 @@
+/*
+* CSS for the infobox
+*/
+.infobox-container {
+    position: relative;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    width: auto;
+}
+.infobox {
+    width: 250px;
+    padding: 15px 5px 15px 5px;
+    margin:10px;
+    position: relative;
+    z-index: 90;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-box-shadow: 0px 0px 3px rgba(0,0,0,0.55);
+    -moz-box-shadow: 0px 0px 3px rgba(0,0,0,0.55);
+    box-shadow: 0px 0px 3px rgba(0,0,0,0.55);
+    background: #424242;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#6a6b6b), to(#424242));
+    background-image: -moz-linear-gradient(top,#6a6a6a,#424242);
+    color: #fff;
+    font-size: 90%;
+}
+.infobox h3 {
+    position: relative;
+    width: 270px;
+    color: #fff;
+    padding: 10px 5px;
+    margin: 0;
+    left: -15px;
+    z-index: 100;
+    -webkit-box-shadow: 0px 0px 3px rgba(0,0,0,0.55);
+    -moz-box-shadow: 0px 0px 3px rgba(0,0,0,0.55);
+    box-shadow: 0px 0px 3px rgba(0,0,0,0.55);
+    font-size: 160%;
+    text-align: center;
+    text-shadow: #2187c8 0 -1px 1px;
+    font-weight: bold;
+}
+.infobox a {
+    color: #35b0ff;
+    text-decoration: none;
+    border-bottom: 1px dotted transparent;
+}
+.infobox a:hover, .infobox a:focus {
+    text-decoration: none;
+    border-bottom: 1px dotted #35b0ff;
+}
+.triangle {
+  border-style:solid;
+  border-width:13px;
+  top: 55px;
+  height:0;
+  width:0;
+  position: absolute;
+  z-index: 0; /* displayed under infobox */
+}
+.triangle.left {
+  border-color: transparent #2083c2 transparent transparent;
+  left: -12px;
+}
+.triangle.right {
+  border-color: transparent transparent transparent #2083c2;
+  left: 266px;
+}
+.triangle.down {
+  border-color: transparent transparent transparent green;
+  left: 257px;
+  top: 103px;
+  z-index: 100; /* displayed above infobox */
+}
+#qrIcon {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  top: 5px;
+  left: 5px;
+  z-index: 100; /* displayed above infobox */
+}
+#iconContainer {
+  height: 60px;
+  width: 60px;
+  position: absolute;
+  left: 257px;
+  top: 103px;
+  border-radius: 10px;
+  border: 3px solid #E6E6E6;
+}
+.hidden {
+  display: none;
+}
+.flip {
+  transform: rotate(90deg);
+}
+.infobox .error {
+  background: #DB0000; /* For browsers that do not support gradients */
+  background: -webkit-radial-gradient(#FF0000, #DB0000); /* Safari 5.1 to 6.0 */
+  background: -o-radial-gradient(#FF0000, #DB0000); /* For Opera 11.6 to 12.0 */
+  background: -moz-radial-gradient(#FF0000, #DB0000); /* For Firefox 3.6 to 15 */
+  background: radial-gradient(#FF0000, #DB0000); /* Standard syntax */
+}
+
+.infobox .success {
+  background: #3198dd;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#33acfc), to(#3198dd));
+  background-image: -moz-linear-gradient(top,#33acfc,#3198dd);
+}
+/*
+* CSS for the QR code
+*/
+#qrcode img {
+  margin: auto;
+  margin-top: 15px;
+}

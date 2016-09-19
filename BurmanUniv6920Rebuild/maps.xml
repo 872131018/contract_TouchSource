@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<dataroot>
+    <tables>
+        <Companies dataSource="3726.mdb" aspFile="dbLookup.asp" idField="CompanyID" suiteField="Suite" bldgField="building" displayLines="Building [br];[lb]Room ;Suite[br];CompanyName" ibBkgd="infobox.png" ibFont="Gill Sans MT" ibBold="true" ibItalic="false" ibTxtColor="000000" ibAlign="center" ibSize="16" ibLeading="1" ibLeftMargin="10" ibRightMargin="10" ibTopMargin="8" ibBottomMargin="8" ibGraphicMargin="10" ibMaxWidth="240" ibErrorText="The requested map is not available." />
+        <Amenities dataSource="3726.mdb" aspFile="dbLookup.asp" idField="AmenityID" suiteField="Suite" bldgField="Building" displayLines="AmenityName" ibBkgd="infobox.png" ibFont="Gill Sans MT" ibBold="true" ibItalic="false" ibTxtColor="000000" ibAlign="center" ibSize="16" ibLeading="1" ibLeftMargin="10" ibRightMargin="10" ibTopMargin="8" ibBottomMargin="8" ibGraphicMargin="10" ibMaxWidth="240" ibErrorText="The requested map is not available." />
+        <Individuals dataSource="3726.mdb" aspFile="dbLookup.asp" idField="IndID" suiteField="Suite" bldgField="iBuilding" displayLines="iBuilding[br];[lb]Suite ;Suite[br];IndividualName" ibBkgd="infobox.png" ibFont="Gill Sans MT" ibBold="true" ibItalic="false" ibTxtColor="000000" ibAlign="center" ibSize="16" ibLeading="1" ibLeftMargin="10" ibRightMargin="10" ibTopMargin="8" ibBottomMargin="8" ibGraphicMargin="10" ibMaxWidth="240" ibErrorText="The requested map is not available." />
+    </tables>
+
+    <colors>0000ff;00ff00;ff0000;003a6e</colors>
+    <paths width="5" color="003a6e" looppath="false">
+        <building name="Administration Building">
+            <suite name="all" basemap="campusmap.jpg" ibox="775,429">
+                <points>839,317;839,343;783,349;706,363;742,403;708,403;681,419;681,430;640,443;633,435</points>
+            </suite>
+        </building>
+        <building name="Chan Shun Science Centre">
+            <suite name="all" basemap="campusmap.jpg" ibox="194,334">
+                <points>839,317;839,343;783,349;706,363;680,355;656,333;543,342;513,284;484,291</points>
+            </suite>
+        </building>
+        <building name="Facility Maintenance">
+            <suite name="all" basemap="campusmap.jpg" ibox="433,87">
+                <points>844,320;876,334;918,323;965,311;1021,301;1029,275;1055,264;710,20;677,20;633,10</points>
+            </suite>
+        </building>
+        <building name="West Hall">
+            <suite name="all" basemap="campusmap.jpg" ibox="255,338">
+                <points>839,317;839,343;783,349;706,363;742,403;708,403;681,419;681,430;575,448;542,436;534,436</points>
+            </suite>
+        </building>
+        <building name="Lakeview Hall">
+            <suite name="all" basemap="campusmap.jpg" ibox="157,374">
+                <points>839,317;839,343;783,349;706,363;742,403;708,403;681,419;681,430;575,448;554,463;540,478;524,485;501,478;444,453;410,479</points>
+            </suite>
+        </building>
+        <building name="Library">
+            <suite name="all" basemap="campusmap.jpg" ibox="901,453">
+                <points>839,317;839,343;783,349;706,363;794,459;801,486;820,479;820,488</points>
+            </suite>
+        </building>
+        <building name="Cafeteria">
+            <suite name="all" basemap="campusmap.jpg" ibox="842,496">
+                <points>839,317;839,343;783,349;706,363;794,459;801,486;741,494;679,486;672,501</points>
+            </suite>
+        </building>
+        <building name="Maple Hall">
+            <suite name="all" basemap="campusmap.jpg" ibox="884,393">
+                <points>839,317;839,343;783,349;706,363;744,403;763,397</points>
+            </suite>
+        </building>
+        <building name="Parkview Adventist Academy">
+            <suite name="all" basemap="campusmap.jpg" ibox="474,426">
+                <points>839,317;839,343;783,349;706,363;572,386;517,386;487,343;428,349;439,359</points>
+            </suite>
+        </building>
+        <building name="North Hall">
+            <suite name="all" basemap="campusmap.jpg" ibox="725,401">
+                <points>839,317;839,343;783,349;705,362;660,374;652,365</points>
+            </suite>
+        </building>
+        <building name="McKibbin">
+            <suite name="all" basemap="campusmap.jpg" ibox="899,297">
+                <points>1465,380;1465,365</points>
+            </suite>
+        </building>
+        <building name="McKibbin Centre">
+            <suite name="all" basemap="campusmap.jpg" ibox="899,297">
+                <points>1465,380;1465,365</points>
+            </suite>
+        </building>
+        <building name="Education Building">
+            <suite name="all" basemap="campusmap.jpg" ibox="893,315">
+                <points>1465,380;1465,365</points>
+            </suite>
+        </building>
+        <building name="College Heights Church">
+            <suite name="all" basemap="campusmap.jpg" ibox="993,338">
+                <points>841,319;871,332;926,318;984,306;1022,300;1022,267;1009,267</points>
+            </suite>
+        </building>
+        <building name="Marketing &amp; Enrolment">
+            <suite name="all" basemap="campusmap.jpg" ibox="571,190">
+                <points>841,319;871,332;926,318;984,306;1022,300;1015,271;993,255;912,236;877,245;865,238</points>
+            </suite>
+        </building>
+        <building name="Marketing &amp; Enrolment">
+            <suite name="all" basemap="campusmap.jpg" ibox="571,190">
+                <points>841,319;871,332;926,318;984,306;1022,300;1015,271;993,255;912,236;877,245;865,238</points>
+            </suite>
+        </building>
+        <building name="Marketing and Enrolment">
+            <suite name="all" basemap="campusmap.jpg" ibox="571,190">
+                <points>841,319;871,332;926,318;984,306;1022,300;1015,271;993,255;912,236;877,245;865,238</points>
+            </suite>
+        </building>
+        <building name="Outward Pursuits">
+            <suite name="all" basemap="campusmap.jpg" ibox="1074,218">
+                <points>841,319;871,332;926,318;984,306;1022,300;1022,274;1048,264;998,225;998,204</points>
+            </suite>
+        </building>
+        <building name="PE Centre">
+            <suite name="all" basemap="campusmap.jpg" ibox="1079,626">
+                <points>841,319;871,332;883,358;905,391;893,436;901,478;921,545;915,592;881,706;973,753;973,742</points>
+            </suite>
+        </building>
+    </paths>
+    <speed>5</speed>
+</dataroot>
