@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+   <tables>
+      <Companies dataSource="29048.mdb" aspFile="dbLookup.asp" idField="CompanyID" suiteField="Suite" bldgField="building" displayLines="[lb]Suite ;Suite[br];CompanyName" ibBkgd="infobox.png" ibFont="Gill Sans MT" ibBold="true" ibItalic="false" ibTxtColor="000000" ibAlign="center" ibSize="16" ibLeading="1" ibLeftMargin="10" ibRightMargin="10" ibTopMargin="8" ibBottomMargin="8" ibGraphicMargin="10" ibMaxWidth="240" ibErrorText="The requested map is not available." />
+      <Amenities dataSource="29048.mdb" aspFile="dbLookup.asp" idField="AmenityID" suiteField="AmenityName" bldgField="Building" displayLines="AmenityName" ibBkgd="infobox.png" ibFont="Gill Sans MT" ibBold="true" ibItalic="false" ibTxtColor="000000" ibAlign="center" ibSize="16" ibLeading="1" ibLeftMargin="10" ibRightMargin="10" ibTopMargin="8" ibBottomMargin="8" ibGraphicMargin="10" ibMaxWidth="240" ibErrorText="The requested map is not available." />
+      <Individuals dataSource="29048.mdb" aspFile="dbLookup.asp" idField="IndID" suiteField="Suite" bldgField="Ranking" displayLines="[lb]Suite ;Suite[br];IndividualName" ibBkgd="infobox.png" ibFont="Gill Sans MT" ibBold="true" ibItalic="false" ibTxtColor="000000" ibAlign="center" ibSize="16" ibLeading="1" ibLeftMargin="10" ibRightMargin="10" ibTopMargin="8" ibBottomMargin="8" ibGraphicMargin="10" ibMaxWidth="240" ibErrorText="The requested map is not available." />
+   </tables>
+   <colors>0000ff;00ff00;ff0000;003a6e</colors>
+   <paths width="5" color="003a6e" looppath="false">
+      <building name="East">
+         <suite name="200E" basemap="fp-02.jpg" ibox="1091,448">
+            <points>929,466;987,466</points>
+         </suite>
+         <suite name="205E" basemap="fp-02.jpg" ibox="1093,569">
+            <points>928,467;882,467;882,588;923,588</points>
+         </suite>
+         <suite name="210E" basemap="fp-02.jpg" ibox="1093,569">
+            <points>928,467;882,467;882,633;913,633</points>
+         </suite>
+         <suite name="215E" basemap="fp-02.jpg" ibox="1093,569">
+            <points>928,467;882,467;882,738</points>
+         </suite>
+         <suite name="225E" basemap="fp-02.jpg" ibox="538,499">
+            <points>928,467;882,467;882,567;848,567</points>
+         </suite>
+         <suite name="240E" basemap="fp-02.jpg" ibox="1044,132">
+            <points>928,467;882,467;882,171</points>
+         </suite>
+         <suite name="245E" basemap="fp-02.jpg" ibox="1088,290">
+            <points>928,467;882,467;882,296;915,296</points>
+         </suite>
+         <suite name="410E" basemap="fp-04.jpg" ibox="1086,566">
+            <points>931,470;882,470;882,575;914,575</points>
+         </suite>
+         <suite name="415E" basemap="fp-04.jpg" ibox="1087,576">
+            <points>931,470;882,470;882,630;908,630</points>
+         </suite>
+         <suite name="420E" basemap="fp-04.jpg" ibox="1087,576">
+            <points>931,470;882,470;882,764</points>
+         </suite>
+         <suite name="430E" basemap="fp-04.jpg" ibox="549,479">
+            <points>931,470;882,470;882,511;843,511</points>
+         </suite>
+         <suite name="444E" basemap="fp-04.jpg" ibox="1054,141">
+            <points>931,470;882,470;882,181</points>
+         </suite>
+         <suite name="520E" basemap="fp-05.jpg" ibox="535,512">
+            <points>929,468;880,468;880,659;847,659</points>
+         </suite>
+         <suite name="530E" basemap="fp-05.jpg" ibox="535,512">
+            <points>929,468;880,468;880,630;848,630</points>
+         </suite>
+         <suite name="531E" basemap="fp-05.jpg" ibox="557,383">
+            <points>929,468;880,468;880,392;849,392</points>
+         </suite>
+         <suite name="540E" basemap="fp-05.jpg" ibox="1036,146">
+            <points>929,468;880,468;880,154</points>
+         </suite>
+         <suite name="545E" basemap="fp-05.jpg" ibox="1090,297">
+            <points>929,468;880,468;880,292;914,292</points>
+         </suite>
+         <suite name="600E" basemap="fp-06.jpg" ibox="1096,446">
+            <points>916,473;986,473</points>
+         </suite>
+         <suite name="615E" basemap="fp-06.jpg" ibox="1100,582">
+            <points>933,468;883,468;883,747</points>
+         </suite>
+         <suite name="635E" basemap="fp-06.jpg" ibox="560,197">
+            <points>933,468;883,468;883,249;847,249</points>
+         </suite>
+         <suite name="740E" basemap="fp-07.jpg" ibox="1040,223">
+            <points>933,468;883,468;883,302;928,302</points>
+         </suite>
+         <suite name="735E" basemap="fp-07.jpg" ibox="545,320">
+            <points>933,468;883,468;883,392;852,392</points>
+         </suite>
+         <suite name="730E" basemap="fp-07.jpg" ibox="547,487">
+            <points>933,468;883,468;883,514;845,514</points>
+         </suite>
+         <suite name="715E" basemap="fp-07.jpg" ibox="1106,571">
+            <points>933,468;883,468;883,748</points>
+         </suite>
+         <suite name="810E" basemap="fp-08.jpg" ibox="1093,536">
+            <points>933,468;882,468;882,550;908,550</points>
+         </suite>
+         <suite name="815E" basemap="fp-08.jpg" ibox="1103,576">
+            <points>933,468;882,468;882,736</points>
+         </suite>
+         <suite name="825E" basemap="fp-08.jpg" ibox="543,502">
+            <points>933,468;882,468;882,581;850,581</points>
+         </suite>
+         <suite name="840E" basemap="fp-08.jpg" ibox="1105,292">
+            <points>933,468;882,468;882,322;913,322</points>
+         </suite>
+         <suite name="830E" basemap="fp-08.jpg" ibox="621,254">
+            <points>933,468;882,468;882,185</points>
+         </suite>
+         <suite name="915E" basemap="fp-09.jpg" ibox="1091,582">
+            <points>933,468;882,468;882,734</points>
+         </suite>
+         <suite name="920E" basemap="fp-09.jpg" ibox="563,510">
+            <points>933,468;882,468;882,659;847,659</points>
+         </suite>
+         <suite name="925E" basemap="fp-09.jpg" ibox="542,475">
+            <points>933,468;882,468;882,512;847,512</points>
+         </suite>
+         <suite name="930E" basemap="fp-09.jpg" ibox="535,272">
+            <points>933,468;882,468;882,329;846,329</points>
+         </suite>
+         <suite name="940E" basemap="fp-09.jpg" ibox="540,136">
+            <points>933,468;882,468;882,159</points>
+         </suite>
+         <suite name="945E" basemap="fp-09.jpg" ibox="1035,251">
+            <points>933,468;882,468;882,324;919,324</points>
+         </suite>
+         <suite name="900E" basemap="fp-09.jpg" ibox="1098,459">
+            <points>926,468;984,468</points>
+         </suite>
+         <suite name="1000E" basemap="fp-10.jpg" ibox="1096,410">
+            <points>926,468;984,468</points>
+         </suite>
+         <suite name="1010E" basemap="fp-10.jpg" ibox="1092,533">
+            <points>931,467;881,467;881,565;919,565</points>
+         </suite>
+         <suite name="1015E" basemap="fp-10.jpg" ibox="1096,582">
+            <points>931,467;881,467;881,732</points>
+         </suite>
+         <suite name="1017E" basemap="fp-10.jpg" ibox="1096,582">
+            <points>931,467;881,467;881,659;849,659</points>
+         </suite>
+         <suite name="1020E" basemap="fp-10.jpg" ibox="538,505">
+            <points>931,467;881,467;881,572;843,572</points>
+         </suite>
+         <suite name="1030E" basemap="fp-10.jpg" ibox="550,299">
+            <points>931,467;881,467;881,367;851,367</points>
+         </suite>
+         <suite name="1035E" basemap="fp-10.jpg" ibox="539,157">
+            <points>931,467;881,467;881,215;856,215</points>
+         </suite>
+         <suite name="1040E" basemap="fp-10.jpg" ibox="1104,171">
+            <points>931,467;881,467;881,158</points>
+         </suite>
+         <suite name="1130E" basemap="fp-11.jpg" ibox="537,493">
+            <points>931,467;881,467;881,515;846,515</points>
+         </suite>
+         <suite name="1125E" basemap="fp-11.jpg" ibox="540,504">
+            <points>931,467;881,467;881,610;854,610</points>
+         </suite>
+         <suite name="1140E" basemap="fp-11.jpg" ibox="1051,163">
+            <points>931,467;881,467;887,181;917,181</points>
+         </suite>
+         <suite name="1145E" basemap="fp-11.jpg" ibox="1092,314">
+            <points>931,467;881,467;881,314;909,314</points>
+         </suite>
+         <suite name="1100E" basemap="fp-11.jpg" ibox="1100,440">
+            <points>925,468;983,468</points>
+         </suite>
+         <suite name="120E" basemap="fp-01.jpg" ibox="527,406">
+            <points>883,472;883,384</points>
+         </suite>
+         <suite name="Wells Fargo" basemap="fp-01.jpg" ibox="1091,554">
+            <points>848,483;873,483;873,547</points>
+         </suite>
+         <suite name="Tower Express Cleaners" basemap="fp-03.jpg" ibox="1049,527">
+            <points>929,469;873,469;873,553;910,553</points>
+         </suite>
+         <suite name="Chiropractic Health and Wellness" basemap="fp-03.jpg" ibox="1104,565">
+            <points>929,469;873,469;873,791;843,791</points>
+         </suite>
+         <suite name="Mr. Wonderful" basemap="fp-03.jpg" ibox="541,410">
+            <points>932,470;797,470;797,437</points>
+         </suite>
+         <suite name="S. Mark Taper Foundation Imaging Center" basemap="fp-01.jpg" ibox="527,406">
+            <points>883,472;883,384</points>
+         </suite>
+         <suite name="315" basemap="fp-03.jpg" ibox="1047,316">
+            <points>932,468;1000,468;1000,422</points>
+         </suite>
+         <suite name="1E" basemap="fp-01.jpg" ibox="1091,554">
+            <points>848,483;873,483;873,547</points>
+         </suite>
+         <suite name="300E" basemap="fp-03.jpg" ibox="1049,527">
+            <points>929,469;873,469;873,553;910,553</points>
+         </suite>
+         <suite name="304E" basemap="fp-03.jpg" ibox="1104,565">
+            <points>929,469;873,469;873,791;843,791</points>
+         </suite>
+         <suite name="301E" basemap="fp-03.jpg" ibox="1016,555">
+            <points>875,468;875,746;909,746</points>
+         </suite>
+         <suite name="The RMR Group Inc." basemap="fp-03.jpg" ibox="1016,555">
+            <points>875,468;875,746;909,746</points>
+         </suite>
+         <suite name="307E" basemap="fp-03.jpg" ibox="541,410">
+            <points>932,470;797,470;797,437</points>
+         </suite>
+         <suite name="230E" basemap="fp-02.jpg" ibox="533,470">
+            <points>928,467;882,467;882,417;862,417</points>
+         </suite>
+         <suite name="235E" basemap="fp-02.jpg" ibox="535,282">
+            <points>928,467;882,467;882,255;849,255</points>
+         </suite>
+         <suite name="Horton and Converse Pharmacy" basemap="fp-03.jpg" ibox="1101,162">
+            <points>931,469;879,469;879,111;934,111</points>
+         </suite>
+         <suite name="The Coffee Bean and Tea Leaf" basemap="fp-03.jpg" ibox="532,98">
+            <points>929,469;873,469;879,124;836,124</points>
+         </suite>
+         <suite name="The Sandwich Bar" basemap="fp-03.jpg" ibox="514,192">
+            <points>929,469;873,469;873,215;830,215</points>
+         </suite>
+         <suite name="OPTIX Boutique" basemap="fp-03.jpg" ibox="541,313">
+            <points>929,469;873,469;873,341;831,341</points>
+         </suite>
+         <suite name="Foot Center" basemap="fp-03.jpg" ibox="1104,565">
+            <points>931,472;881,472;881,817</points>
+         </suite>
+         <suite name="Judi's Deli" basemap="fp-03.jpg" ibox="532,482">
+            <points>929,469;873,469;873,567;833,567</points>
+         </suite>
+         <suite name="425E" basemap="fp-04.jpg" ibox="548,500">
+            <points>931,470;882,470;882,704;846,704</points>
+         </suite>
+         <suite name="440E" basemap="fp-04.jpg" ibox="544,186">
+            <points>931,470;882,470;882,209;845,209</points>
+         </suite>
+         <suite name="445E" basemap="fp-04.jpg" ibox="1118,288">
+            <points>931,470;882,470;882,326;916,326</points>
+         </suite>
+         <suite name="535E" basemap="fp-05.jpg" ibox="542,167">
+            <points>929,468;880,468;880,215;845,215</points>
+         </suite>
+         <suite name="510E" basemap="fp-05.jpg" ibox="1042,522">
+            <points>928,465;882,465;882,736</points>
+         </suite>
+         <suite name="610E" basemap="fp-06.jpg" ibox="1093,561">
+            <points>933,468;883,468;883,604;916,604</points>
+         </suite>
+         <suite name="620E" basemap="fp-06.jpg" ibox="558,452">
+            <points>933,468;883,468;883,680;847,680</points>
+         </suite>
+         <suite name="625E" basemap="fp-06.jpg" ibox="551,442">
+            <points>933,468;883,468;883,570;842,570</points>
+         </suite>
+         <suite name="640E" basemap="fp-06.jpg" ibox="1096,231">
+            <points>933,468;883,468;883,185;915,185</points>
+         </suite>
+         <suite name="710E" basemap="fp-07.jpg" ibox="1101,522">
+            <points>933,468;883,468;883,611;921,611</points>
+         </suite>
+         <suite name="725E" basemap="fp-07.jpg" ibox="550,456">
+            <points>933,468;883,468;883,660;842,660</points>
+         </suite>
+         <suite name="700E" basemap="fp-07.jpg" ibox="1093,410">
+            <points>924,458;994,458</points>
+         </suite>
+         <suite name="1001E" basemap="fp-10.jpg" ibox="1096,410">
+            <points>926,468;984,468</points>
+         </suite>
+         <suite name="1025E" basemap="fp-10.jpg" ibox="552,411">
+            <points>931,467;881,467;838,467</points>
+         </suite>
+         <suite name="1110E" basemap="fp-11.jpg" ibox="1096,562">
+            <points>931,467;881,467;881,585;914,585</points>
+         </suite>
+         <suite name="1115E" basemap="fp-11.jpg" ibox="533,451">
+            <points>931,467;881,467;881,696;847,696</points>
+         </suite>
+         <suite name="1135E" basemap="fp-11.jpg" ibox="540,261">
+            <points>931,467;881,467;881,154</points>
+         </suite>
+         <suite name="315E" basemap="fp-03.jpg" ibox="1035,146">
+            <points>915,467;882,467;882,103;910,103</points>
+         </suite>
+         <suite name="311E" basemap="fp-03.jpg" ibox="532,98">
+            <points>929,469;873,469;873,127;850,127</points>
+         </suite>
+         <suite name="310E" basemap="fp-03.jpg" ibox="530,176">
+            <points>929,469;873,469;873,218;847,218</points>
+         </suite>
+         <suite name="308E" basemap="fp-03.jpg" ibox="557,355">
+            <points>929,469;873,469;873,357;850,357</points>
+         </suite>
+         <suite name="303E" basemap="fp-03.jpg" ibox="931,766">
+            <points>924,470;879,470;879,816</points>
+         </suite>
+         <suite name="The Towers Audiology Center" basemap="fp-03.jpg" ibox="966,261">
+            <points>922,469;880,469;880,347;897,347</points>
+         </suite>
+         <suite name="312E" basemap="fp-03.jpg" ibox="966,261">
+            <points>922,469;880,469;880,347;897,347</points>
+         </suite>
+      </building>
+      <building name="West">
+         <suite name="250W" basemap="fp-02w.jpg" ibox="503,355">
+            <points>890,478;838,478</points>
+         </suite>
+         <suite name="292W" basemap="fp-02w.jpg" ibox="1108,532">
+            <points>891,467;936,467;936,731</points>
+         </suite>
+         <suite name="290W" basemap="fp-02w.jpg" ibox="1108,532">
+            <points>891,467;936,467;936,660;964,660</points>
+         </suite>
+         <suite name="285W" basemap="fp-02w.jpg" ibox="1092,542">
+            <points>891,467;936,467;936,558;964,558</points>
+         </suite>
+         <suite name="275W" basemap="fp-02w.jpg" ibox="1086,381">
+            <points>891,467;936,467;936,418;964,418</points>
+         </suite>
+         <suite name="280W" basemap="fp-02w.jpg" ibox="1086,381">
+            <points>891,467;936,467;936,418;964,418</points>
+         </suite>
+         <suite name="275W/280W" basemap="fp-02w.jpg" ibox="1086,381">
+            <points>891,467;936,467;936,418;964,418</points>
+         </suite>
+         <suite name="265W" basemap="fp-02w.jpg" ibox="1082,212">
+            <points>891,467;936,467;936,233;971,233</points>
+         </suite>
+         <suite name="260W" basemap="fp-02w.jpg" ibox="1009,186">
+            <points>891,467;936,467;936,180</points>
+         </suite>
+         <suite name="255W" basemap="fp-02w.jpg" ibox="1016,306">
+            <points>891,467;936,467;936,327;903,327</points>
+         </suite>
+         <suite name="395W" basemap="fp-03w.jpg" ibox="1021,569">
+            <points>891,467;936,467;936,618;908,618</points>
+         </suite>
+         <suite name="390W" basemap="fp-03w.jpg" ibox="1021,569">
+            <points>887,468;975,468;975,525</points>
+         </suite>
+         <suite name="375W" basemap="fp-03w.jpg" ibox="1090,430">
+            <points>884,465;1022,465;1022,428</points>
+         </suite>
+         <suite name="351W" basemap="fp-03w.jpg" ibox="1090,430">
+            <points>882,467;942,467;942,336;916,336</points>
+         </suite>
+         <suite name="360W/370W" basemap="fp-03w.jpg" ibox="1097,285">
+            <points>882,467;942,467;942,295;980,295</points>
+         </suite>
+         <suite name="350W" basemap="fp-03w.jpg" ibox="994,433">
+            <points>885,469;804,469;804,424</points>
+         </suite>
+         <suite name="475W" basemap="fp-04w.jpg" ibox="1094,379">
+            <points>887,465;935,465;935,387;958,387</points>
+         </suite>
+         <suite name="465W" basemap="fp-04w.jpg" ibox="1090,198">
+            <points>887,465;935,465;935,220;963,220</points>
+         </suite>
+         <suite name="460W" basemap="fp-04w.jpg" ibox="996,385">
+            <points>887,465;935,465;935,317;910,317</points>
+         </suite>
+         <suite name="450W" basemap="fp-04w.jpg" ibox="996,455">
+            <points>891,473;838,473</points>
+         </suite>
+         <suite name="490W" basemap="fp-04w.jpg" ibox="1035,549">
+            <points>880,468;936,468;936,573;906,573</points>
+         </suite>
+         <suite name="580W" basemap="fp-05w.jpg" ibox="1090,448">
+            <points>884,463;968,463</points>
+         </suite>
+         <suite name="665W/675W" basemap="fp-06w.jpg" ibox="1037,438">
+            <points>889,469;834,469</points>
+         </suite>
+         <suite name="695W" basemap="fp-06w.jpg" ibox="1088,524">
+            <points>888,465;936,465;936,557;908,557</points>
+         </suite>
+         <suite name="690W" basemap="fp-06w.jpg" ibox="1040,579">
+            <points>888,465;936,465;936,764</points>
+         </suite>
+         <suite name="685W" basemap="fp-06w.jpg" ibox="1030,590">
+            <points>888,465;936,465;936,657;966,657</points>
+         </suite>
+         <suite name="680W" basemap="fp-06w.jpg" ibox="1087,592">
+            <points>888,465;936,465;936,628;967,628</points>
+         </suite>
+         <suite name="770W" basemap="fp-07w.jpg" ibox="1098,410">
+            <points>886,467;933,467;933,418;967,418</points>
+         </suite>
+         <suite name="765W" basemap="fp-07w.jpg" ibox="1039,149">
+            <points>885,468;937,468;937,176</points>
+         </suite>
+         <suite name="750W" basemap="fp-07w.jpg" ibox="1011,456">
+            <points>893,474;832,474</points>
+         </suite>
+         <suite name="850W" basemap="fp-08w.jpg" ibox="1011,456">
+            <points>893,474;832,474</points>
+         </suite>
+         <suite name="890W" basemap="fp-08w.jpg" ibox="1015,599">
+            <points>887,467;936,467;936,756</points>
+         </suite>
+         <suite name="885W" basemap="fp-08w.jpg" ibox="1053,594">
+            <points>887,467;936,467;936,671;963,671</points>
+         </suite>
+         <suite name="880W" basemap="fp-08w.jpg" ibox="1088,494">
+            <points>887,467;936,467;936,508;967,508</points>
+         </suite>
+         <suite name="876W" basemap="fp-08w.jpg" ibox="1088,445">
+            <points>878,457;964,457</points>
+         </suite>
+         <suite name="875W" basemap="fp-08w.jpg" ibox="1093,322">
+            <points>886,466;935,466;935,334;959,334</points>
+         </suite>
+         <suite name="870W" basemap="fp-08w.jpg" ibox="1095,239">
+            <points>886,466;935,466;935,247;964,247</points>
+         </suite>
+         <suite name="865W" basemap="fp-08w.jpg" ibox="1055,144">
+            <points>886,466;935,466;935,145</points>
+         </suite>
+         <suite name="855W" basemap="fp-08w.jpg" ibox="536,251">
+            <points>886,466;935,466;935,309;906,309</points>
+         </suite>
+         <suite name="985W" basemap="fp-09w.jpg" ibox="1085,528">
+            <points>886,466;935,466;935,543;962,543</points>
+         </suite>
+         <suite name="973W" basemap="fp-09w.jpg" ibox="1094,237">
+            <points>886,466;935,466;935,243;958,243</points>
+         </suite>
+         <suite name="975W" basemap="fp-09w.jpg" ibox="1085,350">
+            <points>886,466;935,466;935,360;969,360</points>
+         </suite>
+         <suite name="965W" basemap="fp-09w.jpg" ibox="1033,128">
+            <points>886,466;935,466;935,141</points>
+         </suite>
+         <suite name="960W" basemap="fp-09w.jpg" ibox="1022,307">
+            <points>886,466;935,466;935,321;908,321</points>
+         </suite>
+         <suite name="1050W" basemap="fp-10w.jpg" ibox="1013,454">
+            <points>889,481;830,481</points>
+         </suite>
+         <suite name="1080W" basemap="fp-10w.jpg" ibox="1049,547">
+            <points>885,464;936,464;936,567;969,567</points>
+         </suite>
+         <suite name="1090W" basemap="fp-10w.jpg" ibox="1022,548">
+            <points>885,464;936,464;936,553;909,553</points>
+         </suite>
+         <suite name="1085W/1090W" basemap="fp-10w.jpg" ibox="1022,548">
+            <points>885,464;936,464;936,553;909,553</points>
+         </suite>
+         <suite name="1070W" basemap="fp-10w.jpg" ibox="1057,458">
+            <points>885,470;973,470</points>
+         </suite>
+         <suite name="1065W" basemap="fp-10w.jpg" ibox="1092,196">
+            <points>886,467;936,467;936,212;968,212</points>
+         </suite>
+         <suite name="1060W" basemap="fp-10w.jpg" ibox="1035,208">
+            <points>886,467;936,467;936,176</points>
+         </suite>
+         <suite name="1165W" basemap="fp-11w.jpg" ibox="1035,201">
+            <points>886,467;936,467;936,176</points>
+         </suite>
+         <suite name="1170W" basemap="fp-11w.jpg" ibox="1047,401">
+            <points>886,467;936,467;936,419;968,419</points>
+         </suite>
+         <suite name="1180W" basemap="fp-11w.jpg" ibox="1091,504">
+            <points>886,467;936,467;936,513;968,513</points>
+         </suite>
+         <suite name="1185W" basemap="fp-11w.jpg" ibox="1059,560">
+            <points>886,467;936,467;936,609;971,609</points>
+         </suite>
+         <suite name="1195W" basemap="fp-11w.jpg" ibox="1044,556">
+            <points>886,467;936,467;936,745</points>
+         </suite>
+         <suite name="1190W" basemap="fp-11w.jpg" ibox="1053,546">
+            <points>886,467;936,467;936,566;907,566</points>
+         </suite>
+         <suite name="1155W" basemap="fp-11w.jpg" ibox="490,440">
+            <points>887,481;823,481</points>
+         </suite>
+         <suite name="150W" basemap="fp-01w.jpg" ibox="1106,556">
+            <points>820,474;990,474;990,537</points>
+         </suite>
+         <suite name="295W" basemap="fp-02w.jpg" ibox="525,465">
+            <points>891,467;936,467;936,606;903,606</points>
+         </suite>
+         <suite name="355W" basemap="fp-03w.jpg" ibox="546,116">
+            <points>886,463;930,463;930,144</points>
+         </suite>
+         <suite name="360W" basemap="fp-03w.jpg" ibox="1097,285">
+            <points>882,467;942,467;942,252;980,252</points>
+         </suite>
+         <suite name="485W" basemap="fp-04w.jpg" ibox="1113,517">
+            <points>891,466;933,466;933,731</points>
+         </suite>
+         <suite name="590W" basemap="fp-05w.jpg" ibox="1095,565">
+            <points>887,467;937,467;937,736</points>
+         </suite>
+         <suite name="560W" basemap="fp-05w.jpg" ibox="1102,223">
+            <points>886,466;933,466;933,304;972,304</points>
+         </suite>
+         <suite name="650W" basemap="fp-06w.jpg" ibox="528,349">
+            <points>889,467;828,467</points>
+         </suite>
+         <suite name="675W" basemap="fp-06w.jpg" ibox="1111,278">
+            <points>887,463;934,463;934,332;969,332</points>
+         </suite>
+         <suite name="665W" basemap="fp-06w.jpg" ibox="1101,139">
+            <points>886,467;935,467;935,172</points>
+         </suite>
+         <suite name="795W" basemap="fp-07w.jpg" ibox="1084,550">
+            <points>888,465;936,465;936,598;900,598</points>
+         </suite>
+         <suite name="790W" basemap="fp-07w.jpg" ibox="1093,500">
+            <points>888,465;936,465;936,732</points>
+         </suite>
+         <suite name="990W" basemap="fp-09w.jpg" ibox="1086,549">
+            <points>886,466;935,466;935,733</points>
+         </suite>
+         <suite name="1085W" basemap="fp-10w.jpg" ibox="1022,548">
+            <points>885,464;936,464;936,625;903,625</points>
+         </suite>
+         <suite name="1150W" basemap="fp-11w.jpg" ibox="539,423">
+            <points>895,478;829,478</points>
+         </suite>
+         <suite name="Joo Joo Snack Shop" basemap="fp-03w.jpg" ibox="1090,430">
+            <points>884,465;1022,465;1022,428</points>
+         </suite>
+         <suite name="1W" basemap="fp-01w.jpg" ibox="589,497">
+            <points>1107,475;1075,475;1075,895;908,895;908,851</points>
+         </suite>
+         <suite name="180W" basemap="fp-01w.jpg" ibox="543,357">
+            <points>1067,470;936,470;936,383;895,383</points>
+         </suite>
+         <suite name="160W" basemap="fp-01w.jpg" ibox="575,133">
+            <points>1066,469;944,469;944,248</points>
+         </suite>
+         <suite name="370W" basemap="fp-03w.jpg" ibox="1087,171">
+            <points>882,467;942,467;942,295;980,295</points>
+         </suite>
+      </building>
+   </paths>
+   <speed>5</speed>
+</dataroot>
