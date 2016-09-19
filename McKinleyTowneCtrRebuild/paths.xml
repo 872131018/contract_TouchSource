@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<dataroot>
+    <aspdir location="http://127.0.0.1/McKinleyTowneCtr" />
+    <xmlwritedir location="C:\xmldata" />
+    <mdb name="400.mdb" />
+    <error basemap="defaultmap.jpg">The requested map is not available.</error>
+    <infobox font="Arial" bold="true" italic="false" txtColor="000000" align="center" size="16" leading="2" leftMargin="10" rightMargin="10" topMargin="10" bottomMargin="10" graphicMargin="10" maxWidth="195" suiteLabel="Room" />
+    <colors>0000ff;00ff00;ff0000;0d568d</colors>
+    <paths width="5" color="ff0000">
+        <building name="">
+            <suite name="401 E. Liberty Suite 4" basemap="fp-01.jpg" ibox="488,379">
+                <points>311,322;189,322;189,514;450,514;450,501</points>
+            </suite>
+            <suite name="401 E. Liberty Suite 3" basemap="fp-01.jpg" ibox="313,407">
+                <points>313,325;191,325;191,516;234,516;234,484</points>
+            </suite>
+            <suite name="400 E. Washington" basemap="fp-01.jpg" ibox="295,140">
+                <points>313,325;191,325;191,119;225,144</points>
+            </suite>
+            <suite name="505 E. Liberty  Suite 400" basemap="fp-01.jpg" ibox="471,346">
+                <points>313,325;191,325;191,516;794,516;794,421;776,421</points>
+            </suite>
+            <suite name="201 S. Division Suite 100" basemap="fp-01.jpg" ibox="332,205">
+                <points>313,325;191,325;191,257;209,257</points>
+            </suite>
+            <suite name="401 E. Liberty Suite 1" basemap="fp-01.jpg" ibox="381,360">
+                <points>311,322;189,322;189,514;321,514;321,482</points>
+            </suite>
+            <suite name="401 E. Liberty Suite 2" basemap="fp-01.jpg" ibox="447,357">
+                <points>311,322;189,322;189,514;403,514;403,497</points>
+            </suite>
+            <suite name="505 E. Liberty Suite 200" basemap="fp-01.jpg" ibox="436,374">
+                <points>311,322;189,322;189,518;665,518;665,498</points>
+            </suite>
+            <suite name="500  E. Washington 1st Floor" basemap="fp-01.jpg" ibox="582,310">
+                <points>311,322;189,322;189,108;657,108;657,159</points>
+            </suite>
+            <suite name="500 E. Washington Suite 10" basemap="fp-LL.jpg" ibox="551,189">
+                <points>399,112;399,165</points>
+            </suite>
+            <suite name="201 S. Division Suite 430" basemap="fp-04.jpg" ibox="256,208">
+                <points>508,157;396,157</points>
+            </suite>
+            <suite name="201 S. Division Suite 400" basemap="fp-04.jpg" ibox="445,262">
+                <points>507,158;507,189</points>
+            </suite>
+            <suite name="201 S. Division Suite 500" basemap="fp-05.jpg" ibox="443,281">
+                <points>513,163;483,184</points>
+            </suite>
+            <suite name="500 E. Washington Suite 1" basemap="fp-LL.jpg" ibox="550,90">
+                <points>406,104;441,104</points>
+            </suite>
+            <suite name="500 E. Washington Suite 5" basemap="fp-LL.jpg" ibox="550,90">
+                <points>404,101;352,101;352,90</points>
+            </suite>
+            <suite name="430" basemap="fp-04.jpg" ibox="256,208">
+                <points>508,157;396,157</points>
+            </suite>
+            <suite name="400" basemap="fp-04.jpg" ibox="445,262">
+                <points>507,158;507,189</points>
+            </suite>
+        </building>
+    </paths>
+    <speed>5</speed>
+</dataroot>

@@ -1,0 +1,146 @@
+body {background-color: #16232f }
+
+table.OnePixelBorder {background-color: #708174 }
+
+tr.bgHeader {background-color: #314657 }
+.headerStyle {border-bottom: solid #cbc6c2 1px} /* for adding styles to table headers */
+
+tr.bgRow1 {background-color: #292f2a }
+
+tr.bgRow2 {background-color: #3b433d }
+
+tr.bgPropHead {background-color: #314657 }
+
+.headLarge {font-family: Futura LT Book, Verdana, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 24px;
+		font-weight: bold;
+		margin-left: 8px; margin-right: 8px }
+
+.headMed {font-family: Futura LT Book, Verdana, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 22px;
+		font-weight: bold;
+		margin-left: 8px; margin-right: 8px }
+
+.listLarge {font-family: Verdana, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 20px;
+		font-weight: normal;
+		margin-left: 8px; margin-right: 8px }
+
+.listMed {font-family: Verdana, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 18px;
+		font-weight: normal;
+		margin-left: 8px; margin-right: 8px }
+
+.listSmall {font-family: Verdana, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 14px;
+		font-weight: normal;
+		margin-left: 8px; margin-right: 8px }
+
+.listXS {font-family: Verdana, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 8px;
+		font-weight: normal;
+		margin-left: 8px; margin-right: 8px }
+
+table.Mgmt {position:absolute; left:90px; top:105px; }
+table.Leas {position:absolute; left:560px; top:105px; }
+td.PropHdrHeight  {height:0; }
+td.HdrSize  {width:370; height:50; }
+td.BoxSize  {width:370; height:320; }
+
+.headProperty {font-family: Futura LT Book, Verdana, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 34px;
+		font-weight: normal }
+
+.headBox {font-family: Futura LT Book, Verdana, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 24px;
+		font-weight: normal }
+		
+.pushdown { height: 20px; }  /* creates space between listings and header */
+
+/*     Company Padding order <top, right, bottom, left >	*/
+td.setOne0 { width: 13%; padding:10 0 0 14 }
+td.setOne1 { width: 36%; padding:10 10 10 10; height:60 }
+td.setOne2 { width: 34%; padding:0 0 10 10 }
+td.setOne3 { width: 18%; padding:0 10 10 10 }
+td.setOne4 { width: 0%; padding:0 }
+td.setOne5 { width: 0%; padding:0 }
+td.setOne6 { width: 95%; padding:10 }
+
+td.setTwo0 { width: 13%; padding:9 0 0 14 }
+td.setTwo1 { width: 30%; padding:8 10 10 10; height:50 }
+td.setTwo2 { width: 35%; padding:8 }
+td.setTwo3 { width: 22%; padding:8 }
+td.setTwo4 { width: 0%; padding:0 }
+td.setTwo5 { width: 0%; padding:0 }
+td.setTwo6 { width: 95%; padding:8 }
+
+td.setThree0 { width: 5%; padding:9 0 0 24 }
+td.setThree1 { width: 35%; padding:8; height:35 }
+td.setThree2 { width: 60%; padding:8 }
+td.setThree3 { width: 0%; padding:0 }
+td.setThree4 { width: 0%; padding:0 }
+td.setThree5 { width: 0%; padding:0 }
+td.setThree6 { width: 95%; padding:8 }
+
+td.setFour0 { width: 5%; padding:9 0 0 24 }
+td.setFour1 { width: 15%; padding:8; height:45 }
+td.setFour2 { width: 20%; padding:8 }
+td.setFour3 { width: 45%; padding:8 }
+td.setFour4 { width: 0%; padding:0 }
+td.setFour5 { width: 0%; padding:0 }
+td.setFour6 { width: 95%; padding:8 }
+
+td.setFive0 { width: 5%; padding:9 0 0 24 }
+td.setFive1 { width: 30%; padding:8; height:35 }
+td.setFive2 { width: 25%; padding:8 }
+td.setFive3 { width: 18%; padding:8 }
+td.setFive4 { width: 22%; padding:8 }
+td.setFive5 { width: 0%; padding:0 }
+td.setFive6 { width: 95%; padding:8 }
+
+td.setSix0 { width: 5%; padding:9 0 0 24 }
+td.setSix1 { width: 30%; padding:8; height:35 }
+td.setSix2 { width: 25%; padding:8 }
+td.setSix3 { width: 15%; padding:8 }
+td.setSix4 { width: 25%; padding:8 }
+td.setSix5 { width: 0%; padding:0 }
+td.setSix6 { width: 95%; padding:8 }
+
+/* td.setOne1 { width: 70%; padding:12; height:45 }
+td.setOne2 { width: 30%; padding:12; height:45 }
+td.setOne3 { width: 0%; padding:0; height:45 }
+td.setOne4 { width: 0%; padding:0; height:45 }
+td.setOne5 { width: 0%; padding:0; height:45 }
+
+td.setOne1b { width: 70%; padding:4; height:30 }
+td.setOne2b { width: 30%; padding:4; height:30 }
+td.setOne3b { width: 0%; padding:0; height:30 }
+td.setOne4b { width: 0%; padding:0; height:30 }
+td.setOne5b { width: 0%; padding:0; height:30 }
+
+td.setTwo1 { width: 35%; padding:8; height:35 }
+td.setTwo2 { width: 45%; padding:8; height:35 }
+td.setTwo3 { width: 20%; padding:8; height:35 }
+td.setTwo4 { width: 0%; padding:0; height:35 }
+td.setTwo5 { width: 0%; padding:0; height:35 }
+
+td.setThree1 { width: 25%; padding:12; height:45 }
+td.setThree2 { width: 50%; padding:12; height:45 }
+td.setThree3 { width: 25%; padding:12; height:45 }
+td.setThree4 { width: 0%; padding:0; height:45 }
+td.setThree5 { width: 0%; padding:0; height:45 }
+
+td.setFour1 { width: 12%; padding:8; height:35 }
+td.setFour2 { width: 15%; padding:8; height:35 }
+td.setFour3 { width: 15%; padding:8; height:35 }
+td.setFour4 { width: 20%; padding:8; height:35 }
+td.setFour5 { width: 38%; padding:8; height:35 } */
+
