@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+   <tables>
+      <Companies dataSource="2260.mdb" aspFile="dbLookup.asp" idField="CompanyID" suiteField="Suite" bldgField="building" displayLines="Building;[lb] - ;Suite[br];CompanyName" ibBkgd="infobox.png" ibFont="Verdana" ibBold="false" ibItalic="false" ibTxtColor="000000" ibAlign="center" ibSize="14" ibLeading="1" ibLeftMargin="10" ibRightMargin="10" ibTopMargin="8" ibBottomMargin="8" ibGraphicMargin="10" ibMaxWidth="240" ibErrorText="The requested map is not available." />
+      <Individuals dataSource="2260.mdb" aspFile="dbLookup.asp" idField="IndID" suiteField="Suite" bldgField="IndCustom1" displayLines="IndCustom1;[lb] - ;Suite[br];IndividualName" ibBkgd="infobox.png" ibFont="Verdana" ibBold="false" ibItalic="false" ibTxtColor="000000" ibAlign="center" ibSize="14" ibLeading="1" ibLeftMargin="10" ibRightMargin="10" ibTopMargin="8" ibBottomMargin="8" ibGraphicMargin="10" ibMaxWidth="240" ibErrorText="The requested map is not available." />
+      <List12 dataSource="2260.mdb" aspFile="dbLookup.asp" idField="ID" suiteField="Text7" bldgField="Text3" displayLines="Text3;[lb] - ;Text7[br];Text1" ibBkgd="infobox.png" ibFont="Verdana" ibBold="false" ibItalic="false" ibTxtColor="000000" ibAlign="center" ibSize="14" ibLeading="1" ibLeftMargin="10" ibRightMargin="10" ibTopMargin="8" ibBottomMargin="8" ibGraphicMargin="10" ibMaxWidth="240" ibErrorText="The requested map is not available." />
+   </tables>
+   <colors>0000ff;00ff00;ff0000;003a6e</colors>
+   <paths width="6" color="003a6e" looppath="false">
+      <building name="Pharmacy South">
+         <suite name="120G" basemap="fp1.jpg" ibox="76,407">
+            <points>303,538;141,538;134,556;127,556</points>
+         </suite>
+         <suite name="115" basemap="fp1.jpg" ibox="76,407">
+            <points>306,534;263,534;251,527</points>
+         </suite>
+         <suite name="110" basemap="fp1.jpg" ibox="75,427">
+            <points>306,536;272,536;258,574;242,586</points>
+         </suite>
+         <suite name="110A" basemap="fp1.jpg" ibox="75,427">
+            <points>306,536;272,536;259,562;268,562</points>
+         </suite>
+         <suite name="110J" basemap="fp1.jpg" ibox="75,427">
+            <points>306,536;272,536;253,577;194,577;194,566</points>
+         </suite>
+         <suite name="110I" basemap="fp1.jpg" ibox="75,427">
+            <points>306,536;272,536;254,574;194,574</points>
+         </suite>
+         <suite name="110H" basemap="fp1.jpg" ibox="66,467">
+            <points>306,536;272,536;242,597;182,597</points>
+         </suite>
+         <suite name="110F" basemap="fp1.jpg" ibox="66,467">
+            <points>306,536;272,536;242,597;182,597;171,606</points>
+         </suite>
+         <suite name="110E" basemap="fp1.jpg" ibox="68,517">
+            <points>306,536;272,536;216,657;149,657;141,649</points>
+         </suite>
+         <suite name="110D" basemap="fp1.jpg" ibox="52,530">
+            <points>306,536;272,536;216,657;101,657;80,663</points>
+         </suite>
+         <suite name="110C" basemap="fp1.jpg" ibox="52,530">
+            <points>306,536;272,536;220,651;107,651;107,659</points>
+         </suite>
+         <suite name="120A" basemap="fp1.jpg" ibox="70,446">
+            <points>302,537;149,537;140,548;150,556</points>
+         </suite>
+         <suite name="120F" basemap="fp1.jpg" ibox="70,446">
+            <points>302,537;149,537;124,581;116,581</points>
+         </suite>
+         <suite name="120E" basemap="fp1.jpg" ibox="70,446">
+            <points>302,537;149,537;116,587;108,587</points>
+         </suite>
+         <suite name="120C" basemap="fp1.jpg" ibox="70,446">
+            <points>302,537;149,537;107,598;89,607</points>
+         </suite>
+         <suite name="120B" basemap="fp1.jpg" ibox="70,446">
+            <points>302,537;149,537;110,600</points>
+         </suite>
+         <suite name="120" basemap="fp1.jpg" ibox="70,446">
+            <points>302,537;149,537;125,578</points>
+         </suite>
+         <suite name="101" basemap="fp1.jpg" ibox="none">
+            <points>341,512;351,502</points>
+         </suite>
+         <suite name="101C" basemap="fp1.jpg" ibox="113,418">
+            <points>338,508;404,454;376,454</points>
+         </suite>
+         <suite name="213" basemap="fp2.jpg" ibox="342,144">
+            <points>279,512;279,234;288,228</points>
+         </suite>
+         <suite name="217" basemap="fp2.jpg" ibox="342,144">
+            <points>279,512;279,234;287,214;296,214</points>
+         </suite>
+         <suite name="225" basemap="fp2.jpg" ibox="93,89">
+            <points>281,513;288,229;306,179;274,179</points>
+         </suite>
+         <suite name="225B" basemap="fp2.jpg" ibox="93,89">
+            <points>281,513;288,229;306,179;276,173</points>
+         </suite>
+         <suite name="225C" basemap="fp2.jpg" ibox="93,89">
+            <points>281,513;288,229;303,184;272,184;272,175</points>
+         </suite>
+         <suite name="225D" basemap="fp2.jpg" ibox="93,89">
+            <points>281,513;288,229;305,180;233,180;233,174;218,174</points>
+         </suite>
+         <suite name="215K" basemap="fp2.jpg" ibox="93,89">
+            <points>281,513;288,229;267,254;196,254;228,187;196,187</points>
+         </suite>
+         <suite name="215J" basemap="fp2.jpg" ibox="93,89">
+            <points>281,513;288,229;267,254;196,254;215,203;192,203</points>
+         </suite>
+         <suite name="215I" basemap="fp2.jpg" ibox="93,89">
+            <points>281,513;288,229;267,254;196,254;211,216;178,216</points>
+         </suite>
+         <suite name="215H" basemap="fp2.jpg" ibox="68,134">
+            <points>281,513;288,229;267,254;196,254;203,230;168,230</points>
+         </suite>
+         <suite name="215G" basemap="fp2.jpg" ibox="68,134">
+            <points>281,513;288,229;267,254;196,254;202,241;171,241</points>
+         </suite>
+         <suite name="215E" basemap="fp2.jpg" ibox="68,134">
+            <points>281,513;288,229;267,254;196,254;202,241;210,241</points>
+         </suite>
+         <suite name="215D" basemap="fp2.jpg" ibox="68,134">
+            <points>281,513;288,229;267,254;196,254;207,227;213,227</points>
+         </suite>
+         <suite name="215C" basemap="fp2.jpg" ibox="135,114">
+            <points>281,513;288,229;267,254;196,254;213,213;220,213</points>
+         </suite>
+         <suite name="215B" basemap="fp2.jpg" ibox="135,114">
+            <points>281,513;288,229;267,254;196,254;218,200;225,200</points>
+         </suite>
+         <suite name="215A" basemap="fp2.jpg" ibox="135,114">
+            <points>281,513;288,229;267,254;196,254;225,193;232,193</points>
+         </suite>
+         <suite name="205E" basemap="fp2.jpg" ibox="87,162">
+            <points>281,513;288,229;267,254;228,254</points>
+         </suite>
+         <suite name="205D" basemap="fp2.jpg" ibox="87,162">
+            <points>281,513;288,229;267,254;165,254</points>
+         </suite>
+         <suite name="205A" basemap="fp2.jpg" ibox="87,162">
+            <points>281,513;288,229;265,251;199,251;199,261</points>
+         </suite>
+         <suite name="205C" basemap="fp2.jpg" ibox="87,162">
+            <points>281,513;288,229;265,251;199,251;199,266;157,266</points>
+         </suite>
+         <suite name="210" basemap="fp2.jpg" ibox="87,162">
+            <points>281,513;288,229;253,260</points>
+         </suite>
+         <suite name="202" basemap="fp2.jpg" ibox="87,162">
+            <points>281,513;288,229;261,270;268,270</points>
+         </suite>
+         <suite name="212" basemap="fp2.jpg" ibox="87,162">
+            <points>281,513;288,229;249,295;258,295</points>
+         </suite>
+         <suite name="222F" basemap="fp2.jpg" ibox="42,246">
+            <points>281,513;288,229;252,293;222,340;147,340;136,355;94,355</points>
+         </suite>
+         <suite name="222E" basemap="fp2.jpg" ibox="42,246">
+            <points>281,513;288,229;252,293;222,340;147,340;136,355;112,355</points>
+         </suite>
+         <suite name="222D" basemap="fp2.jpg" ibox="42,246">
+            <points>281,513;288,229;252,293;222,340;147,340;140,353</points>
+         </suite>
+         <suite name="222C" basemap="fp2.jpg" ibox="42,246">
+            <points>281,513;288,229;252,293;222,340;147,340;147,356</points>
+         </suite>
+         <suite name="222" basemap="fp2.jpg" ibox="42,246">
+            <points>281,513;288,229;252,293;222,340;147,340;147,356;159,356</points>
+         </suite>
+         <suite name="222B" basemap="fp2.jpg" ibox="42,246">
+            <points>281,513;288,229;252,293;222,340;147,340;147,356;170,356</points>
+         </suite>
+         <suite name="222A" basemap="fp2.jpg" ibox="42,246">
+            <points>281,513;288,229;252,293;222,340;147,340;147,356;179,356;192,363</points>
+         </suite>
+         <suite name="230" basemap="fp2.jpg" ibox="46,219">
+            <points>281,513;288,229;252,293;222,340;147,340;134,326</points>
+         </suite>
+         <suite name="220" basemap="fp2.jpg" ibox="63,205">
+            <points>281,513;288,229;247,301;228,301</points>
+         </suite>
+         <suite name="201" basemap="fp2.jpg" ibox="393,126">
+            <points>280,513;294,252;326,252;345,221</points>
+         </suite>
+         <suite name="341" basemap="fp3.jpg" ibox="60,87">
+            <points>274,606;280,111;312,44;239,44</points>
+         </suite>
+         <suite name="343" basemap="fp3.jpg" ibox="60,87">
+            <points>274,606;280,111;312,44;235,44</points>
+         </suite>
+         <suite name="345" basemap="fp3.jpg" ibox="60,87">
+            <points>274,606;280,111;312,44;215,44</points>
+         </suite>
+         <suite name="339" basemap="fp3.jpg" ibox="78,82">
+            <points>274,605;285,103;310,44;273,44</points>
+         </suite>
+         <suite name="315" basemap="fp3.jpg" ibox="57,133">
+            <points>279,606;279,117;262,117;262,105</points>
+         </suite>
+         <suite name="315E" basemap="fp3.jpg" ibox="57,133">
+            <points>279,606;279,117;262,117;241,81</points>
+         </suite>
+         <suite name="315F" basemap="fp3.jpg" ibox="57,133">
+            <points>279,606;279,117;262,117;241,81</points>
+         </suite>
+         <suite name="315C" basemap="fp3.jpg" ibox="57,133">
+            <points>279,606;279,117;262,117;241,81;247,68</points>
+         </suite>
+         <suite name="315B" basemap="fp3.jpg" ibox="57,133">
+            <points>279,606;279,117;262,117;241,81;247,68</points>
+         </suite>
+         <suite name="315G" basemap="fp3.jpg" ibox="57,133">
+            <points>279,606;279,117;262,117;241,81;196,81</points>
+         </suite>
+         <suite name="315H" basemap="fp3.jpg" ibox="57,133">
+            <points>279,606;279,117;262,117;241,81;196,81;209,59</points>
+         </suite>
+         <suite name="310H" basemap="fp3.jpg" ibox="70,157">
+            <points>279,606;279,117;262,117;262,108;225,108;213,117</points>
+         </suite>
+         <suite name="310" basemap="fp3.jpg" ibox="48,74">
+            <points>279,606;279,117;252,134;236,149</points>
+         </suite>
+         <suite name="310C" basemap="fp3.jpg" ibox="48,74">
+            <points>279,606;279,117;252,134;236,149;193,167;186,177</points>
+         </suite>
+         <suite name="310E" basemap="fp3.jpg" ibox="48,74">
+            <points>279,606;279,117;252,134;236,149;193,167;186,177</points>
+         </suite>
+         <suite name="310G" basemap="fp3.jpg" ibox="48,74">
+            <points>279,606;279,117;252,134;236,149;148,166</points>
+         </suite>
+         <suite name="310F" basemap="fp3.jpg" ibox="48,74">
+            <points>279,606;279,117;252,134;236,149;193,167;175,195</points>
+         </suite>
+         <suite name="310B" basemap="fp3.jpg" ibox="48,74">
+            <points>279,606;279,117;252,134;236,149;193,167;175,195</points>
+         </suite>
+         <suite name="312" basemap="fp3.jpg" ibox="75,62">
+            <points>283,603;290,97;265,145</points>
+         </suite>
+         <suite name="314" basemap="fp3.jpg" ibox="75,62">
+            <points>283,603;290,97;264,157</points>
+         </suite>
+         <suite name="318" basemap="fp3.jpg" ibox="75,62">
+            <points>283,603;290,97;256,174</points>
+         </suite>
+         <suite name="316" basemap="fp3.jpg" ibox="64,98">
+            <points>283,603;290,97;256,174;246,180</points>
+         </suite>
+         <suite name="322" basemap="fp3.jpg" ibox="64,98">
+            <points>283,603;290,97;248,192;255,192</points>
+         </suite>
+         <suite name="324" basemap="fp3.jpg" ibox="64,98">
+            <points>283,603;290,97;236,212;244,212</points>
+         </suite>
+         <suite name="332" basemap="fp3.jpg" ibox="37,145">
+            <points>283,603;290,97;231,219;241,227</points>
+         </suite>
+         <suite name="330" basemap="fp3.jpg" ibox="42,132">
+            <points>283,603;290,97;234,211;223,211</points>
+         </suite>
+         <suite name="334" basemap="fp3.jpg" ibox="42,132">
+            <points>283,603;290,97;234,211;211,224</points>
+         </suite>
+         <suite name="336" basemap="fp3.jpg" ibox="42,132">
+            <points>283,603;290,97;234,211;211,224</points>
+         </suite>
+         <suite name="340" basemap="fp3.jpg" ibox="42,132">
+            <points>283,603;290,97;234,211;209,226;158,226</points>
+         </suite>
+         <suite name="342" basemap="fp3.jpg" ibox="42,132">
+            <points>283,603;290,97;234,211;209,226;110,226</points>
+         </suite>
+         <suite name="344" basemap="fp3.jpg" ibox="42,132">
+            <points>283,603;290,97;234,211;209,226;110,226</points>
+         </suite>
+         <suite name="437" basemap="fp4.jpg" ibox="58,83">
+            <points>280,606;287,93;311,36;289,36</points>
+         </suite>
+         <suite name="439" basemap="fp4.jpg" ibox="58,83">
+            <points>280,606;287,93;311,36;272,36</points>
+         </suite>
+         <suite name="441" basemap="fp4.jpg" ibox="58,83">
+            <points>280,606;287,93;311,36;242,36</points>
+         </suite>
+         <suite name="443" basemap="fp4.jpg" ibox="58,83">
+            <points>280,606;287,93;311,36;242,36</points>
+         </suite>
+         <suite name="445" basemap="fp4.jpg" ibox="58,83">
+            <points>280,606;287,93;311,36;212,36</points>
+         </suite>
+         <suite name="415F" basemap="fp4.jpg" ibox="58,83">
+            <points>280,606;287,93;311,36;260,36;253,42</points>
+         </suite>
+         <suite name="415H" basemap="fp4.jpg" ibox="58,83">
+            <points>280,606;287,93;311,36;260,36;253,42</points>
+         </suite>
+         <suite name="415B" basemap="fp4.jpg" ibox="58,83">
+            <points>280,606;287,93;311,36;251,36;251,43</points>
+         </suite>
+         <suite name="415C" basemap="fp4.jpg" ibox="58,83">
+            <points>280,606;287,93;311,36;251,36;251,43</points>
+         </suite>
+         <suite name="415" basemap="fp4.jpg" ibox="74,132">
+            <points>280,606;287,93;262,111;256,95</points>
+         </suite>
+         <suite name="415G" basemap="fp4.jpg" ibox="74,132">
+            <points>280,606;287,93;262,111;262,82;193,82;193,70</points>
+         </suite>
+         <suite name="410" basemap="fp4.jpg" ibox="89,180">
+            <points>280,606;287,93;249,129</points>
+         </suite>
+         <suite name="403" basemap="fp4.jpg" ibox="53,38">
+            <points>280,606;287,93;241,136;205,136;205,126</points>
+         </suite>
+         <suite name="450" basemap="fp4.jpg" ibox="41,120">
+            <points>284,605;292,89;225,217;114,217</points>
+         </suite>
+         <suite name="442" basemap="fp4.jpg" ibox="41,120">
+            <points>284,605;292,89;225,217;114,217</points>
+         </suite>
+         <suite name="440" basemap="fp4.jpg" ibox="41,120">
+            <points>284,605;292,89;225,217;157,217</points>
+         </suite>
+         <suite name="438" basemap="fp4.jpg" ibox="41,120">
+            <points>284,605;292,89;225,217;157,217</points>
+         </suite>
+         <suite name="436" basemap="fp4.jpg" ibox="41,120">
+            <points>284,605;292,89;225,217;210,217</points>
+         </suite>
+         <suite name="434" basemap="fp4.jpg" ibox="41,120">
+            <points>284,605;292,89;225,217;210,217</points>
+         </suite>
+         <suite name="430A" basemap="fp4.jpg" ibox="51,121">
+            <points>284,605;292,89;232,202;211,202</points>
+         </suite>
+         <suite name="430" basemap="fp4.jpg" ibox="51,121">
+            <points>284,605;292,89;232,202;211,202</points>
+         </suite>
+         <suite name="432" basemap="fp4.jpg" ibox="51,121">
+            <points>284,605;292,89;232,202;238,212</points>
+         </suite>
+         <suite name="424" basemap="fp4.jpg" ibox="51,121">
+            <points>284,605;292,89;243,189</points>
+         </suite>
+         <suite name="422" basemap="fp4.jpg" ibox="58,104">
+            <points>284,605;292,89;246,180</points>
+         </suite>
+         <suite name="420" basemap="fp4.jpg" ibox="58,104">
+            <points>284,605;292,89;252,160</points>
+         </suite>
+         <suite name="416" basemap="fp4.jpg" ibox="58,104">
+            <points>284,605;292,89;246,180</points>
+         </suite>
+         <suite name="418" basemap="fp4.jpg" ibox="58,104">
+            <points>284,605;292,89;250,162</points>
+         </suite>
+         <suite name="414" basemap="fp4.jpg" ibox="58,104">
+            <points>284,605;292,89;258,150</points>
+         </suite>
+         <suite name="412" basemap="fp4.jpg" ibox="58,104">
+            <points>284,605;292,89;270,133</points>
+         </suite>
+         <suite name="408" basemap="fp4.jpg" ibox="58,104">
+            <points>284,605;292,89;269,127</points>
+         </suite>
+         <suite name="404" basemap="fp4.jpg" ibox="58,104">
+            <points>284,605;292,89;281,107</points>
+         </suite>
+      </building>
+      <building name="R.C. Wilson">
+         <suite name="116" basemap="fp1-1041.jpg" ibox="832,450">
+            <points>344,536;809,536</points>
+         </suite>
+         <suite name="115" basemap="fp1-1041.jpg" ibox="846,474">
+            <points>344,536;809,536;809,560;816,560</points>
+         </suite>
+         <suite name="120" basemap="fp1-1041.jpg" ibox="837,640">
+            <points>344,536;809,536;809,607;825,607</points>
+         </suite>
+         <suite name="101" basemap="fp1-1041.jpg" ibox="610,675">
+            <points>344,536;809,536;815,647;803,647</points>
+         </suite>
+         <suite name="101C" basemap="fp1-1041.jpg" ibox="539,681">
+            <points>344,536;809,536;815,647;761,647;736,656</points>
+         </suite>
+         <suite name="101B" basemap="fp1-1041.jpg" ibox="539,681">
+            <points>344,536;809,536;815,647;745,647;745,653</points>
+         </suite>
+         <suite name="101D" basemap="fp1-1041.jpg" ibox="539,681">
+            <points>344,536;809,536;815,647;745,647;730,639</points>
+         </suite>
+         <suite name="101F" basemap="fp1-1041.jpg" ibox="576,671">
+            <points>344,536;809,536;815,647;745,647;745,623;732,614</points>
+         </suite>
+         <suite name="101J" basemap="fp1-1041.jpg" ibox="576,671">
+            <points>344,536;809,536;815,647;745,647;745,605;761,599</points>
+         </suite>
+         <suite name="101H" basemap="fp1-1041.jpg" ibox="576,671">
+            <points>344,536;809,536;815,647;745,647;745,605;736,594</points>
+         </suite>
+         <suite name="101L" basemap="fp1-1041.jpg" ibox="576,671">
+            <points>344,536;809,536;815,647;745,647;745,580;754,580</points>
+         </suite>
+         <suite name="101K" basemap="fp1-1041.jpg" ibox="576,671">
+            <points>344,536;809,536;815,647;745,647;745,563;733,563</points>
+         </suite>
+         <suite name="111A" basemap="fp1-1041.jpg" ibox="770,705">
+            <points>344,536;809,536;815,647;886,668</points>
+         </suite>
+         <suite name="117" basemap="fp1-1041.jpg" ibox="770,705">
+            <points>344,536;809,536;816,656;999,656;999,664</points>
+         </suite>
+         <suite name="139" basemap="fp1-1041.jpg" ibox="1005,515">
+            <points>344,536;809,536;816,656;992,656;980,599</points>
+         </suite>
+         <suite name="139F" basemap="fp1-1041.jpg" ibox="1005,515">
+            <points>344,536;809,536;816,656;992,656;977,585;993,585;984,563;977,563</points>
+         </suite>
+         <suite name="196A" basemap="fp1-1041.jpg" ibox="1034,505">
+            <points>344,536;809,536;816,656;992,656;977,585;993,585;984,558;994,558;994,545</points>
+         </suite>
+         <suite name="142" basemap="fp1-1041.jpg" ibox="1100,593">
+            <points>344,536;809,536;816,657;964,657;985,642;1043,642;1043,633</points>
+         </suite>
+         <suite name="143A" basemap="fp1-1041.jpg" ibox="906,566">
+            <points>344,536;809,536;816,657;964,657;988,638;1076,638;1076,645</points>
+         </suite>
+         <suite name="143" basemap="fp1-1041.jpg" ibox="906,566">
+            <points>344,536;809,536;816,657;964,657;988,638;1089,638;1095,645</points>
+         </suite>
+         <suite name="142B" basemap="fp1-1041.jpg" ibox="901,530">
+            <points>344,536;809,536;816,657;964,657;988,644;1048,644;1042,623;1029,623</points>
+         </suite>
+         <suite name="142C" basemap="fp1-1041.jpg" ibox="901,530">
+            <points>344,536;809,536;816,657;964,657;988,644;1048,644;1042,623;1022,616</points>
+         </suite>
+         <suite name="142E" basemap="fp1-1041.jpg" ibox="901,530">
+            <points>344,536;809,536;816,657;964,657;988,644;1048,644;1039,615</points>
+         </suite>
+         <suite name="142F" basemap="fp1-1041.jpg" ibox="901,530">
+            <points>344,536;809,536;816,657;964,657;988,644;1048,644;1039,615;1045,609</points>
+         </suite>
+         <suite name="142G" basemap="fp1-1041.jpg" ibox="964,525">
+            <points>344,536;809,536;816,657;964,657;988,644;1048,644;1039,615;1066,615;1072,609</points>
+         </suite>
+         <suite name="142J" basemap="fp1-1041.jpg" ibox="1000,535">
+            <points>344,536;809,536;816,657;964,657;988,644;1048,644;1039,615;1066,615;1076,622</points>
+         </suite>
+         <suite name="142A" basemap="fp1-1041.jpg" ibox="1000,535">
+            <points>344,536;809,536;816,657;964,657;988,644;1048,644;1048,624</points>
+         </suite>
+         <suite name="146" basemap="fp1-1041.jpg" ibox="954,558">
+            <points>344,536;809,536;816,657;964,657;988,638;1135,638;1141,646</points>
+         </suite>
+         <suite name="148" basemap="fp1-1041.jpg" ibox="998,556">
+            <points>344,536;809,536;816,657;964,657;988,638;1159,638;1165,645</points>
+         </suite>
+         <suite name="152" basemap="fp1-1041.jpg" ibox="1113,552">
+            <points>344,536;809,536;816,657;964,657;988,638;1227,638;1233,652</points>
+         </suite>
+         <suite name="150" basemap="fp1-1041.jpg" ibox="1113,552">
+            <points>344,536;809,536;816,657;964,657;988,638;1227,638;1233,652;1223,652</points>
+         </suite>
+         <suite name="152A" basemap="fp1-1041.jpg" ibox="1113,552">
+            <points>344,536;809,536;816,657;964,657;988,638;1227,638;1233,652;1247,668</points>
+         </suite>
+         <suite name="150A" basemap="fp1-1041.jpg" ibox="1113,552">
+            <points>344,536;809,536;816,657;964,657;988,638;1227,638;1240,674;1229,674</points>
+         </suite>
+         <suite name="152B" basemap="fp1-1041.jpg" ibox="1194,702">
+            <points>344,536;809,536;816,657;964,657;988,638;1269,638;1276,649</points>
+         </suite>
+         <suite name="149E" basemap="fp1-1041.jpg" ibox="1194,702">
+            <points>344,536;809,536;816,657;964,657;979,645;1280,645;1272,631</points>
+         </suite>
+         <suite name="149" basemap="fp1-1041.jpg" ibox="1194,702">
+            <points>344,536;809,536;816,657;964,657;979,645;1169,645;1158,611;1170,611</points>
+         </suite>
+         <suite name="149A" basemap="fp1-1041.jpg" ibox="1005,527">
+            <points>344,536;809,536;816,657;964,657;979,645;1175,645;1161,614;1161,608</points>
+         </suite>
+         <suite name="149B" basemap="fp1-1041.jpg" ibox="1047,526">
+            <points>344,536;809,536;816,657;964,657;979,645;1175,645;1161,614;1184,608</points>
+         </suite>
+         <suite name="149C" basemap="fp1-1041.jpg" ibox="1134,527">
+            <points>344,536;809,536;816,657;964,657;979,645;1175,645;1161,614;1212,607</points>
+         </suite>
+         <suite name="149D" basemap="fp1-1041.jpg" ibox="1134,527">
+            <points>344,536;809,536;816,657;964,657;979,645;1175,645;1158,611;1242,611</points>
+         </suite>
+         <suite name="149F" basemap="fp1-1041.jpg" ibox="1134,527">
+            <points>344,536;809,536;816,657;964,657;979,645;1175,645;1158,611;1203,611;1209,617</points>
+         </suite>
+         <suite name="154" basemap="fp1-1041.jpg" ibox="1166,676">
+            <points>344,536;809,536;816,657;964,657;984,640;1304,640</points>
+         </suite>
+         <suite name="155C" basemap="fp1-1041.jpg" ibox="1131,531">
+            <points>344,536;809,536;816,657;964,657;984,640;1299,640;1285,613;1328,613;1328,605</points>
+         </suite>
+         <suite name="155D" basemap="fp1-1041.jpg" ibox="1067,545">
+            <points>344,536;809,536;816,657;964,657;984,640;1299,640;1285,608;1293,602</points>
+         </suite>
+         <suite name="155" basemap="fp1-1041.jpg" ibox="1064,503">
+            <points>344,536;809,536;816,657;964,657;984,640;1299,640;1258,560;1273,560</points>
+         </suite>
+         <suite name="215" basemap="fp2.jpg" ibox="618,174">
+            <points>280,513;294,252;668,252;668,261</points>
+         </suite>
+         <suite name="215A" basemap="fp2.jpg" ibox="618,174">
+            <points>280,513;294,252;668,252;668,272;661,272</points>
+         </suite>
+         <suite name="215B" basemap="fp2.jpg" ibox="618,174">
+            <points>280,513;294,252;668,252;668,280;660,280</points>
+         </suite>
+         <suite name="215C" basemap="fp2.jpg" ibox="618,174">
+            <points>280,513;294,252;672,252;672,294</points>
+         </suite>
+         <suite name="215D" basemap="fp2.jpg" ibox="618,174">
+            <points>280,513;294,252;672,252;666,335</points>
+         </suite>
+         <suite name="215E" basemap="fp2.jpg" ibox="436,359">
+            <points>280,513;294,252;672,252;666,344;658,344</points>
+         </suite>
+         <suite name="215G" basemap="fp2.jpg" ibox="436,359">
+            <points>280,513;294,252;672,252;665,383</points>
+         </suite>
+         <suite name="215F" basemap="fp2.jpg" ibox="436,359">
+            <points>280,513;294,252;672,252;663,367;654,367</points>
+         </suite>
+         <suite name="211" basemap="fp2.jpg" ibox="786,282">
+            <points>280,513;280,248;756,248;756,257</points>
+         </suite>
+         <suite name="211B" basemap="fp2.jpg" ibox="659,315">
+            <points>280,513;280,248;756,248;756,274;728,274</points>
+         </suite>
+         <suite name="210" basemap="fp2.jpg" ibox="732,300">
+            <points>280,513;280,248;785,242;785,249</points>
+         </suite>
+         <suite name="209" basemap="fp2.jpg" ibox="732,300">
+            <points>280,513;280,248;785,242;792,251</points>
+         </suite>
+         <suite name="233" basemap="fp2.jpg" ibox="861,296">
+            <points>280,513;280,248;839,248;839,264;847,264</points>
+         </suite>
+         <suite name="201" basemap="fp2.jpg" ibox="626,414">
+            <points>280,513;280,248;839,248;855,392;743,392;743,375</points>
+         </suite>
+         <suite name="200" basemap="fp2.jpg" ibox="626,414">
+            <points>280,513;280,248;839,248;855,392;743,392;743,364;727,364</points>
+         </suite>
+         <suite name="204E" basemap="fp2.jpg" ibox="626,414">
+            <points>280,513;280,248;839,248;855,392;737,392;737,339</points>
+         </suite>
+         <suite name="202" basemap="fp2.jpg" ibox="686,407">
+            <points>280,513;280,248;839,248;852,371;836,371</points>
+         </suite>
+         <suite name="220" basemap="fp2.jpg" ibox="890,397">
+            <points>280,513;280,248;839,248;852,371;863,371</points>
+         </suite>
+         <suite name="222" basemap="fp2.jpg" ibox="628,328">
+            <points>280,513;280,248;839,248;852,336;843,336</points>
+         </suite>
+         <suite name="204" basemap="fp2.jpg" ibox="628,328">
+            <points>280,513;280,248;839,248;849,325;842,325</points>
+         </suite>
+         <suite name="205" basemap="fp2.jpg" ibox="628,328">
+            <points>280,513;280,248;839,248;848,314;841,314</points>
+         </suite>
+         <suite name="207" basemap="fp2.jpg" ibox="687,309">
+            <points>280,513;280,248;839,248;839,275;830,275</points>
+         </suite>
+         <suite name="211A" basemap="fp2.jpg" ibox="747,328">
+            <points>280,513;280,248;756,248;756,290;764,290</points>
+         </suite>
+         <suite name="205A" basemap="fp2.jpg" ibox="628,328">
+            <points>280,513;280,248;839,248;848,314;832,314;821,308</points>
+         </suite>
+         <suite name="204D" basemap="fp2.jpg" ibox="626,414">
+            <points>280,513;280,248;839,248;855,392;737,392;737,335;751,335;751,321</points>
+         </suite>
+         <suite name="204A" basemap="fp2.jpg" ibox="719,412">
+            <points>280,513;280,248;839,248;855,392;737,392;737,335;774,335</points>
+         </suite>
+         <suite name="204B" basemap="fp2.jpg" ibox="719,412">
+            <points>280,513;280,248;839,248;855,392;737,392;737,335;769,335;777,328</points>
+         </suite>
+         <suite name="204C" basemap="fp2.jpg" ibox="719,412">
+            <points>280,513;280,248;839,248;855,392;737,392;737,335;758,335</points>
+         </suite>
+         <suite name="235" basemap="fp2.jpg" ibox="881,225">
+            <points>280,513;280,248;839,248;848,303;862,303</points>
+         </suite>
+         <suite name="224" basemap="fp2.jpg" ibox="783,394">
+            <points>280,513;280,248;839,248;850,344;924,344;924,352</points>
+         </suite>
+         <suite name="226" basemap="fp2.jpg" ibox="835,396">
+            <points>280,513;280,248;839,248;850,344;988,344;988,357</points>
+         </suite>
+         <suite name="227" basemap="fp2.jpg" ibox="894,395">
+            <points>280,513;280,248;839,248;850,344;1047,344;1047,354</points>
+         </suite>
+         <suite name="237" basemap="fp2.jpg" ibox="895,238">
+            <points>280,513;280,248;839,248;850,344;954,344;954,334</points>
+         </suite>
+         <suite name="238" basemap="fp2.jpg" ibox="895,238">
+            <points>280,513;280,248;839,248;850,344;976,344;976,334</points>
+         </suite>
+         <suite name="271" basemap="fp2.jpg" ibox="979,382">
+            <points>280,513;280,248;839,248;850,344;1048,344</points>
+         </suite>
+         <suite name="219" basemap="fp2.jpg" ibox="914,428">
+            <points>280,513;280,248;839,248;857,395;922,395</points>
+         </suite>
+         <suite name="231" basemap="fp2.jpg" ibox="1022,426">
+            <points>280,513;280,248;839,248;857,395;1026,395</points>
+         </suite>
+         <suite name="232" basemap="fp2.jpg" ibox="701,294">
+            <points>280,513;280,248;879,248;885,262</points>
+         </suite>
+         <suite name="232A" basemap="fp2.jpg" ibox="739,294">
+            <points>280,513;280,248;879,248;885,262;938,262</points>
+         </suite>
+         <suite name="232H" basemap="fp2.jpg" ibox="739,305">
+            <points>280,513;280,248;879,248;885,262;935,289</points>
+         </suite>
+         <suite name="232B" basemap="fp2.jpg" ibox="917,321">
+            <points>280,513;280,248;879,248;886,290;956,290</points>
+         </suite>
+         <suite name="232G" basemap="fp2.jpg" ibox="891,308">
+            <points>280,513;280,248;1030,248;1037,272;1048,272</points>
+         </suite>
+         <suite name="232F" basemap="fp2.jpg" ibox="891,308">
+            <points>280,513;280,248;1030,248;1037,272;1027,272</points>
+         </suite>
+         <suite name="232C" basemap="fp2.jpg" ibox="902,318">
+            <points>280,513;280,248;1030,248;1040,277</points>
+         </suite>
+         <suite name="232D" basemap="fp2.jpg" ibox="902,318">
+            <points>280,513;280,248;1030,248;1042,290;993,290;993,283</points>
+         </suite>
+         <suite name="230" basemap="fp2.jpg" ibox="910,380">
+            <points>280,513;280,248;1082,248;1119,356;1108,356</points>
+         </suite>
+         <suite name="265" basemap="fp2.jpg" ibox="1076,360">
+            <points>280,513;280,248;1082,248;1101,307;1133,307</points>
+         </suite>
+         <suite name="265A" basemap="fp2.jpg" ibox="1121,331">
+            <points>280,513;280,248;1082,248;1101,307;1140,307;1131,301</points>
+         </suite>
+         <suite name="265B" basemap="fp2.jpg" ibox="1121,331">
+            <points>280,513;280,248;1082,248;1101,307;1128,307;1135,301</points>
+         </suite>
+         <suite name="265M" basemap="fp2.jpg" ibox="1121,331">
+            <points>280,513;280,248;1082,248;1101,307;1138,307;1124,273;1134,273</points>
+         </suite>
+         <suite name="265J" basemap="fp2.jpg" ibox="1121,331">
+            <points>280,513;280,248;1082,248;1101,307;1138,307;1124,273;1161,273</points>
+         </suite>
+         <suite name="265K" basemap="fp2.jpg" ibox="1121,331">
+            <points>280,513;280,248;1082,248;1101,307;1138,307;1124,273;1177,273</points>
+         </suite>
+         <suite name="260F" basemap="fp2.jpg" ibox="1121,331">
+            <points>280,513;280,248;1082,248;1101,307;1138,307;1124,273;1206,273</points>
+         </suite>
+         <suite name="265I" basemap="fp2.jpg" ibox="1121,331">
+            <points>280,513;280,248;1082,248;1101,307;1138,307;1124,273;1206,273</points>
+         </suite>
+         <suite name="260K" basemap="fp2.jpg" ibox="1121,331">
+            <points>280,513;280,248;1082,248;1101,307;1138,307;1124,273;1177,273</points>
+         </suite>
+         <suite name="260H" basemap="fp2.jpg" ibox="1121,331">
+            <points>280,513;280,248;1082,248;1101,307;1138,307;1124,273;1177,273</points>
+         </suite>
+         <suite name="260J" basemap="fp2.jpg" ibox="1121,331">
+            <points>280,513;280,248;1082,248;1101,307;1138,307;1124,273;1161,273</points>
+         </suite>
+         <suite name="260M" basemap="fp2.jpg" ibox="1121,331">
+            <points>280,513;280,248;1082,248;1101,307;1138,307;1124,273;1134,273</points>
+         </suite>
+         <suite name="260L" basemap="fp2.jpg" ibox="1121,331">
+            <points>280,513;280,248;1082,248;1101,307;1138,307;1124,273;1134,273</points>
+         </suite>
+         <suite name="260N" basemap="fp2.jpg" ibox="1121,331">
+            <points>280,513;280,248;1082,248;1101,307;1138,307;1128,280</points>
+         </suite>
+         <suite name="260O" basemap="fp2.jpg" ibox="1121,331">
+            <points>280,513;280,248;1082,248;1101,307;1138,307;1128,280</points>
+         </suite>
+         <suite name="265C" basemap="fp2.jpg" ibox="1117,351">
+            <points>280,513;280,248;1082,248;1101,307;1159,307</points>
+         </suite>
+         <suite name="265D" basemap="fp2.jpg" ibox="1117,351">
+            <points>280,513;280,248;1082,248;1101,307;1203,307</points>
+         </suite>
+         <suite name="265E" basemap="fp2.jpg" ibox="1117,351">
+            <points>280,513;280,248;1082,248;1100,305;1235,305</points>
+         </suite>
+         <suite name="265F" basemap="fp2.jpg" ibox="1117,351">
+            <points>280,513;280,248;1082,248;1100,305;1256,305</points>
+         </suite>
+         <suite name="265H" basemap="fp2.jpg" ibox="1117,351">
+            <points>280,513;280,248;1082,248;1100,305;1261,305;1275,313</points>
+         </suite>
+         <suite name="260D" basemap="fp2.jpg" ibox="1126,335">
+            <points>280,513;280,248;1082,248;1100,305;1296,305;1284,293</points>
+         </suite>
+         <suite name="260A" basemap="fp2.jpg" ibox="1091,174">
+            <points>280,513;280,248;1082,248;1100,305;1296,305;1286,262</points>
+         </suite>
+         <suite name="260B" basemap="fp2.jpg" ibox="1091,174">
+            <points>280,513;280,248;1082,248;1100,305;1296,305;1275,271;1289,271</points>
+         </suite>
+         <suite name="260C" basemap="fp2.jpg" ibox="1091,174">
+            <points>280,513;280,248;1082,248;1100,305;1296,305;1282,282;1292,282</points>
+         </suite>
+         <suite name="265G" basemap="fp2.jpg" ibox="1193,198">
+            <points>280,513;280,248;1082,248;1100,305;1296,305</points>
+         </suite>
+         <suite name="265Q" basemap="fp2.jpg" ibox="1193,198">
+            <points>280,513;280,248;1082,248;1100,305;1284,305;1293,328</points>
+         </suite>
+         <suite name="270L" basemap="fp2.jpg" ibox="1224,425">
+            <points>280,513;280,248;1082,248;1100,305;1293,305;1316,344;1354,381</points>
+         </suite>
+         <suite name="270K" basemap="fp2.jpg" ibox="1224,425">
+            <points>280,513;280,248;1082,248;1100,305;1293,305;1316,344;1339,366;1356,366</points>
+         </suite>
+         <suite name="270J" basemap="fp2.jpg" ibox="1224,405">
+            <points>280,513;280,248;1082,248;1100,305;1293,305;1316,344;1332,360;1347,360</points>
+         </suite>
+         <suite name="270I" basemap="fp2.jpg" ibox="1119,376">
+            <points>280,513;280,248;1082,248;1100,305;1293,305;1307,330;1307,341</points>
+         </suite>
+         <suite name="265L" basemap="fp2.jpg" ibox="970,361">
+            <points>280,513;280,248;1082,248;1100,305;1150,305;1156,329;1142,329</points>
+         </suite>
+         <suite name="265N" basemap="fp2.jpg" ibox="970,361">
+            <points>280,513;280,248;1082,248;1100,305;1150,305;1156,329;1179,329</points>
+         </suite>
+         <suite name="265O" basemap="fp2.jpg" ibox="970,361">
+            <points>280,513;280,248;1082,248;1100,305;1150,305;1156,329;1217,329</points>
+         </suite>
+         <suite name="265P" basemap="fp2.jpg" ibox="970,361">
+            <points>280,513;280,248;1082,248;1100,305;1150,305;1156,329;1244,329</points>
+         </suite>
+         <suite name="270D" basemap="fp2.jpg" ibox="1066,395">
+            <points>280,513;280,248;1082,248;1100,305;1140,305;1152,340</points>
+         </suite>
+         <suite name="270C" basemap="fp2.jpg" ibox="1000,403">
+            <points>280,513;280,248;1082,248;1100,305;1146,305;1161,357;1153,366</points>
+         </suite>
+         <suite name="270E" basemap="fp2.jpg" ibox="1115,410">
+            <points>280,513;280,248;1082,248;1100,305;1141,305;1164,366;1182,366</points>
+         </suite>
+         <suite name="270B" basemap="fp2.jpg" ibox="1115,410">
+            <points>280,513;280,248;1082,248;1100,305;1141,305;1164,366;1182,366</points>
+         </suite>
+         <suite name="270F" basemap="fp2.jpg" ibox="1138,409">
+            <points>280,513;280,248;1082,248;1100,305;1141,305;1164,366;1206,366</points>
+         </suite>
+         <suite name="270A" basemap="fp2.jpg" ibox="1138,409">
+            <points>280,513;280,248;1082,248;1100,305;1141,305;1164,366;1206,366</points>
+         </suite>
+         <suite name="270G" basemap="fp2.jpg" ibox="1138,409">
+            <points>280,513;280,248;1082,248;1100,305;1141,305;1164,366;1218,366</points>
+         </suite>
+         <suite name="270H" basemap="fp2.jpg" ibox="1138,409">
+            <points>280,513;280,248;1082,248;1100,305;1141,305;1164,366;1249,366</points>
+         </suite>
+         <suite name="270O" basemap="fp2.jpg" ibox="1138,409">
+            <points>280,513;280,248;1082,248;1100,305;1141,305;1164,366;1249,366</points>
+         </suite>
+         <suite name="376" basemap="fp3.jpg" ibox="600,43">
+            <points>278,606;278,118;671,118;671,131;663,131</points>
+         </suite>
+         <suite name="375" basemap="fp3.jpg" ibox="600,43">
+            <points>278,606;278,118;672,118;672,163;662,163</points>
+         </suite>
+         <suite name="374" basemap="fp3.jpg" ibox="608,216">
+            <points>278,606;278,118;672,118;672,184;662,184</points>
+         </suite>
+         <suite name="304A" basemap="fp3.jpg" ibox="712,109">
+            <points>278,606;278,118;672,118;672,173;679,173</points>
+         </suite>
+         <suite name="302A" basemap="fp3.jpg" ibox="712,109">
+            <points>278,606;278,118;672,118;666,206;677,206</points>
+         </suite>
+         <suite name="303A" basemap="fp3.jpg" ibox="712,109">
+            <points>278,606;278,118;672,118;672,193;684,193</points>
+         </suite>
+         <suite name="372A" basemap="fp3.jpg" ibox="697,154">
+            <points>278,606;278,118;672,118;665,202;658,202</points>
+         </suite>
+         <suite name="372" basemap="fp3.jpg" ibox="697,154">
+            <points>278,606;278,118;672,118;665,227;654,227</points>
+         </suite>
+         <suite name="371" basemap="fp3.jpg" ibox="689,174">
+            <points>278,606;278,118;672,118;663,243;656,243</points>
+         </suite>
+         <suite name="370" basemap="fp3.jpg" ibox="695,283">
+            <points>278,606;278,118;672,118;664,254</points>
+         </suite>
+         <suite name="301A" basemap="fp3.jpg" ibox="720,152">
+            <points>278,606;278,118;672,118;666,221;679,221</points>
+         </suite>
+         <suite name="300" basemap="fp3.jpg" ibox="720,152">
+            <points>278,606;278,118;672,118;666,233;676,233</points>
+         </suite>
+         <suite name="305" basemap="fp3.jpg" ibox="788,160">
+            <points>278,606;278,118;766,118;766,137;758,137</points>
+         </suite>
+         <suite name="304" basemap="fp3.jpg" ibox="788,160">
+            <points>278,606;278,118;766,118;766,174;756,174</points>
+         </suite>
+         <suite name="303" basemap="fp3.jpg" ibox="788,160">
+            <points>278,606;278,118;766,118;766,191;757,191</points>
+         </suite>
+         <suite name="302" basemap="fp3.jpg" ibox="788,160">
+            <points>278,606;278,118;766,118;766,205;756,205</points>
+         </suite>
+         <suite name="301" basemap="fp3.jpg" ibox="793,181">
+            <points>278,606;278,118;766,118;766,220;757,220</points>
+         </suite>
+         <suite name="321" basemap="fp3.jpg" ibox="760,273">
+            <points>278,606;278,118;766,118;766,215;789,215;789,226</points>
+         </suite>
+         <suite name="335" basemap="fp3.jpg" ibox="808,122">
+            <points>278,606;278,118;766,118;766,215;812,215;812,207</points>
+         </suite>
+         <suite name="337" basemap="fp3.jpg" ibox="808,122">
+            <points>278,606;278,118;766,118;766,215;846,215;846,202</points>
+         </suite>
+         <suite name="338" basemap="fp3.jpg" ibox="856,119">
+            <points>278,606;278,118;766,118;766,215;927,215;927,206</points>
+         </suite>
+         <suite name="339" basemap="fp3.jpg" ibox="902,114">
+            <points>278,606;278,118;766,118;766,215;1018,215;1011,203</points>
+         </suite>
+         <suite name="326" basemap="fp3.jpg" ibox="986,273">
+            <points>278,606;278,118;766,118;766,215;1089,215;1089,226</points>
+         </suite>
+         <suite name="325" basemap="fp3.jpg" ibox="902,269">
+            <points>278,606;278,118;766,118;766,215;1018,215;1018,226</points>
+         </suite>
+         <suite name="324" basemap="fp3.jpg" ibox="816,267">
+            <points>278,606;278,118;766,118;766,215;942,215;942,228</points>
+         </suite>
+         <suite name="322" basemap="fp3.jpg" ibox="739,264">
+            <points>278,606;278,118;766,118;766,215;861,215;861,226</points>
+         </suite>
+         <suite name="321A" basemap="fp3.jpg" ibox="795,257">
+            <points>278,606;278,118;766,118;766,215;823,215</points>
+         </suite>
+         <suite name="320" basemap="fp3.jpg" ibox="790,296">
+            <points>278,606;278,118;766,118;766,269;785,269</points>
+         </suite>
+         <suite name="320A" basemap="fp3.jpg" ibox="830,296">
+            <points>278,606;278,118;766,118;766,269;802,269;829,262;839,262</points>
+         </suite>
+         <suite name="323" basemap="fp3.jpg" ibox="910,294">
+            <points>278,606;278,118;766,118;766,218;913,218;920,253</points>
+         </suite>
+         <suite name="327" basemap="fp3.jpg" ibox="992,293">
+            <points>278,606;278,118;766,118;766,218;913,218;921,262;983,262</points>
+         </suite>
+         <suite name="305A" basemap="fp3.jpg" ibox="618,165">
+            <points>278,606;278,118;782,118;782,130</points>
+         </suite>
+         <suite name="333A" basemap="fp3.jpg" ibox="732,166">
+            <points>278,606;278,118;907,118;913,130</points>
+         </suite>
+         <suite name="332" basemap="fp3.jpg" ibox="860,166">
+            <points>278,606;278,118;1026,118;1034,131</points>
+         </suite>
+         <suite name="331" basemap="fp3.jpg" ibox="953,231">
+            <points>278,606;278,118;1116,118;1139,182;1124,182</points>
+         </suite>
+         <suite name="340" basemap="fp3.jpg" ibox="1124,219">
+            <points>278,606;278,118;1116,118;1134,175;1153,175</points>
+         </suite>
+         <suite name="342A" basemap="fp3.jpg" ibox="1014,244">
+            <points>278,606;278,118;1116,118;1147,203;1196,203;1196,217</points>
+         </suite>
+         <suite name="342B" basemap="fp3.jpg" ibox="1048,243">
+            <points>278,606;278,118;1116,118;1147,203;1196,203;1196,214;1227,214</points>
+         </suite>
+         <suite name="342C" basemap="fp3.jpg" ibox="1048,243">
+            <points>278,606;278,118;1116,118;1147,203;1196,203;1196,214;1227,214;1279,230</points>
+         </suite>
+         <suite name="342D" basemap="fp3.jpg" ibox="1083,238">
+            <points>278,606;278,118;1116,118;1147,203;1236,203</points>
+         </suite>
+         <suite name="342G" basemap="fp3.jpg" ibox="1111,234">
+            <points>278,606;278,118;1116,118;1147,203;1236,203;1236,193</points>
+         </suite>
+         <suite name="362" basemap="fp3.jpg" ibox="977,146">
+            <points>278,606;278,118;1175,118;1175,129</points>
+         </suite>
+         <suite name="360" basemap="fp3.jpg" ibox="1017,144">
+            <points>278,606;278,118;1213,118;1222,138</points>
+         </suite>
+         <suite name="360A" basemap="fp3.jpg" ibox="1022,140">
+            <points>278,606;278,118;1213,118;1224,142;1248,159</points>
+         </suite>
+         <suite name="358" basemap="fp3.jpg" ibox="1112,155">
+            <points>278,606;278,118;1262,118</points>
+         </suite>
+         <suite name="357" basemap="fp3.jpg" ibox="1112,155">
+            <points>278,606;278,118;1262,118;1284,126</points>
+         </suite>
+         <suite name="356" basemap="fp3.jpg" ibox="1113,176">
+            <points>278,606;278,118;1262,118;1281,124;1297,153;1304,153</points>
+         </suite>
+         <suite name="355" basemap="fp3.jpg" ibox="1113,176">
+            <points>278,606;278,118;1262,118;1281,124;1307,174;1313,174</points>
+         </suite>
+         <suite name="354" basemap="fp3.jpg" ibox="1113,176">
+            <points>278,606;278,118;1262,118;1281,124;1318,194;1327,194</points>
+         </suite>
+         <suite name="353" basemap="fp3.jpg" ibox="1113,176">
+            <points>278,606;278,118;1262,118;1281,124;1328,214;1336,214</points>
+         </suite>
+         <suite name="352" basemap="fp3.jpg" ibox="1120,195">
+            <points>278,606;278,118;1262,118;1281,124;1342,237;1351,237</points>
+         </suite>
+         <suite name="351" basemap="fp3.jpg" ibox="1169,276">
+            <points>278,606;278,118;1262,118;1281,124;1342,237;1366,262</points>
+         </suite>
+         <suite name="359" basemap="fp3.jpg" ibox="1087,150">
+            <points>278,606;278,118;1262,118;1292,129;1283,137</points>
+         </suite>
+         <suite name="361" basemap="fp3.jpg" ibox="1087,150">
+            <points>278,606;278,118;1262,118;1292,129;1309,164;1296,164</points>
+         </suite>
+         <suite name="342E" basemap="fp3.jpg" ibox="1112,187">
+            <points>278,606;278,118;1262,118;1292,129;1324,199;1315,199</points>
+         </suite>
+         <suite name="420" basemap="fp4-1041.jpg" ibox="1236,136">
+            <points>281,607;296,356;765,356;765,454;1095,454;1084,186;1123,186;1123,178;1155,178</points>
+         </suite>
+         <suite name="418" basemap="fp4-1041.jpg" ibox="1236,136">
+            <points>281,607;296,356;765,356;765,454;1095,454;1084,186;1123,186;1123,178;1155,178;1170,188</points>
+         </suite>
+         <suite name="401" basemap="fp4-1041.jpg" ibox="918,73">
+            <points>281,607;296,356;765,356;765,454;1095,454;1084,186;1123,186;1123,171</points>
+         </suite>
+         <suite name="401A" basemap="fp4-1041.jpg" ibox="918,73">
+            <points>281,607;296,356;765,356;765,454;1095,454;1084,186;1123,186;1123,171</points>
+         </suite>
+         <suite name="402" basemap="fp4-1041.jpg" ibox="918,73">
+            <points>281,607;296,356;765,356;765,454;1095,454;1084,186;1053,186;1053,177</points>
+         </suite>
+         <suite name="403" basemap="fp4-1041.jpg" ibox="918,73">
+            <points>281,607;296,356;765,356;765,454;1095,454;1084,186;1028,186;1028,180</points>
+         </suite>
+         <suite name="404" basemap="fp4-1041.jpg" ibox="883,81">
+            <points>281,607;296,356;765,356;765,454;1095,454;1084,186;1020,186</points>
+         </suite>
+         <suite name="415" basemap="fp4-1041.jpg" ibox="883,81">
+            <points>281,607;296,356;765,356;765,454;1095,454;1084,186;1020,186</points>
+         </suite>
+         <suite name="414" basemap="fp4-1041.jpg" ibox="883,81">
+            <points>281,607;296,356;765,356;765,454;1095,454;1084,186;988,186</points>
+         </suite>
+         <suite name="413" basemap="fp4-1041.jpg" ibox="883,81">
+            <points>281,607;296,356;765,356;765,454;1095,454;1084,186;959,186;948,193</points>
+         </suite>
+         <suite name="405" basemap="fp4-1041.jpg" ibox="883,81">
+            <points>281,607;296,356;765,356;765,454;1095,454;1084,186;959,186;951,164</points>
+         </suite>
+         <suite name="407" basemap="fp4-1041.jpg" ibox="808,82">
+            <points>281,607;296,356;765,356;765,454;1095,454;1084,186;951,186;941,179</points>
+         </suite>
+         <suite name="412" basemap="fp4-1041.jpg" ibox="808,82">
+            <points>281,607;296,356;765,356;765,454;1095,454;1084,186;917,186</points>
+         </suite>
+         <suite name="411" basemap="fp4-1041.jpg" ibox="808,82">
+            <points>281,607;296,356;765,356;765,454;1095,454;1084,186;895,186</points>
+         </suite>
+         <suite name="408" basemap="fp4-1041.jpg" ibox="808,82">
+            <points>281,607;296,356;765,356;765,454;1095,454;1084,186;895,186</points>
+         </suite>
+         <suite name="409" basemap="fp4-1041.jpg" ibox="659,215">
+            <points>281,607;296,356;765,356;765,454;1095,454;1084,186;868,186</points>
+         </suite>
+         <suite name="410" basemap="fp4-1041.jpg" ibox="659,215">
+            <points>281,607;296,356;765,356;765,454;1095,454;1084,186;868,186</points>
+         </suite>
+      </building>
+   </paths>
+   <speed>8</speed>
+</dataroot>

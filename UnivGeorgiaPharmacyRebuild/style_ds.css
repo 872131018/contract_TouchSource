@@ -1,0 +1,97 @@
+body {background-color: #960001}
+
+table.OnePixelBorder {background-color: #708174 }
+
+tr.bgHeader {background-color: #960001 }
+
+tr.bgRow1 {background-color: #292f2a }
+
+tr.bgRow2 {background-color: #3b433d }
+
+tr.bgPropHead {background-color: #960001 }
+
+.headLarge {font-family:  Optima LT, Futura LT Book, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 30px;
+		font-weight: bold;
+		margin-left: 12px; margin-right: 12px }
+
+.headMed {font-family:  Optima LT, Futura LT Book, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 28px;
+		font-weight: bold;
+		margin-left: 12px; margin-right: 12px }
+
+.listLarge {font-family:  Optima LT, Futura LT Book, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 26px;
+		font-weight: normal;
+		margin-left: 12px; margin-right: 12px }
+
+.listMed {font-family:  Optima LT, Futura LT Book, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 22px;
+		font-weight: normal;
+		margin-left: 12px; margin-right: 12px }
+
+.listSmall {font-family: Optima LT, Futura LT Book, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 22px;
+		font-weight: normal;
+		margin-left: 12px; margin-right: 12px }
+
+.listXS {font-family:  Optima LT, Futura LT Book, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 14px;
+		font-weight: normal;
+		margin-left: 12px; margin-right: 12px }
+
+table.Mgmt {position:absolute; left:130px; top:152px; }
+table.Leas {position:absolute; left:790px; top:152px; }
+td.PropHdrHeight  {height:0; }
+td.HdrSize  {width:516; height:60; }
+td.BoxSize  {width:516; height:480; }
+
+table.SpaceBtn {position:absolute; left:547px; top:827px; }
+td.SpaceSize  {width:340; height:101; }
+
+.headProperty {font-family: Futura LT Book, Optima LT, Arial, sans-serif;
+		color: #ffffff;
+		font-size: 36px;
+		font-weight: normal }
+
+.headBox {font-family: Futura LT Book, Palatino, Times, serif;
+		color: #ffffff;
+		font-size: 30px;
+		font-weight: bold }
+
+td.setOne1 { width: 40%; padding:12; height:80 }
+td.setOne2 { width: 20%; padding:12; height:80 }
+td.setOne3 { width: 20%; padding:12; height:80 }
+td.setOne4 { width: 20%; padding:12; height:80 }
+td.setOne5 { width: 0%; padding:0; height:80 }
+
+td.setTwo1 { width: 25%; padding:8; height:50 }
+td.setTwo2 { width: 30%; padding:8; height:50 }
+td.setTwo3 { width: 15%; padding:8; height:50 }
+td.setTwo4 { width: 15%; padding:8; height:50 }
+td.setTwo5 { width: 15%; padding:8; height:50 }
+
+td.setThree1 { width: 40%; padding:12; height:70 }
+td.setThree2 { width: 60%; padding:12; height:70 }
+td.setThree3 { width: 0%; padding:0; height:70 }
+td.setThree4 { width: 0%; padding:0; height:70 }
+td.setThree5 { width: 0%; padding:0; height:70 }
+
+td.setFour1 { width: 15%; padding:8; height:60 }
+td.setFour2 { width: 15%; padding:8; height:60 }
+td.setFour3 { width: 15%; padding:8; height:60 }
+td.setFour4 { width: 20%; padding:8; height:60 }
+td.setFour5 { width: 35%; padding:8; height:60 }
+
+td.setFive1 { width: 40%; padding:10; height:60 }
+td.setFive2 { width: 20%; padding:10; height:60 }
+td.setFive3 { width: 20%; padding:10; height:60 }
+td.setFive4 { width: 20%; padding:10; height:60 }
+td.setFive5 { width: 0%; padding:0; height:60 }
+
